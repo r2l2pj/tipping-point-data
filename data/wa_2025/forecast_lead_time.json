@@ -1,0 +1,161 @@
+{
+  "case": "wa_2025",
+  "skipped_issue_days": [
+    "2025-11-30"
+  ],
+  "skipped_reason": "no SMAP S for D-1 (series starts at the window start)",
+  "alignment": "L28b: issue D 00Z; observed IMERG days <= D-1 only; GFS D 00Z run calendar days D..D+3; frame D+k = 3-day sum ending D+k",
+  "basis": "GFS-forecast replay TPI: R_fc = score(3-day sum ending D+k: obs IMERG days <= D-1 + GFS days D..D+k) vs case climatology, S held at D-1, T static; critical = AOI max over slide/flood > 0.6 for depicted date <= anchor",
+  "anchor_utc": "2025-12-09 00:35:00+00:00",
+  "issue_days": [
+    {
+      "issue": "2025-12-01",
+      "earliest_critical_k": null,
+      "first_critical_date": null,
+      "warned": false,
+      "lead_h": null
+    },
+    {
+      "issue": "2025-12-02",
+      "earliest_critical_k": null,
+      "first_critical_date": null,
+      "warned": false,
+      "lead_h": null
+    },
+    {
+      "issue": "2025-12-03",
+      "earliest_critical_k": 3,
+      "first_critical_date": "2025-12-06",
+      "warned": true,
+      "lead_h": 144.58333333333334
+    },
+    {
+      "issue": "2025-12-04",
+      "earliest_critical_k": 2,
+      "first_critical_date": "2025-12-06",
+      "warned": true,
+      "lead_h": 120.58333333333333
+    },
+    {
+      "issue": "2025-12-05",
+      "earliest_critical_k": 1,
+      "first_critical_date": "2025-12-06",
+      "warned": true,
+      "lead_h": 96.58333333333333
+    },
+    {
+      "issue": "2025-12-06",
+      "earliest_critical_k": 1,
+      "first_critical_date": "2025-12-07",
+      "warned": true,
+      "lead_h": 72.58333333333333
+    },
+    {
+      "issue": "2025-12-07",
+      "earliest_critical_k": 1,
+      "first_critical_date": "2025-12-08",
+      "warned": true,
+      "lead_h": 48.583333333333336
+    },
+    {
+      "issue": "2025-12-08",
+      "earliest_critical_k": 1,
+      "first_critical_date": "2025-12-09",
+      "warned": true,
+      "lead_h": 24.583333333333332
+    },
+    {
+      "issue": "2025-12-09",
+      "earliest_critical_k": null,
+      "first_critical_date": null,
+      "warned": false,
+      "lead_h": null
+    },
+    {
+      "issue": "2025-12-10",
+      "earliest_critical_k": null,
+      "first_critical_date": null,
+      "warned": false,
+      "lead_h": null
+    },
+    {
+      "issue": "2025-12-11",
+      "earliest_critical_k": null,
+      "first_critical_date": null,
+      "warned": false,
+      "lead_h": null
+    },
+    {
+      "issue": "2025-12-12",
+      "earliest_critical_k": null,
+      "first_critical_date": null,
+      "warned": false,
+      "lead_h": null
+    },
+    {
+      "issue": "2025-12-13",
+      "earliest_critical_k": null,
+      "first_critical_date": null,
+      "warned": false,
+      "lead_h": null
+    },
+    {
+      "issue": "2025-12-14",
+      "earliest_critical_k": null,
+      "first_critical_date": null,
+      "warned": false,
+      "lead_h": null
+    },
+    {
+      "issue": "2025-12-15",
+      "earliest_critical_k": null,
+      "first_critical_date": null,
+      "warned": false,
+      "lead_h": null
+    },
+    {
+      "issue": "2025-12-16",
+      "earliest_critical_k": null,
+      "first_critical_date": null,
+      "warned": false,
+      "lead_h": null
+    },
+    {
+      "issue": "2025-12-17",
+      "earliest_critical_k": null,
+      "first_critical_date": null,
+      "warned": false,
+      "lead_h": null
+    },
+    {
+      "issue": "2025-12-18",
+      "earliest_critical_k": null,
+      "first_critical_date": null,
+      "warned": false,
+      "lead_h": null
+    },
+    {
+      "issue": "2025-12-19",
+      "earliest_critical_k": null,
+      "first_critical_date": null,
+      "warned": false,
+      "lead_h": null
+    },
+    {
+      "issue": "2025-12-20",
+      "earliest_critical_k": null,
+      "first_critical_date": null,
+      "warned": false,
+      "lead_h": null
+    }
+  ],
+  "earliest_critical_issue": "2025-12-03",
+  "would_have_warned_h": 144.58333333333334,
+  "lead_h_median": 84.58333333333333,
+  "lead_h_iqr": [
+    54.583333333333336,
+    114.58333333333333
+  ],
+  "n_warned": 6,
+  "n_issue_days": 20
+}

@@ -1,0 +1,6452 @@
+{
+  "layers": [
+    {
+      "id": "tpi_slide",
+      "date": "2025-11-30",
+      "png": "wa_2025/png/tpi_slide_20251130.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-01",
+      "png": "wa_2025/png/tpi_slide_20251201.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-02",
+      "png": "wa_2025/png/tpi_slide_20251202.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-03",
+      "png": "wa_2025/png/tpi_slide_20251203.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-04",
+      "png": "wa_2025/png/tpi_slide_20251204.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-05",
+      "png": "wa_2025/png/tpi_slide_20251205.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-06",
+      "png": "wa_2025/png/tpi_slide_20251206.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-07",
+      "png": "wa_2025/png/tpi_slide_20251207.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-08",
+      "png": "wa_2025/png/tpi_slide_20251208.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-09",
+      "png": "wa_2025/png/tpi_slide_20251209.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-10",
+      "png": "wa_2025/png/tpi_slide_20251210.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-11",
+      "png": "wa_2025/png/tpi_slide_20251211.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-12",
+      "png": "wa_2025/png/tpi_slide_20251212.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-13",
+      "png": "wa_2025/png/tpi_slide_20251213.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-14",
+      "png": "wa_2025/png/tpi_slide_20251214.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-15",
+      "png": "wa_2025/png/tpi_slide_20251215.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-16",
+      "png": "wa_2025/png/tpi_slide_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-17",
+      "png": "wa_2025/png/tpi_slide_20251217.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-18",
+      "png": "wa_2025/png/tpi_slide_20251218.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-19",
+      "png": "wa_2025/png/tpi_slide_20251219.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide",
+      "date": "2025-12-20",
+      "png": "wa_2025/png/tpi_slide_20251220.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_slide_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-11-30",
+      "png": "wa_2025/png/tpi_flood_20251130.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-01",
+      "png": "wa_2025/png/tpi_flood_20251201.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-02",
+      "png": "wa_2025/png/tpi_flood_20251202.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-03",
+      "png": "wa_2025/png/tpi_flood_20251203.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-04",
+      "png": "wa_2025/png/tpi_flood_20251204.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-05",
+      "png": "wa_2025/png/tpi_flood_20251205.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-06",
+      "png": "wa_2025/png/tpi_flood_20251206.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-07",
+      "png": "wa_2025/png/tpi_flood_20251207.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-08",
+      "png": "wa_2025/png/tpi_flood_20251208.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-09",
+      "png": "wa_2025/png/tpi_flood_20251209.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-10",
+      "png": "wa_2025/png/tpi_flood_20251210.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-11",
+      "png": "wa_2025/png/tpi_flood_20251211.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-12",
+      "png": "wa_2025/png/tpi_flood_20251212.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-13",
+      "png": "wa_2025/png/tpi_flood_20251213.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-14",
+      "png": "wa_2025/png/tpi_flood_20251214.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-15",
+      "png": "wa_2025/png/tpi_flood_20251215.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-16",
+      "png": "wa_2025/png/tpi_flood_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-17",
+      "png": "wa_2025/png/tpi_flood_20251217.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-18",
+      "png": "wa_2025/png/tpi_flood_20251218.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-19",
+      "png": "wa_2025/png/tpi_flood_20251219.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_flood",
+      "date": "2025-12-20",
+      "png": "wa_2025/png/tpi_flood_20251220.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": false
+    },
+    {
+      "id": "tpi_slide_d1",
+      "date": "2025-12-11",
+      "png": "wa_2025/png/tpi_slide_d1_20251211.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_forecast_d1_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true
+    },
+    {
+      "id": "tpi_flood_d1",
+      "date": "2025-12-11",
+      "png": "wa_2025/png/tpi_flood_d1_20251211.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_forecast_d1_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true
+    },
+    {
+      "id": "tpi_slide_d2",
+      "date": "2025-12-12",
+      "png": "wa_2025/png/tpi_slide_d2_20251212.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_forecast_d2_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true
+    },
+    {
+      "id": "tpi_flood_d2",
+      "date": "2025-12-12",
+      "png": "wa_2025/png/tpi_flood_d2_20251212.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_forecast_d2_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true
+    },
+    {
+      "id": "tpi_slide_d3",
+      "date": "2025-12-13",
+      "png": "wa_2025/png/tpi_slide_d3_20251213.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_forecast_d3_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true
+    },
+    {
+      "id": "tpi_flood_d3",
+      "date": "2025-12-13",
+      "png": "wa_2025/png/tpi_flood_d3_20251213.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_forecast_d3_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true
+    },
+    {
+      "id": "nisar_pre",
+      "date": "2025-12-04",
+      "png": "wa_2025/png/nisar_pre_20251204.png",
+      "cog": "wa_2025/cog/wa_2025_nisar_pre_20251204_60m.tif",
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "forecast": false,
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "track": "172D",
+      "mode": "4005_DHDH_A",
+      "frames": [
+        64,
+        65
+      ],
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 172D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_006_172_D_064_4005_DHDH_A_20251204T031815_20251204T031850_X05009_N_F_J_001",
+        "NISAR_L2_PR_GCOV_006_172_D_065_4005_DHDH_A_20251204T031849_20251204T031924_P05023_N_F_J_001"
+      ],
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1, NISAR_L2_GCOV_PROVISIONAL_V1)",
+      "polarization": "HH",
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "kind": "nisar_frame",
+      "coverage_pct": 100.0
+    },
+    {
+      "id": "nisar_post",
+      "date": "2025-12-16",
+      "png": "wa_2025/png/nisar_post_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_nisar_post_20251216_60m.tif",
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "forecast": false,
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "track": "172D",
+      "mode": "4005_DHDH_A",
+      "frames": [
+        64,
+        65
+      ],
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 172D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_007_172_D_064_4005_DHDH_A_20251216T031815_20251216T031850_X05009_N_F_J_001",
+        "NISAR_L2_PR_GCOV_007_172_D_065_4005_DHDH_A_20251216T031849_20251216T031924_P05023_N_F_J_001"
+      ],
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1, NISAR_L2_GCOV_PROVISIONAL_V1)",
+      "polarization": "HH",
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "kind": "nisar_frame",
+      "coverage_pct": 100.0
+    },
+    {
+      "id": "nisar_ref",
+      "date": "2025-11-10",
+      "png": "wa_2025/png/nisar_ref_20251110.png",
+      "cog": "wa_2025/cog/wa_2025_nisar_ref_20251110_60m.tif",
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "forecast": false,
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "track": "172D",
+      "mode": "4005_DHDH_A",
+      "frames": [
+        64,
+        65
+      ],
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 172D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_004_172_D_064_4005_DHDH_A_20251110T031814_20251110T031849_X05009_N_F_J_001",
+        "NISAR_L2_PR_GCOV_004_172_D_065_4005_DHDH_A_20251110T031848_20251110T031923_P05023_N_F_J_001"
+      ],
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1, NISAR_L2_GCOV_PROVISIONAL_V1)",
+      "polarization": "HH",
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "kind": "nisar_frame",
+      "coverage_pct": 100.0
+    },
+    {
+      "id": "opera_validation",
+      "date": "2025-12-16",
+      "png": "wa_2025/png/opera_validation_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_opera_validation_20251216.tif",
+      "bounds": [
+        -122.6,
+        46.999843,
+        -121.499877,
+        48.501347
+      ],
+      "forecast": false,
+      "legend": [
+        "Sem dados",
+        "TP — ambos",
+        "FP — só NISAR",
+        "FN — só OPERA"
+      ]
+    },
+    {
+      "id": "night_lights_pre",
+      "date": "2025-12-10",
+      "png": "wa_2025/png/night_lights_pre_20251210.png",
+      "cog": null,
+      "bounds": [
+        -122.60207,
+        46.998783,
+        -121.49758,
+        48.500042
+      ]
+    },
+    {
+      "id": "night_lights_post",
+      "date": "2025-12-10",
+      "png": "wa_2025/png/night_lights_post_20251210.png",
+      "cog": null,
+      "bounds": [
+        -122.60207,
+        46.998783,
+        -121.49758,
+        48.500042
+      ]
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-02",
+      "issued": "2025-12-01",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251202.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251201.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-02",
+      "issued": "2025-12-01",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251202.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251201.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-03",
+      "issued": "2025-12-01",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251203.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251201.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-03",
+      "issued": "2025-12-01",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251203.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251201.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-04",
+      "issued": "2025-12-01",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251204.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251201.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-04",
+      "issued": "2025-12-01",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251204.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251201.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-03",
+      "issued": "2025-12-02",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251203.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251202.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-03",
+      "issued": "2025-12-02",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251203.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251202.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-04",
+      "issued": "2025-12-02",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251204.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251202.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-04",
+      "issued": "2025-12-02",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251204.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251202.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-05",
+      "issued": "2025-12-02",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251205.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251202.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-05",
+      "issued": "2025-12-02",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251205.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251202.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-04",
+      "issued": "2025-12-03",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251204.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251203.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-04",
+      "issued": "2025-12-03",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251204.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251203.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-05",
+      "issued": "2025-12-03",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251205.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251203.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 4.521,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-05",
+      "issued": "2025-12-03",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251205.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251203.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-06",
+      "issued": "2025-12-03",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251206.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251203.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 905.213,
+      "people_critical": 458
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-06",
+      "issued": "2025-12-03",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251206.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251203.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 10.88,
+      "people_critical": 1427
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-05",
+      "issued": "2025-12-04",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251205.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251204.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-05",
+      "issued": "2025-12-04",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251205.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251204.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-06",
+      "issued": "2025-12-04",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251206.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251204.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 869.9,
+      "people_critical": 438
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-06",
+      "issued": "2025-12-04",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251206.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251204.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 17.041,
+      "people_critical": 823
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-07",
+      "issued": "2025-12-04",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251207.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251204.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 1197.263,
+      "people_critical": 580
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-07",
+      "issued": "2025-12-04",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251207.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251204.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 25.332,
+      "people_critical": 1656
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-06",
+      "issued": "2025-12-05",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251206.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251205.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 143.709,
+      "people_critical": 89
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-06",
+      "issued": "2025-12-05",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251206.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251205.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 5.869,
+      "people_critical": 46
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-07",
+      "issued": "2025-12-05",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251207.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251205.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 229.075,
+      "people_critical": 82
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-07",
+      "issued": "2025-12-05",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251207.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251205.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 7.259,
+      "people_critical": 59
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-08",
+      "issued": "2025-12-05",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251208.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251205.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 943.845,
+      "people_critical": 344
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-08",
+      "issued": "2025-12-05",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251208.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251205.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 19.051,
+      "people_critical": 370
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-07",
+      "issued": "2025-12-06",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251207.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251206.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 150.047,
+      "people_critical": 75
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-07",
+      "issued": "2025-12-06",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251207.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251206.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 10.186,
+      "people_critical": 117
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-08",
+      "issued": "2025-12-06",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251208.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251206.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 787.369,
+      "people_critical": 318
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-08",
+      "issued": "2025-12-06",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251208.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251206.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 19.252,
+      "people_critical": 370
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-09",
+      "issued": "2025-12-06",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251209.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251206.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 236.321,
+      "people_critical": 25
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-09",
+      "issued": "2025-12-06",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251209.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251206.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.485,
+      "people_critical": 19
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-08",
+      "issued": "2025-12-07",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251208.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251207.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 42.196,
+      "people_critical": 3
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-08",
+      "issued": "2025-12-07",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251208.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251207.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 1.048,
+      "people_critical": 11
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-09",
+      "issued": "2025-12-07",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251209.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251207.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 527.117,
+      "people_critical": 189
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-09",
+      "issued": "2025-12-07",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251209.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251207.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 3.125,
+      "people_critical": 333
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-10",
+      "issued": "2025-12-07",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251210.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251207.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 746.207,
+      "people_critical": 406
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-10",
+      "issued": "2025-12-07",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251210.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251207.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 10.668,
+      "people_critical": 3516
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-09",
+      "issued": "2025-12-08",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251209.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251208.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 570.383,
+      "people_critical": 166
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-09",
+      "issued": "2025-12-08",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251209.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251208.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 2.232,
+      "people_critical": 8
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-10",
+      "issued": "2025-12-08",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251210.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251208.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 1698.208,
+      "people_critical": 1284
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-10",
+      "issued": "2025-12-08",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251210.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251208.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 66.171,
+      "people_critical": 10375
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-11",
+      "issued": "2025-12-08",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251211.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251208.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 1668.72,
+      "people_critical": 1570
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-11",
+      "issued": "2025-12-08",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251211.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251208.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 69.927,
+      "people_critical": 10889
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-10",
+      "issued": "2025-12-09",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251210.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251209.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 2194.776,
+      "people_critical": 3473
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-10",
+      "issued": "2025-12-09",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251210.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251209.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 164.418,
+      "people_critical": 32062
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-11",
+      "issued": "2025-12-09",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251211.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251209.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 2327.519,
+      "people_critical": 5421
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-11",
+      "issued": "2025-12-09",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251211.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251209.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 238.928,
+      "people_critical": 48970
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-12",
+      "issued": "2025-12-09",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251212.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251209.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 2141.596,
+      "people_critical": 2988
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-12",
+      "issued": "2025-12-09",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251212.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251209.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 154.597,
+      "people_critical": 24639
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-11",
+      "issued": "2025-12-10",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251211.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 2418.646,
+      "people_critical": 8201
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-11",
+      "issued": "2025-12-10",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251211.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 297.955,
+      "people_critical": 81607
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-12",
+      "issued": "2025-12-10",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251212.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 2070.692,
+      "people_critical": 2989
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-12",
+      "issued": "2025-12-10",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251212.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 118.235,
+      "people_critical": 23485
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-13",
+      "issued": "2025-12-10",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251213.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 7.804,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-13",
+      "issued": "2025-12-10",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251213.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-12",
+      "issued": "2025-12-11",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251212.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251211.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 2430.817,
+      "people_critical": 4584
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-12",
+      "issued": "2025-12-11",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251212.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251211.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 283.383,
+      "people_critical": 46844
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-13",
+      "issued": "2025-12-11",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251213.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251211.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 404.688,
+      "people_critical": 117
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-13",
+      "issued": "2025-12-11",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251213.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251211.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 3.184,
+      "people_critical": 2
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-14",
+      "issued": "2025-12-11",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251214.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251211.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-14",
+      "issued": "2025-12-11",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251214.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251211.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-13",
+      "issued": "2025-12-12",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251213.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251212.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-13",
+      "issued": "2025-12-12",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251213.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251212.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-14",
+      "issued": "2025-12-12",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251214.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251212.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-14",
+      "issued": "2025-12-12",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251214.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251212.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-15",
+      "issued": "2025-12-12",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251215.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251212.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-15",
+      "issued": "2025-12-12",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251215.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251212.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-14",
+      "issued": "2025-12-13",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251214.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251213.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-14",
+      "issued": "2025-12-13",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251214.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251213.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-15",
+      "issued": "2025-12-13",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251215.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251213.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-15",
+      "issued": "2025-12-13",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251215.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251213.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-16",
+      "issued": "2025-12-13",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251213.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 706.275,
+      "people_critical": 206
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-16",
+      "issued": "2025-12-13",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251213.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 7.826,
+      "people_critical": 54
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-15",
+      "issued": "2025-12-14",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251215.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251214.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-15",
+      "issued": "2025-12-14",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251215.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251214.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-16",
+      "issued": "2025-12-14",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251214.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 832.338,
+      "people_critical": 321
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-16",
+      "issued": "2025-12-14",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251214.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 19.645,
+      "people_critical": 372
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-17",
+      "issued": "2025-12-14",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251217.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251214.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 2234.519,
+      "people_critical": 4123
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-17",
+      "issued": "2025-12-14",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251217.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251214.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 179.253,
+      "people_critical": 34262
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-16",
+      "issued": "2025-12-15",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251215.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 1436.941,
+      "people_critical": 838
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-16",
+      "issued": "2025-12-15",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251215.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 39.426,
+      "people_critical": 2510
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-17",
+      "issued": "2025-12-15",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251217.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251215.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 2311.884,
+      "people_critical": 5917
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-17",
+      "issued": "2025-12-15",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251217.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251215.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 203.181,
+      "people_critical": 60320
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-18",
+      "issued": "2025-12-15",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251218.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251215.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 1487.974,
+      "people_critical": 502
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-18",
+      "issued": "2025-12-15",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251218.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251215.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 24.595,
+      "people_critical": 412
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-17",
+      "issued": "2025-12-16",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251217.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251216.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 1559.353,
+      "people_critical": 1092
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-17",
+      "issued": "2025-12-16",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251217.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251216.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 47.627,
+      "people_critical": 7859
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-18",
+      "issued": "2025-12-16",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251218.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251216.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 1272.813,
+      "people_critical": 451
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-18",
+      "issued": "2025-12-16",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251218.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251216.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 19.823,
+      "people_critical": 271
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-19",
+      "issued": "2025-12-16",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251219.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251216.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 1604.014,
+      "people_critical": 806
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-19",
+      "issued": "2025-12-16",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251219.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251216.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 28.544,
+      "people_critical": 1896
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-18",
+      "issued": "2025-12-17",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251218.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251217.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 652.755,
+      "people_critical": 210
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-18",
+      "issued": "2025-12-17",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251218.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251217.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 2.326,
+      "people_critical": 28
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-19",
+      "issued": "2025-12-17",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251219.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251217.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 1817.364,
+      "people_critical": 2195
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-19",
+      "issued": "2025-12-17",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251219.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251217.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 87.107,
+      "people_critical": 16131
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-20",
+      "issued": "2025-12-17",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251220.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251217.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 822.567,
+      "people_critical": 121
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-20",
+      "issued": "2025-12-17",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251220.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251217.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 4.65,
+      "people_critical": 14
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-19",
+      "issued": "2025-12-18",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251219.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251218.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 1091.716,
+      "people_critical": 362
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-19",
+      "issued": "2025-12-18",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251219.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251218.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 6.554,
+      "people_critical": 529
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-20",
+      "issued": "2025-12-18",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251220.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251218.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 644.26,
+      "people_critical": 132
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-20",
+      "issued": "2025-12-18",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251220.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251218.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 8.271,
+      "people_critical": 59
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-21",
+      "issued": "2025-12-18",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251221.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251218.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 628.193,
+      "people_critical": 187
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-21",
+      "issued": "2025-12-18",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251221.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251218.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 9.933,
+      "people_critical": 88
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-20",
+      "issued": "2025-12-19",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251220.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251219.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 429.217,
+      "people_critical": 65
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-20",
+      "issued": "2025-12-19",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251220.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251219.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 1.184,
+      "people_critical": 7
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-21",
+      "issued": "2025-12-19",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251221.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251219.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 891.84,
+      "people_critical": 353
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-21",
+      "issued": "2025-12-19",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251221.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251219.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 19.63,
+      "people_critical": 389
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-22",
+      "issued": "2025-12-19",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251222.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251219.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 195.746,
+      "people_critical": 67
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-22",
+      "issued": "2025-12-19",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251222.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251219.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 5.063,
+      "people_critical": 38
+    },
+    {
+      "id": "tpi_slide_gfs_d1",
+      "date": "2025-12-21",
+      "issued": "2025-12-20",
+      "png": "wa_2025/png/tpi_slide_gfs_d1_20251221.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251220.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_flood_gfs_d1",
+      "date": "2025-12-21",
+      "issued": "2025-12-20",
+      "png": "wa_2025/png/tpi_flood_gfs_d1_20251221.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251220.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.0,
+      "people_critical": 0
+    },
+    {
+      "id": "tpi_slide_gfs_d2",
+      "date": "2025-12-22",
+      "issued": "2025-12-20",
+      "png": "wa_2025/png/tpi_slide_gfs_d2_20251222.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251220.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 237.347,
+      "people_critical": 95
+    },
+    {
+      "id": "tpi_flood_gfs_d2",
+      "date": "2025-12-22",
+      "issued": "2025-12-20",
+      "png": "wa_2025/png/tpi_flood_gfs_d2_20251222.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251220.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 6.748,
+      "people_critical": 52
+    },
+    {
+      "id": "tpi_slide_gfs_d3",
+      "date": "2025-12-23",
+      "issued": "2025-12-20",
+      "png": "wa_2025/png/tpi_slide_gfs_d3_20251223.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251220.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 48.283,
+      "people_critical": 26
+    },
+    {
+      "id": "tpi_flood_gfs_d3",
+      "date": "2025-12-23",
+      "issued": "2025-12-20",
+      "png": "wa_2025/png/tpi_flood_gfs_d3_20251223.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_gfs_20251220.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "forecast": true,
+      "forecast_source": "noaa-gfs",
+      "kind": "forecast",
+      "critical_km2": 0.128,
+      "people_critical": 0
+    },
+    {
+      "id": "nisar_hh_change",
+      "date": "2025-12-16",
+      "png": "wa_2025/png/nisar_hh_change_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_nisar_hh_change_20251216_60m.tif",
+      "bounds": [
+        -122.612106,
+        46.990354,
+        -121.455735,
+        48.509603
+      ],
+      "forecast": false,
+      "kind": "observed",
+      "legend": [
+        "darker (−6 dB): water / smooth",
+        "no change",
+        "brighter (+6 dB): double-bounce / vegetation"
+      ]
+    },
+    {
+      "id": "nisar_hv_change",
+      "date": "2025-12-16",
+      "png": "wa_2025/png/nisar_hv_change_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_nisar_hv_change_20251216_60m.tif",
+      "bounds": [
+        -122.612106,
+        46.990354,
+        -121.455735,
+        48.509603
+      ],
+      "forecast": false,
+      "kind": "observed",
+      "legend": [
+        "darker (−6 dB): water / smooth",
+        "no change",
+        "brighter (+6 dB): double-bounce / vegetation"
+      ]
+    },
+    {
+      "id": "nisar_hv_pre",
+      "date": "2025-12-04",
+      "png": "wa_2025/png/nisar_hv_pre_20251204.png",
+      "cog": "wa_2025/cog/wa_2025_nisar_hv_pre_20251204_60m.tif",
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "forecast": false,
+      "kind": "nisar_frame",
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "db_range": [
+        -23.62,
+        -7.92
+      ],
+      "track": "172D",
+      "mode": "4005_DHDH_A",
+      "frames": [
+        64,
+        65
+      ],
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 172D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_006_172_D_064_4005_DHDH_A_20251204T031815_20251204T031850_X05009_N_F_J_001",
+        "NISAR_L2_PR_GCOV_006_172_D_065_4005_DHDH_A_20251204T031849_20251204T031924_P05023_N_F_J_001"
+      ],
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1, NISAR_L2_GCOV_PROVISIONAL_V1)",
+      "polarization": "HV",
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "coverage_pct": 100.0
+    },
+    {
+      "id": "nisar_hv_post",
+      "date": "2025-12-16",
+      "png": "wa_2025/png/nisar_hv_post_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_nisar_hv_post_20251216_60m.tif",
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "forecast": false,
+      "kind": "nisar_frame",
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "db_range": [
+        -23.59,
+        -7.47
+      ],
+      "track": "172D",
+      "mode": "4005_DHDH_A",
+      "frames": [
+        64,
+        65
+      ],
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 172D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_007_172_D_064_4005_DHDH_A_20251216T031815_20251216T031850_X05009_N_F_J_001",
+        "NISAR_L2_PR_GCOV_007_172_D_065_4005_DHDH_A_20251216T031849_20251216T031924_P05023_N_F_J_001"
+      ],
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1, NISAR_L2_GCOV_PROVISIONAL_V1)",
+      "polarization": "HV",
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "coverage_pct": 100.0
+    },
+    {
+      "id": "nisar_coherence_loss",
+      "date": "2025-12-16",
+      "png": "wa_2025/png/nisar_coherence_loss_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_nisar_coherence_loss_60m.tif",
+      "bounds": [
+        -122.612106,
+        46.990354,
+        -121.455735,
+        48.509603
+      ],
+      "forecast": false,
+      "kind": "nisar_extra",
+      "label": "NISAR coherence loss (candidates)",
+      "legend": [
+        {
+          "label": "coherence loss (candidate)",
+          "color": "#e6550d"
+        }
+      ],
+      "attribution": "NISAR (NASA/ISRO), ASF DAAC — Beta product",
+      "note": "NISAR GUNW coherence, Beta; Dec 4 -> Dec 16 2025 vs Nov 22 -> Dec 4 reference. Broad storm decorrelation, not landslide-specific (10/15 landslides within 100 m vs a 60.9 % random baseline); candidates only."
+    },
+    {
+      "id": "nisar_coherence_event",
+      "date": "2025-12-16",
+      "png": "wa_2025/png/nisar_coherence_event_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_nisar_coherence_event_60m.tif",
+      "bounds": [
+        -122.612106,
+        46.990354,
+        -121.455735,
+        48.509603
+      ],
+      "forecast": false,
+      "kind": "nisar_extra",
+      "label": "NISAR coherence (event pair)",
+      "legend": [
+        {
+          "label": "coherence (event pair, 0-1)",
+          "color": "#888888"
+        }
+      ],
+      "attribution": "NISAR (NASA/ISRO), ASF DAAC — Beta product",
+      "note": "NISAR GUNW coherence, Beta; Dec 4 -> Dec 16 2025 vs Nov 22 -> Dec 4 reference. Broad storm decorrelation, not landslide-specific (10/15 landslides within 100 m vs a 60.9 % random baseline); candidates only."
+    },
+    {
+      "id": "nisar_sme2_20251122_172D",
+      "date": "2025-11-22",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_sme2_20251122.png",
+      "cog": "wa_2025/cog/wa_2025_nisar_sme2_20251122.tif",
+      "bounds": [
+        -122.599585,
+        47.000693,
+        -121.500452,
+        48.052231
+      ],
+      "track": "172D",
+      "sensor": "NISAR (SME2, provisional)",
+      "source": "NISAR L3 SME2 provisional (ASF, NISAR_L3_SME2_PROVISIONAL_V1)",
+      "label": "Soil moisture (NISAR, provisional)",
+      "legend": {
+        "unit": "m³/m³",
+        "stops": [
+          {
+            "v": 0.0,
+            "color": "#a6611a",
+            "label": "0.0"
+          },
+          {
+            "v": 0.1,
+            "color": "#dfc27d",
+            "label": "0.1"
+          },
+          {
+            "v": 0.2,
+            "color": "#c7e9c0",
+            "label": "0.2"
+          },
+          {
+            "v": 0.3,
+            "color": "#74c476",
+            "label": "0.3"
+          },
+          {
+            "v": 0.4,
+            "color": "#3182bd",
+            "label": "0.4"
+          },
+          {
+            "v": 0.5,
+            "color": "#08306b",
+            "label": "≥ 0.5"
+          }
+        ]
+      },
+      "note": "NISAR SME2 provisional: surface soil moisture (~0-5 cm, 200 m), swath mean 0.37 m³/m³ vs SMAP L4 surface 0.25 (9 km, same day); only 4 % of pixels flagged 'recommended' — the SME2 algorithms (DSG/PMI/TSR) still disagree, read patterns, not absolute values"
+    },
+    {
+      "id": "nisar_sme2_20251204_172D",
+      "date": "2025-12-04",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_sme2_20251204.png",
+      "cog": "wa_2025/cog/wa_2025_nisar_sme2_20251204.tif",
+      "bounds": [
+        -122.599585,
+        47.000693,
+        -121.500452,
+        48.052231
+      ],
+      "track": "172D",
+      "sensor": "NISAR (SME2, provisional)",
+      "source": "NISAR L3 SME2 provisional (ASF, NISAR_L3_SME2_PROVISIONAL_V1)",
+      "label": "Soil moisture (NISAR, provisional)",
+      "legend": {
+        "unit": "m³/m³",
+        "stops": [
+          {
+            "v": 0.0,
+            "color": "#a6611a",
+            "label": "0.0"
+          },
+          {
+            "v": 0.1,
+            "color": "#dfc27d",
+            "label": "0.1"
+          },
+          {
+            "v": 0.2,
+            "color": "#c7e9c0",
+            "label": "0.2"
+          },
+          {
+            "v": 0.3,
+            "color": "#74c476",
+            "label": "0.3"
+          },
+          {
+            "v": 0.4,
+            "color": "#3182bd",
+            "label": "0.4"
+          },
+          {
+            "v": 0.5,
+            "color": "#08306b",
+            "label": "≥ 0.5"
+          }
+        ]
+      },
+      "note": "NISAR SME2 provisional: surface soil moisture (~0-5 cm, 200 m), swath mean 0.29 m³/m³ vs SMAP L4 surface 0.26 (9 km, same day); only 5 % of pixels flagged 'recommended' — the SME2 algorithms (DSG/PMI/TSR) still disagree, read patterns, not absolute values"
+    },
+    {
+      "id": "nisar_sme2_20251216_172D",
+      "date": "2025-12-16",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_sme2_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_nisar_sme2_20251216.tif",
+      "bounds": [
+        -122.599585,
+        47.000693,
+        -121.500452,
+        48.052231
+      ],
+      "track": "172D",
+      "sensor": "NISAR (SME2, provisional)",
+      "source": "NISAR L3 SME2 provisional (ASF, NISAR_L3_SME2_PROVISIONAL_V1)",
+      "label": "Soil moisture (NISAR, provisional)",
+      "legend": {
+        "unit": "m³/m³",
+        "stops": [
+          {
+            "v": 0.0,
+            "color": "#a6611a",
+            "label": "0.0"
+          },
+          {
+            "v": 0.1,
+            "color": "#dfc27d",
+            "label": "0.1"
+          },
+          {
+            "v": 0.2,
+            "color": "#c7e9c0",
+            "label": "0.2"
+          },
+          {
+            "v": 0.3,
+            "color": "#74c476",
+            "label": "0.3"
+          },
+          {
+            "v": 0.4,
+            "color": "#3182bd",
+            "label": "0.4"
+          },
+          {
+            "v": 0.5,
+            "color": "#08306b",
+            "label": "≥ 0.5"
+          }
+        ]
+      },
+      "note": "NISAR SME2 provisional: surface soil moisture (~0-5 cm, 200 m), swath mean 0.29 m³/m³ vs SMAP L4 surface 0.35 (9 km, same day); only 4 % of pixels flagged 'recommended' — the SME2 algorithms (DSG/PMI/TSR) still disagree, read patterns, not absolute values"
+    },
+    {
+      "id": "nisar_hv_20251110_172D",
+      "date": "2025-11-10",
+      "kind": "nisar_frame",
+      "track": "172D",
+      "frames": [
+        64,
+        65
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HV",
+      "png": "wa_2025/png/nisar_hv_20251110_172D.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1, NISAR_L2_GCOV_PROVISIONAL_V1)",
+      "label": "NISAR radar HV · track 172D · 2025-11-10",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 172D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_004_172_D_064_4005_DHDH_A_20251110T031814_20251110T031849_X05009_N_F_J_001",
+        "NISAR_L2_PR_GCOV_004_172_D_065_4005_DHDH_A_20251110T031848_20251110T031923_P05023_N_F_J_001"
+      ],
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "coverage_pct": 100.0
+    },
+    {
+      "id": "nisar_hh_20251122_172D",
+      "date": "2025-11-22",
+      "kind": "nisar_frame",
+      "track": "172D",
+      "frames": [
+        64,
+        65
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HH",
+      "png": "wa_2025/png/nisar_hh_20251122_172D.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1, NISAR_L2_GCOV_PROVISIONAL_V1)",
+      "label": "NISAR radar HH · track 172D · 2025-11-22",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 172D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_005_172_D_064_4005_DHDH_A_20251122T031814_20251122T031849_X05009_N_F_J_001",
+        "NISAR_L2_PR_GCOV_005_172_D_065_4005_DHDH_A_20251122T031848_20251122T031923_P05023_N_F_J_001"
+      ],
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "coverage_pct": 100.0
+    },
+    {
+      "id": "nisar_hv_20251122_172D",
+      "date": "2025-11-22",
+      "kind": "nisar_frame",
+      "track": "172D",
+      "frames": [
+        64,
+        65
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HV",
+      "png": "wa_2025/png/nisar_hv_20251122_172D.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1, NISAR_L2_GCOV_PROVISIONAL_V1)",
+      "label": "NISAR radar HV · track 172D · 2025-11-22",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 172D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_005_172_D_064_4005_DHDH_A_20251122T031814_20251122T031849_X05009_N_F_J_001",
+        "NISAR_L2_PR_GCOV_005_172_D_065_4005_DHDH_A_20251122T031848_20251122T031923_P05023_N_F_J_001"
+      ],
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "coverage_pct": 100.0
+    },
+    {
+      "id": "nisar_hh_20251228_172D",
+      "date": "2025-12-28",
+      "kind": "nisar_frame",
+      "track": "172D",
+      "frames": [
+        64,
+        65
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HH",
+      "png": "wa_2025/png/nisar_hh_20251228_172D.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1, NISAR_L2_GCOV_PROVISIONAL_V1)",
+      "label": "NISAR radar HH · track 172D · 2025-12-28",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 172D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_008_172_D_064_4005_DHDH_A_20251228T031816_20251228T031851_X05009_N_F_J_001",
+        "NISAR_L2_PR_GCOV_008_172_D_065_4005_DHDH_A_20251228T031850_20251228T031925_P05023_N_F_J_001"
+      ],
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "coverage_pct": 100.0
+    },
+    {
+      "id": "nisar_hv_20251228_172D",
+      "date": "2025-12-28",
+      "kind": "nisar_frame",
+      "track": "172D",
+      "frames": [
+        64,
+        65
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HV",
+      "png": "wa_2025/png/nisar_hv_20251228_172D.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1, NISAR_L2_GCOV_PROVISIONAL_V1)",
+      "label": "NISAR radar HV · track 172D · 2025-12-28",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 172D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_008_172_D_064_4005_DHDH_A_20251228T031816_20251228T031851_X05009_N_F_J_001",
+        "NISAR_L2_PR_GCOV_008_172_D_065_4005_DHDH_A_20251228T031850_20251228T031925_P05023_N_F_J_001"
+      ],
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "coverage_pct": 100.0
+    },
+    {
+      "id": "nisar_hh_20251017_005A",
+      "date": "2025-10-17",
+      "kind": "nisar_frame",
+      "track": "005A",
+      "frames": [
+        26
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HH",
+      "png": "wa_2025/png/nisar_hh_20251017_005A.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HH · track 005A · 2025-10-17",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 005A); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_003_005_A_026_4005_DHDH_A_20251017T125541_20251017T125617_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 86.2
+    },
+    {
+      "id": "nisar_hv_20251017_005A",
+      "date": "2025-10-17",
+      "kind": "nisar_frame",
+      "track": "005A",
+      "frames": [
+        26
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HV",
+      "png": "wa_2025/png/nisar_hv_20251017_005A.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HV · track 005A · 2025-10-17",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 005A); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_003_005_A_026_4005_DHDH_A_20251017T125541_20251017T125617_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 86.2
+    },
+    {
+      "id": "nisar_hh_20251022_071D",
+      "date": "2025-10-22",
+      "kind": "nisar_frame",
+      "track": "071D",
+      "frames": [
+        65
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HH",
+      "png": "wa_2025/png/nisar_hh_20251022_071D.png",
+      "cog": null,
+      "bounds": [
+        -122.3136,
+        46.999345,
+        -121.499591,
+        47.9244
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HH · track 071D · 2025-10-22",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 071D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.3136,
+          46.99979999999999,
+          -121.49999999999999,
+          47.9244
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_003_071_D_065_4005_DHDH_A_20251022T031028_20251022T031103_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 31.3
+    },
+    {
+      "id": "nisar_hv_20251022_071D",
+      "date": "2025-10-22",
+      "kind": "nisar_frame",
+      "track": "071D",
+      "frames": [
+        65
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HV",
+      "png": "wa_2025/png/nisar_hv_20251022_071D.png",
+      "cog": null,
+      "bounds": [
+        -122.3136,
+        46.999345,
+        -121.499591,
+        47.9244
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HV · track 071D · 2025-10-22",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 071D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.3136,
+          46.99979999999999,
+          -121.49999999999999,
+          47.9244
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_003_071_D_065_4005_DHDH_A_20251022T031028_20251022T031103_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 31.3
+    },
+    {
+      "id": "nisar_hh_20251029_005A",
+      "date": "2025-10-29",
+      "kind": "nisar_frame",
+      "track": "005A",
+      "frames": [
+        26
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HH",
+      "png": "wa_2025/png/nisar_hh_20251029_005A.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HH · track 005A · 2025-10-29",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 005A); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_004_005_A_026_4005_DHDH_A_20251029T125542_20251029T125617_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 85.9
+    },
+    {
+      "id": "nisar_hv_20251029_005A",
+      "date": "2025-10-29",
+      "kind": "nisar_frame",
+      "track": "005A",
+      "frames": [
+        26
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HV",
+      "png": "wa_2025/png/nisar_hv_20251029_005A.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HV · track 005A · 2025-10-29",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 005A); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_004_005_A_026_4005_DHDH_A_20251029T125542_20251029T125617_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 85.9
+    },
+    {
+      "id": "nisar_hh_20251029_172D",
+      "date": "2025-10-29",
+      "kind": "nisar_frame",
+      "track": "172D",
+      "frames": [
+        64,
+        65
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HH",
+      "png": "wa_2025/png/nisar_hh_20251029_172D.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HH · track 172D · 2025-10-29",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 172D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_003_172_D_064_4005_DHDH_A_20251029T031813_20251029T031848_X05009_N_F_J_001",
+        "NISAR_L2_PR_GCOV_003_172_D_065_4005_DHDH_A_20251029T031847_20251029T031922_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 100.0
+    },
+    {
+      "id": "nisar_hv_20251029_172D",
+      "date": "2025-10-29",
+      "kind": "nisar_frame",
+      "track": "172D",
+      "frames": [
+        64,
+        65
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HV",
+      "png": "wa_2025/png/nisar_hv_20251029_172D.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HV · track 172D · 2025-10-29",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 172D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_003_172_D_064_4005_DHDH_A_20251029T031813_20251029T031848_X05009_N_F_J_001",
+        "NISAR_L2_PR_GCOV_003_172_D_065_4005_DHDH_A_20251029T031847_20251029T031922_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 100.0
+    },
+    {
+      "id": "nisar_hh_20251105_100D",
+      "date": "2025-11-05",
+      "kind": "nisar_frame",
+      "track": "100D",
+      "frames": [
+        64
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HH",
+      "png": "wa_2025/png/nisar_hh_20251105_100D.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        47.272875,
+        -121.835725,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HH · track 100D · 2025-11-05",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 100D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          47.273399999999995,
+          -121.83659999999999,
+          48.5004
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_004_100_D_064_4005_DHDH_A_20251105T032633_20251105T032709_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 28.4
+    },
+    {
+      "id": "nisar_hv_20251105_100D",
+      "date": "2025-11-05",
+      "kind": "nisar_frame",
+      "track": "100D",
+      "frames": [
+        64
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HV",
+      "png": "wa_2025/png/nisar_hv_20251105_100D.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        47.272875,
+        -121.835725,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HV · track 100D · 2025-11-05",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 100D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          47.273399999999995,
+          -121.83659999999999,
+          48.5004
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_004_100_D_064_4005_DHDH_A_20251105T032633_20251105T032709_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 28.4
+    },
+    {
+      "id": "nisar_hh_20251115_071D",
+      "date": "2025-11-15",
+      "kind": "nisar_frame",
+      "track": "071D",
+      "frames": [
+        65
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HH",
+      "png": "wa_2025/png/nisar_hh_20251115_071D.png",
+      "cog": null,
+      "bounds": [
+        -122.3136,
+        46.999345,
+        -121.499591,
+        47.9244
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HH · track 071D · 2025-11-15",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 071D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.3136,
+          46.99979999999999,
+          -121.49999999999999,
+          47.9244
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_005_071_D_065_4005_DHDH_A_20251115T031029_20251115T031104_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 31.6
+    },
+    {
+      "id": "nisar_hv_20251115_071D",
+      "date": "2025-11-15",
+      "kind": "nisar_frame",
+      "track": "071D",
+      "frames": [
+        65
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HV",
+      "png": "wa_2025/png/nisar_hv_20251115_071D.png",
+      "cog": null,
+      "bounds": [
+        -122.3136,
+        46.999345,
+        -121.499591,
+        47.9244
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HV · track 071D · 2025-11-15",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 071D); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.3136,
+          46.99979999999999,
+          -121.49999999999999,
+          47.9244
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_005_071_D_065_4005_DHDH_A_20251115T031029_20251115T031104_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 31.6
+    },
+    {
+      "id": "nisar_hh_20251204_005A",
+      "date": "2025-12-04",
+      "kind": "nisar_frame",
+      "track": "005A",
+      "frames": [
+        26
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HH",
+      "png": "wa_2025/png/nisar_hh_20251204_005A.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HH · track 005A · 2025-12-04",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 005A); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_007_005_A_026_4005_DHDH_A_20251204T125543_20251204T125619_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 86.1
+    },
+    {
+      "id": "nisar_hv_20251204_005A",
+      "date": "2025-12-04",
+      "kind": "nisar_frame",
+      "track": "005A",
+      "frames": [
+        26
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HV",
+      "png": "wa_2025/png/nisar_hv_20251204_005A.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HV · track 005A · 2025-12-04",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 005A); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_007_005_A_026_4005_DHDH_A_20251204T125543_20251204T125619_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 86.1
+    },
+    {
+      "id": "nisar_hh_20251223_106A",
+      "date": "2025-12-23",
+      "kind": "nisar_frame",
+      "track": "106A",
+      "frames": [
+        25,
+        26
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HH",
+      "png": "wa_2025/png/nisar_hh_20251223_106A.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HH · track 106A · 2025-12-23",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 106A); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_008_106_A_025_4005_DHDH_A_20251223T130329_20251223T130404_X05009_N_F_J_001",
+        "NISAR_L2_PR_GCOV_008_106_A_026_4005_DHDH_A_20251223T130403_20251223T130439_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 100.0
+    },
+    {
+      "id": "nisar_hv_20251223_106A",
+      "date": "2025-12-23",
+      "kind": "nisar_frame",
+      "track": "106A",
+      "frames": [
+        25,
+        26
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HV",
+      "png": "wa_2025/png/nisar_hv_20251223_106A.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HV · track 106A · 2025-12-23",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 106A); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_008_106_A_025_4005_DHDH_A_20251223T130329_20251223T130404_X05009_N_F_J_001",
+        "NISAR_L2_PR_GCOV_008_106_A_026_4005_DHDH_A_20251223T130403_20251223T130439_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 100.0
+    },
+    {
+      "id": "nisar_hh_20251228_005A",
+      "date": "2025-12-28",
+      "kind": "nisar_frame",
+      "track": "005A",
+      "frames": [
+        26
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HH",
+      "png": "wa_2025/png/nisar_hh_20251228_005A.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HH · track 005A · 2025-12-28",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 005A); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_009_005_A_026_4005_DHDH_A_20251228T125544_20251228T125620_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 86.2
+    },
+    {
+      "id": "nisar_hv_20251228_005A",
+      "date": "2025-12-28",
+      "kind": "nisar_frame",
+      "track": "005A",
+      "frames": [
+        26
+      ],
+      "mode": "4005_DHDH_A",
+      "polarization": "HV",
+      "png": "wa_2025/png/nisar_hv_20251228_005A.png",
+      "cog": null,
+      "bounds": [
+        -122.6004,
+        46.99913,
+        -121.499535,
+        48.5004
+      ],
+      "legend": {
+        "unit": "dB",
+        "db_min": -25.0,
+        "db_max": 0.0,
+        "gray": "1 + (dB − db_min) / (db_max − db_min) × 254; alpha 0 = no data",
+        "stops": [
+          {
+            "v": -25,
+            "color": "#000000",
+            "label": "−25 dB · smooth (open water; HV: bare/water)"
+          },
+          {
+            "v": -12.5,
+            "color": "#808080",
+            "label": "−12.5 dB"
+          },
+          {
+            "v": 0,
+            "color": "#ffffff",
+            "label": "0 dB · bright (urban, flooded trees)"
+          }
+        ]
+      },
+      "sensor": "NISAR (GCOV provisional)",
+      "source": "NISAR L2 GCOV (ASF, NISAR_L2_GCOV_BETA_V1)",
+      "label": "NISAR radar HV · track 005A · 2025-12-28",
+      "note": "Backscatter, ONE fixed -25..0 dB stretch for every NISAR frame (60 m; same grid for every pass of track 005A); compare two passes of the SAME track. Not a flood map.",
+      "grid": {
+        "deg": 0.0006,
+        "bounds_4326": [
+          -122.6004,
+          46.99979999999999,
+          -121.49999999999999,
+          48.5004
+        ]
+      },
+      "stretch_db": {
+        "db_min": -25.0,
+        "db_max": 0.0
+      },
+      "granules": [
+        "NISAR_L2_PR_GCOV_009_005_A_026_4005_DHDH_A_20251228T125544_20251228T125620_X05009_N_F_J_001"
+      ],
+      "coverage_pct": 86.2
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-11-30",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251130.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251130.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 1.52,
+      "nisar_passes": [
+        {
+          "date": "2025-11-22",
+          "track": "172D",
+          "id": "nisar_hh_20251122_172D"
+        }
+      ],
+      "nisar_water_km2": 1.659,
+      "nisar_raised_km2": 1.519,
+      "nisar_outside_floodplain_pct": 8.4
+    },
+    {
+      "id": "nisar_water_20251130",
+      "date": "2025-11-30",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251130.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-11-22",
+      "pass_track": "172D",
+      "age_days": 8,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-11-22",
+          "track": "172D",
+          "id": "nisar_hh_20251122_172D"
+        }
+      ],
+      "nisar_water_km2": 1.659,
+      "nisar_raised_km2": 1.519,
+      "nisar_outside_floodplain_pct": 8.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-01",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251201.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251201.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 1.52,
+      "nisar_passes": [
+        {
+          "date": "2025-11-22",
+          "track": "172D",
+          "id": "nisar_hh_20251122_172D"
+        }
+      ],
+      "nisar_water_km2": 1.659,
+      "nisar_raised_km2": 1.519,
+      "nisar_outside_floodplain_pct": 8.4
+    },
+    {
+      "id": "nisar_water_20251201",
+      "date": "2025-12-01",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251201.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-11-22",
+      "pass_track": "172D",
+      "age_days": 9,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-11-22",
+          "track": "172D",
+          "id": "nisar_hh_20251122_172D"
+        }
+      ],
+      "nisar_water_km2": 1.659,
+      "nisar_raised_km2": 1.519,
+      "nisar_outside_floodplain_pct": 8.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-02",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251202.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251202.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 1.52,
+      "nisar_passes": [
+        {
+          "date": "2025-11-22",
+          "track": "172D",
+          "id": "nisar_hh_20251122_172D"
+        }
+      ],
+      "nisar_water_km2": 1.659,
+      "nisar_raised_km2": 1.519,
+      "nisar_outside_floodplain_pct": 8.4
+    },
+    {
+      "id": "nisar_water_20251202",
+      "date": "2025-12-02",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251202.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-11-22",
+      "pass_track": "172D",
+      "age_days": 10,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-11-22",
+          "track": "172D",
+          "id": "nisar_hh_20251122_172D"
+        }
+      ],
+      "nisar_water_km2": 1.659,
+      "nisar_raised_km2": 1.519,
+      "nisar_outside_floodplain_pct": 8.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-03",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251203.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251203.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 1.52,
+      "nisar_passes": [
+        {
+          "date": "2025-11-22",
+          "track": "172D",
+          "id": "nisar_hh_20251122_172D"
+        }
+      ],
+      "nisar_water_km2": 1.659,
+      "nisar_raised_km2": 1.519,
+      "nisar_outside_floodplain_pct": 8.4
+    },
+    {
+      "id": "nisar_water_20251203",
+      "date": "2025-12-03",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251203.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-11-22",
+      "pass_track": "172D",
+      "age_days": 11,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-11-22",
+          "track": "172D",
+          "id": "nisar_hh_20251122_172D"
+        }
+      ],
+      "nisar_water_km2": 1.659,
+      "nisar_raised_km2": 1.519,
+      "nisar_outside_floodplain_pct": 8.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-04",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251204.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251204.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 2.02,
+      "nisar_passes": [
+        {
+          "date": "2025-11-22",
+          "track": "172D",
+          "id": "nisar_hh_20251122_172D"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "nisar_water_20251204",
+      "date": "2025-12-04",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251204.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-04",
+      "pass_track": "172D",
+      "age_days": 0,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-11-22",
+          "track": "172D",
+          "id": "nisar_hh_20251122_172D"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-05",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251205.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251205.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 2.02,
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "nisar_water_20251205",
+      "date": "2025-12-05",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251205.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-04",
+      "pass_track": "172D",
+      "age_days": 1,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-06",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251206.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251206.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 2.02,
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "nisar_water_20251206",
+      "date": "2025-12-06",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251206.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-04",
+      "pass_track": "172D",
+      "age_days": 2,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-07",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251207.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251207.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 2.02,
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "nisar_water_20251207",
+      "date": "2025-12-07",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251207.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-04",
+      "pass_track": "172D",
+      "age_days": 3,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-08",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251208.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251208.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 2.02,
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "nisar_water_20251208",
+      "date": "2025-12-08",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251208.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-04",
+      "pass_track": "172D",
+      "age_days": 4,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-09",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251209.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251209.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 8.83,
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "nisar_water_20251209",
+      "date": "2025-12-09",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251209.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-04",
+      "pass_track": "172D",
+      "age_days": 5,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-10",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251210.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251210.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 169.46,
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "nisar_water_20251210",
+      "date": "2025-12-10",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251210.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-04",
+      "pass_track": "172D",
+      "age_days": 6,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-11",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251211.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251211.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 546.35,
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "nisar_water_20251211",
+      "date": "2025-12-11",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251211.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-04",
+      "pass_track": "172D",
+      "age_days": 7,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-12",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251212.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251212.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 739.96,
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "nisar_water_20251212",
+      "date": "2025-12-12",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251212.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-04",
+      "pass_track": "172D",
+      "age_days": 8,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-13",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251213.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251213.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 265.15,
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "nisar_water_20251213",
+      "date": "2025-12-13",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251213.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-04",
+      "pass_track": "172D",
+      "age_days": 9,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-14",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251214.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251214.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 2.02,
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "nisar_water_20251214",
+      "date": "2025-12-14",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251214.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-04",
+      "pass_track": "172D",
+      "age_days": 10,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-15",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251215.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251215.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 2.02,
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "nisar_water_20251215",
+      "date": "2025-12-15",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251215.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-04",
+      "pass_track": "172D",
+      "age_days": 11,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        }
+      ],
+      "nisar_water_km2": 2.987,
+      "nisar_raised_km2": 2.019,
+      "nisar_outside_floodplain_pct": 32.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-16",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251216.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251216.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 4.19,
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        },
+        {
+          "date": "2025-12-16",
+          "track": "172D",
+          "id": "nisar_post"
+        }
+      ],
+      "nisar_water_km2": 2.081,
+      "nisar_raised_km2": 1.802,
+      "nisar_outside_floodplain_pct": 13.4
+    },
+    {
+      "id": "nisar_water_20251216",
+      "date": "2025-12-16",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251216.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-16",
+      "pass_track": "172D",
+      "age_days": 0,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-04",
+          "track": "172D",
+          "id": "nisar_pre"
+        },
+        {
+          "date": "2025-12-04",
+          "track": "005A",
+          "id": "nisar_hh_20251204_005A"
+        },
+        {
+          "date": "2025-12-16",
+          "track": "172D",
+          "id": "nisar_post"
+        }
+      ],
+      "nisar_water_km2": 2.081,
+      "nisar_raised_km2": 1.802,
+      "nisar_outside_floodplain_pct": 13.4
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-17",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251217.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251217.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 4.89,
+      "nisar_passes": [
+        {
+          "date": "2025-12-16",
+          "track": "172D",
+          "id": "nisar_post"
+        }
+      ],
+      "nisar_water_km2": 2.0,
+      "nisar_raised_km2": 1.802,
+      "nisar_outside_floodplain_pct": 9.9
+    },
+    {
+      "id": "nisar_water_20251217",
+      "date": "2025-12-17",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251217.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-16",
+      "pass_track": "172D",
+      "age_days": 1,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-16",
+          "track": "172D",
+          "id": "nisar_post"
+        }
+      ],
+      "nisar_water_km2": 2.0,
+      "nisar_raised_km2": 1.802,
+      "nisar_outside_floodplain_pct": 9.9
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-18",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251218.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251218.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 4.8,
+      "nisar_passes": [
+        {
+          "date": "2025-12-16",
+          "track": "172D",
+          "id": "nisar_post"
+        }
+      ],
+      "nisar_water_km2": 2.0,
+      "nisar_raised_km2": 1.802,
+      "nisar_outside_floodplain_pct": 9.9
+    },
+    {
+      "id": "nisar_water_20251218",
+      "date": "2025-12-18",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251218.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-16",
+      "pass_track": "172D",
+      "age_days": 2,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-16",
+          "track": "172D",
+          "id": "nisar_post"
+        }
+      ],
+      "nisar_water_km2": 2.0,
+      "nisar_raised_km2": 1.802,
+      "nisar_outside_floodplain_pct": 9.9
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-19",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251219.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251219.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 2.06,
+      "nisar_passes": [
+        {
+          "date": "2025-12-16",
+          "track": "172D",
+          "id": "nisar_post"
+        }
+      ],
+      "nisar_water_km2": 2.0,
+      "nisar_raised_km2": 1.802,
+      "nisar_outside_floodplain_pct": 9.9
+    },
+    {
+      "id": "nisar_water_20251219",
+      "date": "2025-12-19",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251219.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-16",
+      "pass_track": "172D",
+      "age_days": 3,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-16",
+          "track": "172D",
+          "id": "nisar_post"
+        }
+      ],
+      "nisar_water_km2": 2.0,
+      "nisar_raised_km2": 1.802,
+      "nisar_outside_floodplain_pct": 9.9
+    },
+    {
+      "id": "tpi_flood_nisar",
+      "date": "2025-12-20",
+      "kind": "observed",
+      "forecast": false,
+      "png": "wa_2025/png/tpi_flood_nisar_20251220.png",
+      "cog": "wa_2025/cog/wa_2025_tpi_flood_nisar_20251220.tif",
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "critical_km2": 1.8,
+      "nisar_passes": [
+        {
+          "date": "2025-12-16",
+          "track": "172D",
+          "id": "nisar_post"
+        }
+      ],
+      "nisar_water_km2": 2.0,
+      "nisar_raised_km2": 1.802,
+      "nisar_outside_floodplain_pct": 9.9
+    },
+    {
+      "id": "nisar_water_20251220",
+      "date": "2025-12-20",
+      "kind": "nisar_extra",
+      "png": "wa_2025/png/nisar_water_20251220.png",
+      "cog": null,
+      "bounds": [
+        -122.600094,
+        46.999727,
+        -121.499223,
+        48.501749
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2025-12-16",
+      "pass_track": "172D",
+      "age_days": 4,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d before this day, outside permanent water; candidate (also lights flooded rice / irrigation).",
+      "nisar_passes": [
+        {
+          "date": "2025-12-16",
+          "track": "172D",
+          "id": "nisar_post"
+        }
+      ],
+      "nisar_water_km2": 2.0,
+      "nisar_raised_km2": 1.802,
+      "nisar_outside_floodplain_pct": 9.9
+    }
+  ]
+}

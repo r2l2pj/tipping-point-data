@@ -1,0 +1,45 @@
+{
+  "case": "wa_2025",
+  "metrics": {
+    "lead_time_median_h": null,
+    "lead_time_iqr_h": null,
+    "lead_time_n": null,
+    "warned_before_pct": null,
+    "warned_24h_pct": null,
+    "never_critical_pct": null,
+    "lead_time_hist": null,
+    "mode": "event_first_critical_only",
+    "threshold_tpi": 0.6,
+    "first_critical_time": "2025-12-09 00:00:00+00:00",
+    "event_lead_h": -16.0,
+    "official_warning_delta_h": -71.83333333333333,
+    "damage_anchor": {
+      "at": "2025-12-08T08:00:00+00:00",
+      "source": "L37 onset: heavy rain began 2025-12-08 00:00 PST = 08:00Z; Skagit County EOC fully activated 21:00 PST. Source: WA EMD SEOC sitrep 25-4783 (2025-12-10) https://content.govdelivery.com/attachments/WAMILITARY/2025/12/11/file_attachments/3490229/SEOC_Sitrep-25-4783_12102025.pdf",
+      "basis": "onset"
+    },
+    "n_landslide_points": 0,
+    "anchor_utc": "2025-12-08T08:00:00+00:00",
+    "anchor_basis": "onset",
+    "anchor_source": "L37 onset: heavy rain began 2025-12-08 00:00 PST = 08:00Z; Skagit County EOC fully activated 21:00 PST. Source: WA EMD SEOC sitrep 25-4783 (2025-12-10) https://content.govdelivery.com/attachments/WAMILITARY/2025/12/11/file_attachments/3490229/SEOC_Sitrep-25-4783_12102025.pdf",
+    "official_warning_delta_warning_utc": "2025-12-06T00:10:00Z",
+    "official_warning_delta_reference_utc": "2025-12-09T00:00:00+00:00",
+    "official_warning_delta_basis": "official_warning_at - first_critical_time: how long before the first observed TPI_slide >= 0.6 pixel anywhere in the AOI the published official warning was issued. Warning instant = official_warning_at (INMET 2024-04-26T16:50Z for RS; the earlier Canoas municipal notice 2024-04-25T20:40Z in events/rs-2024-05.json is not used here). NWS 2025-12-06 00:10Z for WA."
+  },
+  "_null_reasons": {
+    "lead_time_median_h": "WGS landslide inventory has 15 points (data/wa_2025/geojson/landslide_catalog.geojson) but they are undated: point-level lead time is undefined",
+    "lead_time_iqr_h": "WGS landslide inventory has 15 points (data/wa_2025/geojson/landslide_catalog.geojson) but they are undated: point-level lead time is undefined",
+    "lead_time_n": "WGS landslide inventory has 15 points (data/wa_2025/geojson/landslide_catalog.geojson) but they are undated: point-level lead time is undefined",
+    "warned_before_pct": "WGS landslide inventory has 15 points (data/wa_2025/geojson/landslide_catalog.geojson) but they are undated: point-level lead time is undefined",
+    "warned_24h_pct": "WGS landslide inventory has 15 points (data/wa_2025/geojson/landslide_catalog.geojson) but they are undated: point-level lead time is undefined",
+    "never_critical_pct": "WGS landslide inventory has 15 points (data/wa_2025/geojson/landslide_catalog.geojson) but they are undated: point-level lead time is undefined",
+    "lead_time_hist": "WGS landslide inventory has 15 points (data/wa_2025/geojson/landslide_catalog.geojson) but they are undated: point-level lead time is undefined"
+  },
+  "withdrawn": {
+    "damage_anchor": {
+      "at": "2025-12-09T00:35:00Z",
+      "source": "King County Flood Warning Center update",
+      "note": "pre-L37 anchor (King County Flood Warning Center opening, not the event onset); superseded by the L37 onset"
+    }
+  }
+}

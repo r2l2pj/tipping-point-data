@@ -1,0 +1,47 @@
+{
+  "layer": "t_ml",
+  "png": "ml/t_ml.png",
+  "cog": "cog/t_ml.tif",
+  "png_crs": "EPSG:3857",
+  "bounds_lonlat": [
+    -58.0,
+    -33.999842,
+    -48.001818,
+    -22.5
+  ],
+  "cog_crs": "EPSG:4326",
+  "cog_res_deg": 0.01,
+  "domain_bbox": [
+    -58.0,
+    -34.0,
+    -48.0,
+    -22.5
+  ],
+  "model": "xgb_terrain_landcover",
+  "model_selected_by": "best VAL PR-AUC",
+  "val_pr_auc": 0.5686698128450788,
+  "value": "calibrated landslide susceptibility 0-1 (3a T_ML, XGBoost; 90 m model block-averaged to 0.01\u00b0). Relative, not an absolute frequency: trained case-control 1:3.",
+  "classes": [
+    {
+      "label": "Baixo",
+      "min": 0.0,
+      "color": "#ffffb2"
+    },
+    {
+      "label": "Moderado",
+      "min": 0.2,
+      "color": "#fecc5c"
+    },
+    {
+      "label": "Alto",
+      "min": 0.4,
+      "color": "#fd8d3c"
+    },
+    {
+      "label": "Cr\u00edtico",
+      "min": 0.6,
+      "color": "#bd0026"
+    }
+  ],
+  "png_note": "Baixo is transparent (TPI convention)"
+}

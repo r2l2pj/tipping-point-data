@@ -1,0 +1,161 @@
+{
+ "what": "NISAR HH new-water area in a 3 km corridor of the Uruguay River at Uruguaiana vs the gauge stage",
+ "box_utm21s": [
+  476000,
+  6700000,
+  506000,
+  6730000
+ ],
+ "common_km2": 796.2,
+ "corridor_km2": 185.1,
+ "river_km2": 28.5,
+ "flood_stage_m": 8.5,
+ "pearson_stage_newwater": 0.918,
+ "n": 9,
+ "pearson_by_track": {
+  "010D": {
+   "n": 5,
+   "pearson": 0.911
+  },
+  "082D": {
+   "n": 4,
+   "pearson": 0.954
+  }
+ },
+ "pearson_stage_newwater_floodplain_only": 0.966,
+ "floodplain": "HAND <= 5 m (static-v1 hand_90m, nearest onto the 60 m UTM window)",
+ "gauge": "ANA 77150000 Uruguaiana, daily median stage on the pass date (forecast_proof.json)",
+ "new_water_reference": "water of the pass minus the persistent river and any pixel that is water in >= 7 of the 9 passes; inside a 3 km corridor around the river; pixels valid in all passes",
+ "threshold_note": "water = HH < -15 dB (scene threshold fell back to -15 dB on all passes)",
+ "caption": "The river's dance: 9 NISAR HH passes (Sep 18 - Nov 5 2026, mixed tracks 010D and 082D), 30 x 30 km around Uruguaiana. New water (red) tracks the gauge: Pearson r = 0.92 (n = 9). water = HH < -15 dB (scene threshold fell back to -15 dB on all passes). NISAR water = candidates (provisional GCOV).",
+ "credit": "NASA NISAR (provisional GCOV) \u00b7 HH \u00b7 gauge: ANA 77150000 Uruguaiana \u00b7 analysis: Jhonata Vicente de Oliveira / Tipping Point",
+ "author": "Jhonata Vicente de Oliveira (method), adapted by lead-ml",
+ "passes": [
+  {
+   "date": "2026-09-18",
+   "track": "010D",
+   "otsu_raw_db": -11.62,
+   "threshold_db": -15.0,
+   "threshold_fallback": true,
+   "water_km2_corridor": 49.57,
+   "valid_pct": 88.5,
+   "stage_m": 7.5,
+   "above_flood_stage": false,
+   "new_water_km2": 12.1,
+   "new_water_floodplain_km2": 4.65,
+   "new_water_outside_floodplain_pct": 61.6
+  },
+  {
+   "date": "2026-09-23",
+   "track": "082D",
+   "otsu_raw_db": -11.95,
+   "threshold_db": -15.0,
+   "threshold_fallback": true,
+   "water_km2_corridor": 36.74,
+   "valid_pct": 100.0,
+   "stage_m": 5.45,
+   "above_flood_stage": false,
+   "new_water_km2": 2.31,
+   "new_water_floodplain_km2": 0.5,
+   "new_water_outside_floodplain_pct": 78.5
+  },
+  {
+   "date": "2026-09-30",
+   "track": "010D",
+   "otsu_raw_db": -10.74,
+   "threshold_db": -15.0,
+   "threshold_fallback": true,
+   "water_km2_corridor": 39.01,
+   "valid_pct": 88.7,
+   "stage_m": 6.29,
+   "above_flood_stage": false,
+   "new_water_km2": 2.3,
+   "new_water_floodplain_km2": 0.76,
+   "new_water_outside_floodplain_pct": 67.1
+  },
+  {
+   "date": "2026-10-05",
+   "track": "082D",
+   "otsu_raw_db": -11.53,
+   "threshold_db": -15.0,
+   "threshold_fallback": true,
+   "water_km2_corridor": 49.55,
+   "valid_pct": 100.0,
+   "stage_m": 8.53,
+   "above_flood_stage": true,
+   "new_water_km2": 14.34,
+   "new_water_floodplain_km2": 7.8,
+   "new_water_outside_floodplain_pct": 45.6
+  },
+  {
+   "date": "2026-10-12",
+   "track": "010D",
+   "otsu_raw_db": -11.24,
+   "threshold_db": -15.0,
+   "threshold_fallback": true,
+   "water_km2_corridor": 72.99,
+   "valid_pct": 88.6,
+   "stage_m": 9.8,
+   "above_flood_stage": true,
+   "new_water_km2": 35.55,
+   "new_water_floodplain_km2": 17.01,
+   "new_water_outside_floodplain_pct": 52.1
+  },
+  {
+   "date": "2026-10-17",
+   "track": "082D",
+   "otsu_raw_db": -10.34,
+   "threshold_db": -15.0,
+   "threshold_fallback": true,
+   "water_km2_corridor": 60.82,
+   "valid_pct": 100.0,
+   "stage_m": 9.99,
+   "above_flood_stage": true,
+   "new_water_km2": 31.29,
+   "new_water_floodplain_km2": 15.28,
+   "new_water_outside_floodplain_pct": 51.2
+  },
+  {
+   "date": "2026-10-24",
+   "track": "010D",
+   "otsu_raw_db": -10.95,
+   "threshold_db": -15.0,
+   "threshold_fallback": true,
+   "water_km2_corridor": 49.56,
+   "valid_pct": 88.6,
+   "stage_m": 7.065,
+   "above_flood_stage": false,
+   "new_water_km2": 12.39,
+   "new_water_floodplain_km2": 4.63,
+   "new_water_outside_floodplain_pct": 62.6
+  },
+  {
+   "date": "2026-10-29",
+   "track": "082D",
+   "otsu_raw_db": -11.83,
+   "threshold_db": -15.0,
+   "threshold_fallback": true,
+   "water_km2_corridor": 58.47,
+   "valid_pct": 100.0,
+   "stage_m": 8.555,
+   "above_flood_stage": true,
+   "new_water_km2": 21.23,
+   "new_water_floodplain_km2": 10.93,
+   "new_water_outside_floodplain_pct": 48.5
+  },
+  {
+   "date": "2026-11-05",
+   "track": "010D",
+   "otsu_raw_db": -11.74,
+   "threshold_db": -15.0,
+   "threshold_fallback": true,
+   "water_km2_corridor": 47.6,
+   "valid_pct": 88.6,
+   "stage_m": 5.728,
+   "above_flood_stage": false,
+   "new_water_km2": 10.71,
+   "new_water_floodplain_km2": 1.58,
+   "new_water_outside_floodplain_pct": 85.2
+  }
+ ]
+}

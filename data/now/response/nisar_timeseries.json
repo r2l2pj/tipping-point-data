@@ -1,0 +1,440 @@
+{
+  "dates": [
+    "2026-10-25",
+    "2026-10-29",
+    "2026-11-01",
+    "2026-11-06"
+  ],
+  "roles": {
+    "2026-10-25": "pre-event (live pair geometry, track 024D frame 101)",
+    "2026-10-29": "context pass — track 074A frame 166 (ascending)",
+    "2026-11-01": "context pass — track 125D frame 100 (descending)",
+    "2026-11-06": "post-event (live pair geometry, track 024D frame 101)"
+  },
+  "units": "dB (10·log10 of the linear-power mean)",
+  "areas": {
+    "flood_candidates": {
+      "label": "NISAR flood candidates (published strip)",
+      "hh_db": [
+        -14.128,
+        -5.605,
+        -5.146,
+        null
+      ],
+      "hv_db": [
+        -20.824,
+        -11.265,
+        -10.963,
+        null
+      ],
+      "hh_median_db": [
+        -14.128,
+        -5.704,
+        -5.727,
+        null
+      ],
+      "hh_p10_db": [
+        -14.128,
+        -7.025,
+        -6.82,
+        null
+      ],
+      "hh_p90_db": [
+        -14.128,
+        -4.764,
+        -4.718,
+        null
+      ],
+      "hv_median_db": [
+        -20.824,
+        -11.083,
+        -10.901,
+        null
+      ],
+      "hv_p10_db": [
+        -20.824,
+        -13.026,
+        -12.558,
+        null
+      ],
+      "hv_p90_db": [
+        -20.824,
+        -10.164,
+        -9.921,
+        null
+      ],
+      "n_px_by_date": [
+        1,
+        235,
+        235,
+        0
+      ],
+      "mask_px_by_date": [
+        234,
+        235,
+        235,
+        234
+      ],
+      "km2": 2.35,
+      "uf": [
+        "SP",
+        "SP",
+        "SP",
+        "SP",
+        "SP",
+        "SP",
+        "SP",
+        "SP"
+      ],
+      "in_scope_states": [],
+      "scope_note": "all candidate polygons are outside RS/SC/PR (dropped by the states guard in live detection); stats kept here because the file is the required analysis area"
+    },
+    "control_open_field": {
+      "label": "open-field control (valley farmland, São Miguel Arcanjo muni)",
+      "hh_db": [
+        -8.784,
+        -6.595,
+        -6.261,
+        -9.051
+      ],
+      "hv_db": [
+        -14.03,
+        -12.165,
+        -11.71,
+        -14.169
+      ],
+      "hh_median_db": [
+        -9.054,
+        -6.799,
+        -6.537,
+        -9.336
+      ],
+      "hh_p10_db": [
+        -14.179,
+        -9.982,
+        -10.2,
+        -14.994
+      ],
+      "hh_p90_db": [
+        -6.486,
+        -5.194,
+        -4.892,
+        -6.638
+      ],
+      "hv_median_db": [
+        -14.43,
+        -12.115,
+        -11.698,
+        -14.571
+      ],
+      "hv_p10_db": [
+        -20.32,
+        -17.013,
+        -16.111,
+        -21.096
+      ],
+      "hv_p90_db": [
+        -11.155,
+        -10.256,
+        -9.935,
+        -11.258
+      ],
+      "n_px_by_date": [
+        4984,
+        5548,
+        5548,
+        4938
+      ],
+      "mask_px_by_date": [
+        5530,
+        5548,
+        5548,
+        5530
+      ],
+      "km2": 55.48,
+      "bbox": [
+        -48.02,
+        -24.05,
+        -47.95,
+        -23.98
+      ]
+    },
+    "control_urban": {
+      "label": "built-up control (São Miguel Arcanjo, SP)",
+      "hh_db": [
+        null,
+        -4.878,
+        1.013,
+        null
+      ],
+      "hv_db": [
+        null,
+        -12.079,
+        -10.339,
+        null
+      ],
+      "hh_median_db": [
+        null,
+        -6.842,
+        -5.633,
+        null
+      ],
+      "hh_p10_db": [
+        null,
+        -10.709,
+        -10.617,
+        null
+      ],
+      "hh_p90_db": [
+        null,
+        -1.996,
+        5.766,
+        null
+      ],
+      "hv_median_db": [
+        null,
+        -13.585,
+        -12.808,
+        null
+      ],
+      "hv_p10_db": [
+        null,
+        -18.038,
+        -17.32,
+        null
+      ],
+      "hv_p90_db": [
+        null,
+        -9.125,
+        -9.062,
+        null
+      ],
+      "n_px_by_date": [
+        0,
+        462,
+        462,
+        0
+      ],
+      "mask_px_by_date": [
+        440,
+        462,
+        462,
+        440
+      ],
+      "km2": 4.62,
+      "bbox": [
+        -48.015,
+        -23.895,
+        -47.995,
+        -23.875
+      ]
+    }
+  },
+  "frames": [
+    {
+      "date": "2026-10-25",
+      "layer_id": "nisar_pre",
+      "polarization": "HH",
+      "png": "now/response/png/nisar_hh_20261025.png",
+      "bounds": [
+        -48.215463,
+        -24.308256,
+        -47.787484,
+        -23.692064
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "layer_id": "nisar_post",
+      "polarization": "HH",
+      "png": "now/response/png/nisar_hh_20261106.png",
+      "bounds": [
+        -48.215463,
+        -24.308256,
+        -47.787484,
+        -23.692064
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "layer_id": "nisar_hv_pre",
+      "polarization": "HV",
+      "png": "now/response/png/nisar_hv_20261025.png",
+      "bounds": [
+        -48.215463,
+        -24.308256,
+        -47.787484,
+        -23.692064
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "layer_id": "nisar_hv_post",
+      "polarization": "HV",
+      "png": "now/response/png/nisar_hv_20261106.png",
+      "bounds": [
+        -48.215463,
+        -24.308256,
+        -47.787484,
+        -23.692064
+      ]
+    }
+  ],
+  "reading": {
+    "flood_candidates": "the published candidate strip is readable only on the two mid-swath context passes (Oct 29 -5.6 dB, Nov 1 -5.1 dB HH — ordinary land values); on both 024D frame-101 passes the strip sits inside the 2 km swath-edge exclusion, so the 'new water' call came from the data edge, not a flood signal.",
+    "control_open_field": "valley farmland varies -9.1…-6.3 dB across the four passes — inter-date/track drift, not flood-scale darkening.",
+    "control_urban": "São Miguel Arcanjo town centre reads bright (HH -4.9/1.0 dB on the mid-swath passes — building double-bounce) and falls inside the partial-swath edge zone on the 024D dates."
+  },
+  "reading_line": "Same-mode NISAR passes over the São Miguel Arcanjo (SP) candidate strip show no new water-darkening between Oct 25 and Nov 6: the strip was already dark on both 024D passes and reads as ordinary land on the two mid-swath context passes — the live flood candidates are a swath-edge artifact, not confirmed flooding.",
+  "geometry_note": "pair dates share track 024 D / frame 101 and mode 4005_DHDH_A (looks 100); context dates are other tracks/incidence — same mode, different geometry, so cross-track levels are indicative only",
+  "status": "candidates, never confirmed",
+  "generated_at": "2026-11-15T14:40:14.331050Z",
+  "grid_note": "per-date snapped 100 m grid in the granule's native EPSG (32723 on 024D passes, 32722 on context passes)",
+  "grids": {
+    "2026-10-25": {
+      "epsg": 32723,
+      "left": 173600.0,
+      "top": 7376200.0,
+      "res": 100.0,
+      "width": 422,
+      "height": 674
+    },
+    "2026-10-29": {
+      "epsg": 32722,
+      "left": 784200.0,
+      "top": 7376200.0,
+      "res": 100.0,
+      "width": 422,
+      "height": 674
+    },
+    "2026-11-01": {
+      "epsg": 32722,
+      "left": 784200.0,
+      "top": 7376200.0,
+      "res": 100.0,
+      "width": 422,
+      "height": 674
+    },
+    "2026-11-06": {
+      "epsg": 32723,
+      "left": 173600.0,
+      "top": 7376200.0,
+      "res": 100.0,
+      "width": 422,
+      "height": 674
+    }
+  },
+  "method": "HH/HV block-averaged linear power over the AOI chunks only (tp.response_nisar.block_average); per-area stats on valid pixels outside the 2 km scene/bbox edge zone (rn.edge_zone); candidate polygons rasterized pixel-centre on each date's grid",
+  "granules": {
+    "2026-10-25": "NISAR_L2_PR_GCOV_034_024_D_101_4005_DHDH_A_20261025T211603_20261025T211609_P05036_N_P_J_001",
+    "2026-10-29": "NISAR_L2_PR_GCOV_034_074_A_166_4005_DHDH_A_20261029T090726_20261029T090801_P05036_N_F_J_001",
+    "2026-11-01": "NISAR_L2_PR_GCOV_034_125_D_100_4005_DHDH_A_20261101T212400_20261101T212423_P05036_N_P_J_001",
+    "2026-11-06": "NISAR_L2_PR_GCOV_035_024_D_101_4005_DHDH_A_20261106T211603_20261106T211610_P05036_N_P_J_001"
+  },
+  "passes": [
+    {
+      "date": "2026-10-25",
+      "track": 24,
+      "look": "D",
+      "frame": 101,
+      "granule_id": "NISAR_L2_PR_GCOV_034_024_D_101_4005_DHDH_A_20261025T211603_20261025T211609_P05036_N_P_J_001",
+      "coverage": "P",
+      "mode_token": "4005_DHDH_A",
+      "looks": 100,
+      "epsg": 32723,
+      "same_geometry": true
+    },
+    {
+      "date": "2026-10-29",
+      "track": 74,
+      "look": "A",
+      "frame": 166,
+      "granule_id": "NISAR_L2_PR_GCOV_034_074_A_166_4005_DHDH_A_20261029T090726_20261029T090801_P05036_N_F_J_001",
+      "coverage": "F",
+      "mode_token": "4005_DHDH_A",
+      "looks": 100,
+      "epsg": 32722,
+      "same_geometry": false
+    },
+    {
+      "date": "2026-11-01",
+      "track": 125,
+      "look": "D",
+      "frame": 100,
+      "granule_id": "NISAR_L2_PR_GCOV_034_125_D_100_4005_DHDH_A_20261101T212400_20261101T212423_P05036_N_P_J_001",
+      "coverage": "P",
+      "mode_token": "4005_DHDH_A",
+      "looks": 100,
+      "epsg": 32722,
+      "same_geometry": false
+    },
+    {
+      "date": "2026-11-06",
+      "track": 24,
+      "look": "D",
+      "frame": 101,
+      "granule_id": "NISAR_L2_PR_GCOV_035_024_D_101_4005_DHDH_A_20261106T211603_20261106T211610_P05036_N_P_J_001",
+      "coverage": "P",
+      "mode_token": "4005_DHDH_A",
+      "looks": 100,
+      "epsg": 32723,
+      "same_geometry": true
+    }
+  ],
+  "rejected_passes": [
+    {
+      "date": "2026-11-06",
+      "granule_id": "NISAR_L2_PR_GCOV_035_024_D_100_4005_DHDH_A_20261106T211530_20261106T211604_P05036_N_F_J_001",
+      "reason": "footprint does not cover all candidate polygons"
+    },
+    {
+      "date": "2026-11-01",
+      "granule_id": "NISAR_L2_PR_GCOV_034_125_D_101_4005_DHDH_A_20261101T212422_20261101T212457_P05036_N_F_J_001",
+      "reason": "footprint does not cover all candidate polygons"
+    },
+    {
+      "date": "2026-10-29",
+      "granule_id": "NISAR_L2_PR_GCOV_034_074_A_165_4005_DHDH_A_20261029T090653_20261029T090727_P05036_N_F_J_001",
+      "reason": "footprint does not cover all candidate polygons"
+    },
+    {
+      "date": "2026-10-25",
+      "granule_id": "NISAR_L2_PR_GCOV_034_024_D_101_2005_DHDH_M_20261025T211603_20261025T211633_P05036_N_F_J_001",
+      "reason": "acquisition mode 2005_DHDH_M != series mode 4005_DHDH_A"
+    },
+    {
+      "date": "2026-10-25",
+      "granule_id": "NISAR_L2_PR_GCOV_034_024_D_100_4005_DHDH_A_20261025T211529_20261025T211604_P05036_N_F_J_001",
+      "reason": "footprint does not cover all candidate polygons"
+    }
+  ],
+  "guards": {
+    "pair_rule": "same looks + same acquisition mode (rn.pair_mismatch)",
+    "threshold_rule": "per-scene Otsu only — fallback -15 dB is not flood evidence",
+    "edge_buffer_m": 2000,
+    "states": [
+      "RS",
+      "SC",
+      "PR"
+    ],
+    "states_source": "now/geojson/municipal_boundaries.geojson (fallback-branch copy — pending lead-gathering)",
+    "candidate_polygons_dropped_outside_states": 8,
+    "published_pair_rejected": [
+      "pre/post looks differ (25 vs 100): different acquisition modes, not comparable",
+      "water threshold fell back to -15.0 dB (threshold_method fallback, nisar_meta.json): per-scene calibration failed",
+      "candidate polygons within 2 km of the swath valid-data edge and the domain bbox east edge",
+      "all candidate polygons outside RS/SC/PR (São Miguel Arcanjo, SP)"
+    ]
+  },
+  "masks": {
+    "flood_candidates": "now/response/flood_nisar.geojson"
+  },
+  "search_window_days": 60,
+  "caveats": [
+    "The published flood_nisar.geojson pair (Oct 25 mode-2005 F → Nov 6 mode-4005 P) is mixed-mode and its water threshold fell back to -15 dB — under the R2 guards it is rejected (no_usable_pair); this series uses the same-mode 4005 products.",
+    "Every published candidate polygon lies in São Miguel Arcanjo, SP — outside the RS/SC/PR live-response scope — and within 2 km of the partial swath's valid-data edge on both 024D dates.",
+    "Unguarded, the strip reads ~-17 dB HH on both 024D dates (already dark pre-event; swath-edge values are unreliable).",
+    "Context passes (Oct 29 ascending, Nov 1 descending) have different incidence — their dB levels are not directly comparable to the pair's; they answer 'was the strip water-dark mid-swath', not pixel change.",
+    "Candidates, never confirmed; here they fail the guards and the same-geometry check."
+  ]
+}

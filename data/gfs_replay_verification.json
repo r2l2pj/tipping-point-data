@@ -1,0 +1,338 @@
+{
+  "rs_2024": {
+    "2024-04-22": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2024-04-23": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2024-04-24": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2024-04-25": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2024-04-26": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2024-04-27": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2024-04-28": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2024-04-29": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2024-04-30": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2024-05-01": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2024-05-02": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2024-05-03": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2024-05-04": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2024-05-05": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2024-05-06": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2024-05-07": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    }
+  },
+  "wa_2025": {
+    "2025-11-30": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-01": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-02": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-03": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-04": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-05": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-06": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-07": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-08": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-09": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-10": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-11": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-12": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-13": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-14": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-15": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-16": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-17": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-18": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-19": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2025-12-20": {
+      "cells": 24,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    }
+  },
+  "rs_uruguai_2026": {
+    "2026-09-29": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-09-30": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-01": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-02": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-03": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-04": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-05": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-06": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-11": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-12": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-13": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-14": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-15": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-16": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-17": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-18": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-19": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-20": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-21": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-22": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-23": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-24": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-25": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-26": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-27": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-28": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-29": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-30": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    },
+    "2026-10-31": {
+      "cells": 16,
+      "mismatches": 0,
+      "max_abs_diff": 0.0
+    }
+  }
+}

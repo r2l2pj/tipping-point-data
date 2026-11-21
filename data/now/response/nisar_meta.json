@@ -1,0 +1,66 @@
+{
+  "source": "nisar-gcov",
+  "collection": "NISAR_L2_GCOV_V1",
+  "generated_at": "2026-11-21T16:27:14Z",
+  "bbox": [
+    -58.0,
+    -34.0,
+    -48.0,
+    -22.5
+  ],
+  "latest_acquired": null,
+  "latency_h": null,
+  "n_granules": 190,
+  "pairs": [],
+  "rejected_pairs": [
+    {
+      "pre": "NISAR_L2_PR_GCOV_036_024_D_101_4005_DHDH_A_20261118T211604_20261118T211610_P05036_N_P_J_001",
+      "post": "NISAR_L2_PR_GCOV_036_024_D_101_2005_DHDH_A_20261118T211613_20261118T211634_P05036_N_P_J_001",
+      "reason": "pre/post acquisition modes differ (4005_DHDH_A vs 2005_DHDH_A): not comparable"
+    },
+    {
+      "pre": "NISAR_L2_PR_GCOV_035_024_D_102_2005_DHDH_A_20261106T211657_20261106T211712_P05036_N_P_J_001",
+      "post": "NISAR_L2_PR_GCOV_036_024_D_102_2005_DHDH_A_20261118T211657_20261118T211712_P05036_N_P_J_001",
+      "reason": "water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used"
+    },
+    {
+      "pre": "NISAR_L2_PR_GCOV_035_024_D_103_2005_DHDH_A_20261106T211711_20261106T211726_P05036_N_P_J_001",
+      "post": "NISAR_L2_PR_GCOV_036_024_D_103_2005_DHDH_A_20261118T211711_20261118T211726_P05036_N_P_J_001",
+      "reason": "water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used"
+    }
+  ],
+  "flooded_km2": null,
+  "open_water_km2": null,
+  "bright_km2": null,
+  "new_km2": null,
+  "receded_km2": null,
+  "people_flooded": null,
+  "method": {
+    "algorithm": "tp.flood_mask.flood_mask (wa_2025): pre->post dB drop < -3.0 dB into water (Otsu, clamp -15.0 dB), pre-water excluded, HAND gate, bright-flood layer, MMU 3.0 ha",
+    "res_m": 100.0,
+    "multilook": "mean linear power per block",
+    "hand": "HAND (m), data/static/south_brazil/terrain/hand_90m.tif",
+    "people": "GPW v4.11 2020 count, pixel-centre sampled, area-weighted"
+  },
+  "_null_reasons": {
+    "pair 024D_101": "pre/post acquisition modes differ (4005_DHDH_A vs 2005_DHDH_A): not comparable",
+    "pair 024D_102": "water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used",
+    "pair 024D_103": "water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used",
+    "pairs": "no comparable NISAR pair this pass (pre/post acquisition modes differ (4005_DHDH_A vs 2005_DHDH_A): not comparable; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used)",
+    "flooded_km2": "no comparable NISAR pair this pass (pre/post acquisition modes differ (4005_DHDH_A vs 2005_DHDH_A): not comparable; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used)",
+    "new_km2": "no comparable NISAR pair this pass (pre/post acquisition modes differ (4005_DHDH_A vs 2005_DHDH_A): not comparable; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used)",
+    "receded_km2": "no comparable NISAR pair this pass (pre/post acquisition modes differ (4005_DHDH_A vs 2005_DHDH_A): not comparable; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used)",
+    "people_flooded": "no comparable NISAR pair this pass (pre/post acquisition modes differ (4005_DHDH_A vs 2005_DHDH_A): not comparable; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used)",
+    "open_water_km2": "no comparable NISAR pair this pass (pre/post acquisition modes differ (4005_DHDH_A vs 2005_DHDH_A): not comparable; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used)",
+    "bright_km2": "no comparable NISAR pair this pass (pre/post acquisition modes differ (4005_DHDH_A vs 2005_DHDH_A): not comparable; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used)"
+  },
+  "search_window": [
+    "2026-09-22T16:27:14Z",
+    "2026-11-21T16:27:14Z"
+  ],
+  "newest_available_acquired": "2026-11-18T21:17:11Z",
+  "newer_unpaired": [],
+  "status": "no_usable_pair",
+  "status_label": "No usable NISAR pair this pass \u2014 flood candidates not computed (pre/post acquisition modes differ (4005_DHDH_A vs 2005_DHDH_A): not comparable; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used; water threshold fell back to -15.0 dB (adaptive, at the clamp): per-scene calibration failed, pair not used)",
+  "geojson": null
+}

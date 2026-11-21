@@ -1,0 +1,166 @@
+{
+  "model": "xgb_all (3b trigger, daily)",
+  "group_labels": {
+    "rain": "Rain (NASA IMERG)",
+    "soil": "Soil moisture (NASA SMAP)",
+    "terrain": "Terrain (NASADEM)",
+    "landcover": "Land cover (MODIS + VIIRS)",
+    "climate": "Long-term climate (IMERG/SMAP means)",
+    "soil_texture": "Soil texture (SMAP)"
+  },
+  "importance_type": "gain_share = XGBoost total_gain share (TRAIN fit); group_permutation_pr_auc_drop = TEST PR-AUC drop when the group is shuffled",
+  "rows": [
+    {
+      "feature": "3-day rain vs the local 1-in-100-day level",
+      "group": "rain",
+      "gain_share": 0.3237181675972282,
+      "group_gain_share": 0.6248289630634567,
+      "group_permutation_pr_auc_drop": 0.5703355089166681,
+      "feature_id": "rain_72h_rel"
+    },
+    {
+      "feature": "24 h rain vs the local 1-in-100-day level",
+      "group": "rain",
+      "gain_share": 0.14961140922330357,
+      "group_gain_share": 0.6248289630634567,
+      "group_permutation_pr_auc_drop": 0.5703355089166681,
+      "feature_id": "rain_24h_rel"
+    },
+    {
+      "feature": "rain in the last 7 days (IMERG)",
+      "group": "rain",
+      "gain_share": 0.13145123143639778,
+      "group_gain_share": 0.6248289630634567,
+      "group_permutation_pr_auc_drop": 0.5703355089166681,
+      "feature_id": "rain_7d"
+    },
+    {
+      "feature": "land cover type",
+      "group": "landcover",
+      "gain_share": 0.1091605926416291,
+      "group_gain_share": 0.15420186173000236,
+      "group_permutation_pr_auc_drop": -0.16740045862911887,
+      "feature_id": "landcover"
+    },
+    {
+      "feature": "local relief",
+      "group": "terrain",
+      "gain_share": 0.06391326325491688,
+      "group_gain_share": 0.19043746985002694,
+      "group_permutation_pr_auc_drop": 0.0807539264086224,
+      "feature_id": "relief"
+    },
+    {
+      "feature": "vegetation greenness (NDVI)",
+      "group": "landcover",
+      "gain_share": 0.04504126908837326,
+      "group_gain_share": 0.15420186173000236,
+      "group_permutation_pr_auc_drop": -0.16740045862911887,
+      "feature_id": "ndvi"
+    },
+    {
+      "feature": "elevation",
+      "group": "terrain",
+      "gain_share": 0.03629568211299098,
+      "group_gain_share": 0.19043746985002694,
+      "group_permutation_pr_auc_drop": 0.0807539264086224,
+      "feature_id": "elevation"
+    },
+    {
+      "feature": "slope",
+      "group": "terrain",
+      "gain_share": 0.028151467362105345,
+      "group_gain_share": 0.19043746985002694,
+      "group_permutation_pr_auc_drop": 0.0807539264086224,
+      "feature_id": "slope"
+    },
+    {
+      "feature": "slope direction (north-south)",
+      "group": "terrain",
+      "gain_share": 0.023735919174924378,
+      "group_gain_share": 0.19043746985002694,
+      "group_permutation_pr_auc_drop": 0.0807539264086224,
+      "feature_id": "aspect_cos"
+    },
+    {
+      "feature": "slope direction (east-west)",
+      "group": "terrain",
+      "gain_share": 0.019685550175613582,
+      "group_gain_share": 0.19043746985002694,
+      "group_permutation_pr_auc_drop": 0.0807539264086224,
+      "feature_id": "aspect_sin"
+    },
+    {
+      "feature": "terrain curvature",
+      "group": "terrain",
+      "gain_share": 0.018655587769475773,
+      "group_gain_share": 0.19043746985002694,
+      "group_permutation_pr_auc_drop": 0.0807539264086224,
+      "feature_id": "curvature"
+    },
+    {
+      "feature": "rain in the last 3 days (IMERG)",
+      "group": "rain",
+      "gain_share": 0.015074412452630253,
+      "group_gain_share": 0.6248289630634567,
+      "group_permutation_pr_auc_drop": 0.5703355089166681,
+      "feature_id": "rain_72h"
+    },
+    {
+      "feature": "root-zone soil moisture (SMAP)",
+      "group": "soil",
+      "gain_share": 0.009935809194219406,
+      "group_gain_share": 0.030531705356514047,
+      "group_permutation_pr_auc_drop": 0.00541774483030486,
+      "feature_id": "sm_rootzone"
+    },
+    {
+      "feature": "surface soil moisture (SMAP)",
+      "group": "soil",
+      "gain_share": 0.007914859274784067,
+      "group_gain_share": 0.030531705356514047,
+      "group_permutation_pr_auc_drop": 0.00541774483030486,
+      "feature_id": "sm_surface"
+    },
+    {
+      "feature": "soil wetness, whole profile (SMAP)",
+      "group": "soil",
+      "gain_share": 0.006038265058116525,
+      "group_gain_share": 0.030531705356514047,
+      "group_permutation_pr_auc_drop": 0.00541774483030486,
+      "feature_id": "sm_profile_wetness"
+    },
+    {
+      "feature": "rain in the last 24 h (IMERG)",
+      "group": "rain",
+      "gain_share": 0.004973742353896821,
+      "group_gain_share": 0.6248289630634567,
+      "group_permutation_pr_auc_drop": 0.5703355089166681,
+      "feature_id": "rain_24h"
+    },
+    {
+      "feature": "clay share of the soil",
+      "group": "soil",
+      "gain_share": 0.0038697603132801088,
+      "group_gain_share": 0.030531705356514047,
+      "group_permutation_pr_auc_drop": 0.00541774483030486,
+      "feature_id": "clay"
+    },
+    {
+      "feature": "soil porosity",
+      "group": "soil",
+      "gain_share": 0.001640309801470029,
+      "group_gain_share": 0.030531705356514047,
+      "group_permutation_pr_auc_drop": 0.00541774483030486,
+      "feature_id": "porosity"
+    },
+    {
+      "feature": "sand share of the soil",
+      "group": "soil",
+      "gain_share": 0.001132701714643913,
+      "group_gain_share": 0.030531705356514047,
+      "group_permutation_pr_auc_drop": 0.00541774483030486,
+      "feature_id": "sand"
+    }
+  ]
+}

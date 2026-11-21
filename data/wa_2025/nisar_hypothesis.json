@@ -1,0 +1,387 @@
+{
+  "schema": "tipping-point/wa-nisar-hypothesis@1",
+  "case": "wa_2025",
+  "generated_at": "2026-11-15T14:15:45.527547Z",
+  "hypothesis": "co-pol (HH) darkening finds open-field floods, but flooded built-up areas and forest BRIGHTEN in HH (double bounce), so our detector misses them",
+  "verdict": "supported",
+  "verdict_checks": {
+    "misses_enriched_in_urban_forest": true,
+    "flooded_open_darkens": true,
+    "flooded_urban_brighter_than_open": true,
+    "flooded_forest_brighter_than_open": true
+  },
+  "result_paragraph": "The double-bounce hypothesis is supported: among the 60,936 OPERA-confirmed new-flood pixels our NISAR HH-darkening detector missed, 45% sit on urban or forest land cover vs 5% of the pixels it caught (8.562x enriched). Mean HH change Dec 4 -> Dec 16 was -2.72 dB (n=31,662) for flooded open land vs -0.66 dB (n=2,348) flooded urban and -0.18 dB (n=16,753) flooded forest (non-flooded controls drift ~+0.2 to +0.4 dB) — open-field water goes dark while flooded towns and trees stay near their bright baseline, so a darkening-only threshold misses exactly where people live: recall is 24.7% on open land but 3.4% in urban and 1.3% in forest. Caveat: flooded urban/forest pixels do not jump +3 dB (<=0.5% do) — double bounce cancels the darkening instead, so the existing +3 dB 'bright-flood' layer recovers only 0.01% of the misses; closing the gap needs HV/texture or land-cover-aware detection, not a brighter-than-baseline gate.",
+  "inputs": {
+    "nisar_gcov_db_cogs": {
+      "hh_pre": "wa_2025/cog/wa_2025_nisar_pre_20251204_60m.tif",
+      "hh_post": "wa_2025/cog/wa_2025_nisar_post_20251216_60m.tif",
+      "hv_pre": "wa_2025/cog/wa_2025_nisar_pre_hv_20251204_60m.tif",
+      "hv_post": "wa_2025/cog/wa_2025_nisar_post_hv_20251216_60m.tif"
+    },
+    "validation": "wa_2025/cog/wa_2025_opera_validation_20251216.tif (1=tp 2=fp 3=fn; fn = OPERA new flood missed by the NISAR candidates)",
+    "flood_mask": "wa_2025/cog/wa_2025_flood_nisar_20251210.tif",
+    "bright_mask": "wa_2025/cog/wa_2025_flood_bright_nisar_20251210.tif",
+    "water_now_mask": "wa_2025/cog/wa_2025_water_nisar_20251210.tif",
+    "landcover": "/home/lucascoelho/.cache/l42-hypothesis/lc_type1_2025.tif — MCD12Q1.061 2025 LC_Type1 IGBP (h09v04, 500 m)"
+  },
+  "grid": {
+    "analysis": "OPERA validation lattice EPSG:4326 ~30 m",
+    "delta": "post-pre dB, 3x3 median filter per tp.flood_mask, bilinear 60 m UTM -> 30 m; masks/LC nearest"
+  },
+  "lc_groups": {
+    "forest": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "urban": [
+      13
+    ],
+    "open": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14,
+      16
+    ],
+    "excluded": [
+      11,
+      15,
+      17,
+      255
+    ]
+  },
+  "mask_consistency_check": {
+    "nisar_flood_mask_px": 46275,
+    "val_pred_px": 46693,
+    "iou": 0.9901
+  },
+  "missed_composition": {
+    "forest": {
+      "n": 22613,
+      "share": 0.3711,
+      "km2": 13.566,
+      "share_of_classified": 0.4318
+    },
+    "urban": {
+      "n": 4672,
+      "share": 0.0767,
+      "km2": 2.813,
+      "share_of_classified": 0.0892
+    },
+    "open": {
+      "n": 25080,
+      "share": 0.4116,
+      "km2": 14.963,
+      "share_of_classified": 0.4789
+    },
+    "other": {
+      "n": 8571,
+      "share": 0.1407,
+      "km2": 5.106
+    },
+    "_total_n": 60936,
+    "_classified_n": 52365
+  },
+  "detected_composition": {
+    "forest": {
+      "n": 290,
+      "share": 0.0333,
+      "km2": 0.173,
+      "share_of_classified": 0.0334
+    },
+    "urban": {
+      "n": 166,
+      "share": 0.019,
+      "km2": 0.098,
+      "share_of_classified": 0.0191
+    },
+    "open": {
+      "n": 8231,
+      "share": 0.9441,
+      "km2": 4.918,
+      "share_of_classified": 0.9475
+    },
+    "other": {
+      "n": 31,
+      "share": 0.0036,
+      "km2": 0.018
+    },
+    "_total_n": 8718,
+    "_classified_n": 8687
+  },
+  "enrichment": {
+    "missed_urban_forest_share": 0.4478,
+    "detected_urban_forest_share": 0.0523,
+    "all_flood_urban_forest_share": 0.3983,
+    "enrichment_missed_vs_detected": 8.562
+  },
+  "delta_db": {
+    "forest": {
+      "flooded": {
+        "hh": {
+          "n": 16753,
+          "km2": 10.018,
+          "mean_db": -0.185,
+          "median_db": 0.25,
+          "p25_db": -0.558,
+          "p75_db": 0.734,
+          "share_dark_lt_-3dB": 0.0771,
+          "share_bright_gt_+3dB": 0.0053
+        },
+        "hv": {
+          "n": 16753,
+          "km2": 10.018,
+          "mean_db": -0.161,
+          "median_db": 0.117,
+          "p25_db": -0.507,
+          "p75_db": 0.59,
+          "share_dark_lt_-3dB": 0.0435,
+          "share_bright_gt_+3dB": 0.0013
+        },
+        "n": 16753
+      },
+      "flooded_detected_hh": {
+        "n": 290,
+        "km2": 0.173,
+        "mean_db": -5.6,
+        "median_db": -5.585,
+        "p25_db": -6.904,
+        "p75_db": -4.17,
+        "share_dark_lt_-3dB": 0.9241,
+        "share_bright_gt_+3dB": 0.0
+      },
+      "flooded_missed_hh": {
+        "n": 16463,
+        "km2": 9.845,
+        "mean_db": -0.09,
+        "median_db": 0.268,
+        "p25_db": -0.486,
+        "p75_db": 0.743,
+        "share_dark_lt_-3dB": 0.0621,
+        "share_bright_gt_+3dB": 0.0054
+      },
+      "control_not_flooded": {
+        "hh": {
+          "n": 11106572,
+          "km2": 6648.644,
+          "mean_db": 0.402,
+          "median_db": 0.331,
+          "p25_db": 0.106,
+          "p75_db": 0.581,
+          "share_dark_lt_-3dB": 0.0004,
+          "share_bright_gt_+3dB": 0.0013
+        },
+        "hv": {
+          "n": 11106572,
+          "km2": 6648.644,
+          "mean_db": 0.389,
+          "median_db": 0.312,
+          "p25_db": 0.08,
+          "p75_db": 0.581,
+          "share_dark_lt_-3dB": 0.0002,
+          "share_bright_gt_+3dB": 0.0013
+        },
+        "n": 11106572
+      },
+      "hh_control_adjusted_mean_db": -0.587
+    },
+    "urban": {
+      "flooded": {
+        "hh": {
+          "n": 2348,
+          "km2": 1.403,
+          "mean_db": -0.662,
+          "median_db": 0.048,
+          "p25_db": -0.596,
+          "p75_db": 0.45,
+          "share_dark_lt_-3dB": 0.1073,
+          "share_bright_gt_+3dB": 0.0009
+        },
+        "hv": {
+          "n": 2348,
+          "km2": 1.403,
+          "mean_db": -0.344,
+          "median_db": -0.021,
+          "p25_db": -0.57,
+          "p75_db": 0.399,
+          "share_dark_lt_-3dB": 0.0541,
+          "share_bright_gt_+3dB": 0.0004
+        },
+        "n": 2348
+      },
+      "flooded_detected_hh": {
+        "n": 166,
+        "km2": 0.098,
+        "mean_db": -7.104,
+        "median_db": -7.075,
+        "p25_db": -8.966,
+        "p75_db": -5.385,
+        "share_dark_lt_-3dB": 0.9699,
+        "share_bright_gt_+3dB": 0.0
+      },
+      "flooded_missed_hh": {
+        "n": 2182,
+        "km2": 1.305,
+        "mean_db": -0.171,
+        "median_db": 0.104,
+        "p25_db": -0.41,
+        "p75_db": 0.482,
+        "share_dark_lt_-3dB": 0.0417,
+        "share_bright_gt_+3dB": 0.0009
+      },
+      "control_not_flooded": {
+        "hh": {
+          "n": 1430421,
+          "km2": 859.38,
+          "mean_db": 0.178,
+          "median_db": 0.184,
+          "p25_db": -0.008,
+          "p75_db": 0.377,
+          "share_dark_lt_-3dB": 0.0005,
+          "share_bright_gt_+3dB": 0.0006
+        },
+        "hv": {
+          "n": 1430421,
+          "km2": 859.38,
+          "mean_db": 0.108,
+          "median_db": 0.115,
+          "p25_db": -0.114,
+          "p75_db": 0.34,
+          "share_dark_lt_-3dB": 0.0006,
+          "share_bright_gt_+3dB": 0.0005
+        },
+        "n": 1430421
+      },
+      "hh_control_adjusted_mean_db": -0.84
+    },
+    "open": {
+      "flooded": {
+        "hh": {
+          "n": 31662,
+          "km2": 18.883,
+          "mean_db": -2.723,
+          "median_db": -2.657,
+          "p25_db": -4.719,
+          "p75_db": -0.41,
+          "share_dark_lt_-3dB": 0.4641,
+          "share_bright_gt_+3dB": 0.0013
+        },
+        "hv": {
+          "n": 31662,
+          "km2": 18.883,
+          "mean_db": -1.829,
+          "median_db": -1.429,
+          "p25_db": -3.226,
+          "p75_db": -0.188,
+          "share_dark_lt_-3dB": 0.2773,
+          "share_bright_gt_+3dB": 0.0006
+        },
+        "n": 31662
+      },
+      "flooded_detected_hh": {
+        "n": 8231,
+        "km2": 4.918,
+        "mean_db": -5.49,
+        "median_db": -5.332,
+        "p25_db": -6.421,
+        "p75_db": -4.395,
+        "share_dark_lt_-3dB": 0.9456,
+        "share_bright_gt_+3dB": 0.0
+      },
+      "flooded_missed_hh": {
+        "n": 23431,
+        "km2": 13.965,
+        "mean_db": -1.752,
+        "median_db": -1.322,
+        "p25_db": -3.372,
+        "p75_db": -0.057,
+        "share_dark_lt_-3dB": 0.295,
+        "share_bright_gt_+3dB": 0.0017
+      },
+      "control_not_flooded": {
+        "hh": {
+          "n": 1707509,
+          "km2": 1019.803,
+          "mean_db": 0.179,
+          "median_db": 0.232,
+          "p25_db": -0.199,
+          "p75_db": 0.614,
+          "share_dark_lt_-3dB": 0.0133,
+          "share_bright_gt_+3dB": 0.0036
+        },
+        "hv": {
+          "n": 1707509,
+          "km2": 1019.803,
+          "mean_db": 0.216,
+          "median_db": 0.199,
+          "p25_db": -0.182,
+          "p75_db": 0.598,
+          "share_dark_lt_-3dB": 0.0077,
+          "share_bright_gt_+3dB": 0.0041
+        },
+        "n": 1707509
+      },
+      "hh_control_adjusted_mean_db": -2.902
+    }
+  },
+  "recall_by_group": {
+    "forest": {
+      "flooded_n": 22903,
+      "detected_n": 290,
+      "recall": 0.0127
+    },
+    "urban": {
+      "flooded_n": 4838,
+      "detected_n": 166,
+      "recall": 0.0343
+    },
+    "open": {
+      "flooded_n": 33311,
+      "detected_n": 8231,
+      "recall": 0.2471
+    }
+  },
+  "literal_brightening": {
+    "note": "the literal '>+3 dB rise' reading of 'brighten': flooded urban/forest pixels stay near their already-bright baseline (median ~0 dB), they do NOT jump +3 dB — double bounce cancels the specular darkening rather than adding power",
+    "flooded_share_gt_+3dB": {
+      "forest": 0.0053,
+      "urban": 0.0009,
+      "open": 0.0013
+    },
+    "missed_recovered_by_bright_layer": 0.0001
+  },
+  "bright_layer_recovery": {
+    "forest": {
+      "missed_n": 22613,
+      "in_bright_layer_n": 4,
+      "share_in_bright_layer": 0.0002
+    },
+    "urban": {
+      "missed_n": 4672,
+      "in_bright_layer_n": 0,
+      "share_in_bright_layer": 0.0
+    },
+    "open": {
+      "missed_n": 25080,
+      "in_bright_layer_n": 3,
+      "share_in_bright_layer": 0.0001
+    },
+    "all": {
+      "missed_n": 60936,
+      "in_bright_layer_n": 7,
+      "share_in_bright_layer": 0.0001
+    }
+  },
+  "caveats": [
+    "Misses also arise from the HAND>=15 m gate, the permanent-water exclusion and the 3-ha minimum mapping unit — not only from brightening; the land-cover/dB split isolates the double-bounce component only approximately.",
+    "NISAR GCOV is BETA (pre-calibration): absolute dB offsets are possible; the same-track same-frame pair keeps relative change interpretable.",
+    "LC_Type1 is 500 m, nearest-resampled to 30 m — boundary pixels are noisy; group means average over many pixels.",
+    "Control = validation-class-0 pixels with finite pre/post dB and not current water: mostly unflooded land, may include OPERA-unobserved cells."
+  ]
+}

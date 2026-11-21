@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [], "x_overlap": {"zip": "teammate 7 polygons (same NISAR pair Sep 30 -> 2026-10-12; sensor confirmed NISAR GCOV provisional)", "iou": 0.014, "of_zip_km2": 1.8043, "zip_km2": 1.8172, "pct_of_zip": 99.3, "note": "measured on the clamped-threshold mask \u2014 not publishable candidates per R2 rule"}}

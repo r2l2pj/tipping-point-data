@@ -1,0 +1,136 @@
+{
+  "schema": "tipping-point/events-index@1",
+  "events": [
+    {
+      "id": "wa-2025-12",
+      "title": "Washington atmospheric rivers, Dec 2025",
+      "bbox": [
+        -122.6,
+        47.0,
+        -121.5,
+        48.5
+      ],
+      "reference_date": "2025-12-10",
+      "layers": [],
+      "timeline_marks": [
+        {
+          "date": "2025-11-22",
+          "label": "NISAR pass (track 172 D)",
+          "kind": "nisar"
+        },
+        {
+          "date": "2025-12-03",
+          "label": "Forecast index Critical on landslide-prone cells (NOAA GFS run of Dec 3) — not where it later flooded",
+          "kind": "signal"
+        },
+        {
+          "date": "2025-12-04",
+          "label": "NISAR pass (track 172 D)",
+          "kind": "nisar"
+        },
+        {
+          "date": "2025-12-05",
+          "label": "NWS Seattle Flood Watch issued (16:10 PST), incl. landslide risk",
+          "kind": "event"
+        },
+        {
+          "date": "2025-12-08",
+          "label": "Heavy rain begins; Skagit County EOC fully activated (21:00 PST)",
+          "kind": "event",
+          "landing": true
+        },
+        {
+          "date": "2025-12-09",
+          "label": "Landslides, road closures and evacuations (Dec 9-10, Snohomish/King)",
+          "kind": "event"
+        },
+        {
+          "date": "2025-12-11",
+          "label": "River records on the Skagit and Snohomish (Dec 11-12)",
+          "kind": "event"
+        },
+        {
+          "date": "2025-12-16",
+          "label": "NISAR pass (track 172 D)",
+          "kind": "nisar"
+        }
+      ]
+    },
+    {
+      "id": "rs-2024-05",
+      "title": "Rio Grande do Sul flood, May 2024",
+      "bbox": [
+        -52.5,
+        -30.5,
+        -50.5,
+        -29.0
+      ],
+      "reference_date": "2024-05-02",
+      "layers": []
+    },
+    {
+      "id": "rs_uruguai_2026",
+      "title": "Uruguay River flood, Uruguaiana-Itaqui (RS), Oct-Nov 2026",
+      "bbox": [
+        -58.0,
+        -30.6,
+        -55.3,
+        -28.2
+      ],
+      "reference_date": "2026-10-12",
+      "layers": [],
+      "timeline_marks": [
+        {
+          "date": "2026-09-18",
+          "label": "NISAR pass (track 010 D)",
+          "kind": "nisar"
+        },
+        {
+          "date": "2026-09-30",
+          "label": "Index Critical over the Uruguaiana region (5 days ahead)",
+          "kind": "signal"
+        },
+        {
+          "date": "2026-09-30",
+          "label": "Upstream-basin rain ≥ 99th percentile in the Sep 30 forecast (retrospective test)",
+          "kind": "signal"
+        },
+        {
+          "date": "2026-09-30",
+          "label": "NISAR pass (track 010 D)",
+          "kind": "nisar"
+        },
+        {
+          "date": "2026-10-05",
+          "label": "Uruguaiana above flood stage 8.50 m (ANA gauge 77150000)",
+          "kind": "event"
+        },
+        {
+          "date": "2026-10-12",
+          "label": "NISAR pass (track 010 D)",
+          "kind": "nisar"
+        },
+        {
+          "date": "2026-10-16",
+          "label": "Crest 10.02 m at Uruguaiana (ANA)",
+          "kind": "event"
+        },
+        {
+          "date": "2026-10-24",
+          "label": "NISAR pass (track 010 D)",
+          "kind": "nisar"
+        },
+        {
+          "date": "2026-10-29",
+          "label": "Uruguaiana above flood stage again (ANA)",
+          "kind": "event"
+        },
+        {
+          "date": "2026-11-05",
+          "label": "NISAR pass (track 010 D)",
+          "kind": "nisar"
+        }
+      ]
+    }
+  ]
+}

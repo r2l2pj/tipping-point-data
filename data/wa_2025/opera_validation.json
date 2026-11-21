@@ -1,0 +1,74 @@
+{
+  "layer": "opera_validation",
+  "case": "wa_2025",
+  "date": "2025-12-16",
+  "generated_at": "2026-11-15T12:35:28.053543+00:00",
+  "definition": "like-for-like: NISAR new-flood mask vs OPERA DSWx-S1 new flood (water on 2025-12-15/17 AND NOT water on 2025-12-01..07), observed cloud-free on both dates; within the NISAR swath ~ AOI",
+  "classes": {
+    "0": "nodata",
+    "1": "tp (both)",
+    "2": "fp (NISAR only)",
+    "3": "fn (OPERA only)"
+  },
+  "legend": [
+    {
+      "class": 1,
+      "label": "TP — both",
+      "color": "#1a9850",
+      "px": 8718,
+      "km2": 5.207
+    },
+    {
+      "class": 2,
+      "label": "FP — NISAR only",
+      "color": "#f46d43",
+      "px": 37975,
+      "km2": 22.735
+    },
+    {
+      "class": 3,
+      "label": "FN — OPERA only",
+      "color": "#4575b4",
+      "px": 60936,
+      "km2": 36.448
+    }
+  ],
+  "grid": {
+    "crs": "EPSG:4326",
+    "nominal_m": 30,
+    "deg_per_px": 0.00026949335249730504,
+    "note": "EE reduceRegion scale lattice (deg=m/111320); km2 computed geodesically per row",
+    "width": 4082,
+    "height": 5572
+  },
+  "sources": {
+    "opera_dswx_s1": "catalog:OPERA/DSWX/L3_V1/S1 post 2025-12-15,2025-12-17 (no 2025-12-16 granule exists); pre 2025-12-02,2025-12-03,2025-12-05,2025-12-07",
+    "nisar_flood_polygons": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/flood_nisar_polygons",
+    "nisar_gcov": "NISAR_L2_GCOV_BETA_V1 post NISAR_L2_PR_GCOV_007_172_D_064_4005_DHDH_A_20251216T031815_20251216T031850_X05009_N_F_J_001 (2025-12-16); pre NISAR_L2_PR_GCOV_006_172_D_064_4005_DHDH_A_20251204T031815_20251204T031850_X05009_N_F_J_001 (2025-12-04)"
+  },
+  "bounds": [
+    -122.6,
+    46.999843,
+    -121.499877,
+    48.501347
+  ],
+  "iou": 0.08100047384998467,
+  "f1": 0.1498620505900453,
+  "confusion": {
+    "tp": 8718,
+    "fp": 37975,
+    "fn": 60936
+  },
+  "metrics_json": {
+    "tp": 8777,
+    "fp": 38086,
+    "fn": 60704,
+    "iou": 0.08159565666049996,
+    "f1": 0.1508801485250636
+  },
+  "ratios_vs_metrics": {
+    "tp": 0.9933,
+    "fp": 0.9971,
+    "fn": 1.0038
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "schema": "tipping-point/now-history@1",
+  "keep": 8,
+  "cadence_h": 3,
+  "updated_at": "2026-11-21T16:30:05Z",
+  "note": "Past Now runs (every 3 h), newest first, rolling: the last 8 runs (~24 h). Map frames (PNG) + summary + TPI_flood d0..d3 COGs (for NISAR agreement leads); other COGs, GeoJSON and the response layers are not kept. Each run's layer dates are as issued then.",
+  "paths_relative_to": "data/ (same as the root manifest); a run's own manifest paths resolve under its run directory",
+  "runs": [
+    {
+      "run": "2026-11-21T16:27:06Z",
+      "id": "20261121T162706Z",
+      "manifest": "now/history/20261121T162706Z/manifest.json",
+      "imerg": "2026-11-21T00Z",
+      "gfs_issued": "2026-11-21T00:00:00Z",
+      "smap": "2026-11-17T22:30:00Z",
+      "mode": "live",
+      "layers": 85,
+      "critical_km2_any": 6368.361699653451,
+      "alert_km2_any": 18504.99814434562
+    },
+    {
+      "run": "2026-11-21T11:18:44Z",
+      "id": "20261121T111844Z",
+      "manifest": "now/history/20261121T111844Z/manifest.json",
+      "imerg": "2026-11-21T00Z",
+      "gfs_issued": "2026-11-21T00:00:00Z",
+      "smap": "2026-11-17T22:30:00Z",
+      "mode": "live",
+      "layers": 85,
+      "critical_km2_any": 6368.361699653451,
+      "alert_km2_any": 18504.99814434562
+    },
+    {
+      "run": "2026-11-21T07:47:04Z",
+      "id": "20261121T074704Z",
+      "manifest": "now/history/20261121T074704Z/manifest.json",
+      "imerg": "2026-11-21T00Z",
+      "gfs_issued": "2026-11-21T00:00:00Z",
+      "smap": "2026-11-17T22:30:00Z",
+      "mode": "live",
+      "layers": 85,
+      "critical_km2_any": 6368.361699653451,
+      "alert_km2_any": 18504.99814434562
+    },
+    {
+      "run": "2026-11-21T02:28:08Z",
+      "id": "20261121T022808Z",
+      "manifest": "now/history/20261121T022808Z/manifest.json",
+      "imerg": "2026-11-20T00Z",
+      "gfs_issued": "2026-11-20T18:00:00Z",
+      "smap": "2026-11-17T22:30:00Z",
+      "mode": "live",
+      "layers": 85,
+      "critical_km2_any": 4790.069757364144,
+      "alert_km2_any": 14845.665297858848
+    },
+    {
+      "run": "2026-11-21T00:19:05Z",
+      "id": "20261121T001905Z",
+      "manifest": "now/history/20261121T001905Z/manifest.json",
+      "imerg": "2026-11-20T00Z",
+      "gfs_issued": "2026-11-20T18:00:00Z",
+      "smap": "2026-11-17T22:30:00Z",
+      "mode": "live",
+      "layers": 83,
+      "critical_km2_any": 3042.3278614122614,
+      "alert_km2_any": 10995.889398044099
+    },
+    {
+      "run": "2026-11-20T16:31:01Z",
+      "id": "20261120T163101Z",
+      "manifest": "now/history/20261120T163101Z/manifest.json",
+      "imerg": "2026-11-20T00Z",
+      "gfs_issued": "2026-11-20T00:00:00Z",
+      "smap": "2026-11-17T22:30:00Z",
+      "mode": "live",
+      "layers": 83,
+      "critical_km2_any": 2553.128507641802,
+      "alert_km2_any": 9202.694307540703
+    },
+    {
+      "run": "2026-11-20T07:54:24Z",
+      "id": "20261120T075424Z",
+      "manifest": "now/history/20261120T075424Z/manifest.json",
+      "imerg": "2026-11-20T00Z",
+      "gfs_issued": "2026-11-20T00:00:00Z",
+      "smap": "2026-11-17T22:30:00Z",
+      "mode": "live",
+      "layers": 81,
+      "critical_km2_any": 2553.128507641802,
+      "alert_km2_any": 9202.694307540703
+    },
+    {
+      "run": "2026-11-20T00:27:09Z",
+      "id": "20261120T002709Z",
+      "manifest": "now/history/20261120T002709Z/manifest.json",
+      "imerg": "2026-11-19T00Z",
+      "gfs_issued": "2026-11-19T18:00:00Z",
+      "smap": "2026-11-17T22:30:00Z",
+      "mode": "live",
+      "layers": 79,
+      "critical_km2_any": 2924.882174673566,
+      "alert_km2_any": 10039.991148146324
+    }
+  ],
+  "archive": [
+    {
+      "run": "2026-11-19T20:47:31Z",
+      "id": "20261119T204731Z",
+      "manifest": "now/history/20261119T204731Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261119T204731Z/cog/tpi_flood_d0.tif",
+        "now/history/20261119T204731Z/cog/tpi_flood_d1.tif",
+        "now/history/20261119T204731Z/cog/tpi_flood_d2.tif",
+        "now/history/20261119T204731Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-19T17:47:57Z",
+      "id": "20261119T174757Z",
+      "manifest": "now/history/20261119T174757Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261119T174757Z/cog/tpi_flood_d0.tif",
+        "now/history/20261119T174757Z/cog/tpi_flood_d1.tif",
+        "now/history/20261119T174757Z/cog/tpi_flood_d2.tif",
+        "now/history/20261119T174757Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-19T11:51:22Z",
+      "id": "20261119T115122Z",
+      "manifest": "now/history/20261119T115122Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261119T115122Z/cog/tpi_flood_d0.tif",
+        "now/history/20261119T115122Z/cog/tpi_flood_d1.tif",
+        "now/history/20261119T115122Z/cog/tpi_flood_d2.tif",
+        "now/history/20261119T115122Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-19T08:03:21Z",
+      "id": "20261119T080321Z",
+      "manifest": "now/history/20261119T080321Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261119T080321Z/cog/tpi_flood_d0.tif",
+        "now/history/20261119T080321Z/cog/tpi_flood_d1.tif",
+        "now/history/20261119T080321Z/cog/tpi_flood_d2.tif",
+        "now/history/20261119T080321Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-19T02:41:41Z",
+      "id": "20261119T024141Z",
+      "manifest": "now/history/20261119T024141Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261119T024141Z/cog/tpi_flood_d0.tif",
+        "now/history/20261119T024141Z/cog/tpi_flood_d1.tif",
+        "now/history/20261119T024141Z/cog/tpi_flood_d2.tif",
+        "now/history/20261119T024141Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-19T00:27:18Z",
+      "id": "20261119T002718Z",
+      "manifest": "now/history/20261119T002718Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261119T002718Z/cog/tpi_flood_d0.tif",
+        "now/history/20261119T002718Z/cog/tpi_flood_d1.tif",
+        "now/history/20261119T002718Z/cog/tpi_flood_d2.tif",
+        "now/history/20261119T002718Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-18T20:42:25Z",
+      "id": "20261118T204225Z",
+      "manifest": "now/history/20261118T204225Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261118T204225Z/cog/tpi_flood_d0.tif",
+        "now/history/20261118T204225Z/cog/tpi_flood_d1.tif",
+        "now/history/20261118T204225Z/cog/tpi_flood_d2.tif",
+        "now/history/20261118T204225Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-18T19:40:43Z",
+      "id": "20261118T194043Z",
+      "manifest": "now/history/20261118T194043Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261118T194043Z/cog/tpi_flood_d0.tif",
+        "now/history/20261118T194043Z/cog/tpi_flood_d1.tif",
+        "now/history/20261118T194043Z/cog/tpi_flood_d2.tif",
+        "now/history/20261118T194043Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-18T11:55:34Z",
+      "id": "20261118T115534Z",
+      "manifest": "now/history/20261118T115534Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261118T115534Z/cog/tpi_flood_d0.tif",
+        "now/history/20261118T115534Z/cog/tpi_flood_d1.tif",
+        "now/history/20261118T115534Z/cog/tpi_flood_d2.tif",
+        "now/history/20261118T115534Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-18T09:18:28Z",
+      "id": "20261118T091828Z",
+      "manifest": "now/history/20261118T091828Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261118T091828Z/cog/tpi_flood_d0.tif",
+        "now/history/20261118T091828Z/cog/tpi_flood_d1.tif",
+        "now/history/20261118T091828Z/cog/tpi_flood_d2.tif",
+        "now/history/20261118T091828Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-18T03:00:13Z",
+      "id": "20261118T030013Z",
+      "manifest": "now/history/20261118T030013Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261118T030013Z/cog/tpi_flood_d0.tif",
+        "now/history/20261118T030013Z/cog/tpi_flood_d1.tif",
+        "now/history/20261118T030013Z/cog/tpi_flood_d2.tif",
+        "now/history/20261118T030013Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-18T01:32:35Z",
+      "id": "20261118T013235Z",
+      "manifest": "now/history/20261118T013235Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261118T013235Z/cog/tpi_flood_d0.tif",
+        "now/history/20261118T013235Z/cog/tpi_flood_d1.tif",
+        "now/history/20261118T013235Z/cog/tpi_flood_d2.tif",
+        "now/history/20261118T013235Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-17T18:40:50Z",
+      "id": "20261117T184050Z",
+      "manifest": "now/history/20261117T184050Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261117T184050Z/cog/tpi_flood_d0.tif",
+        "now/history/20261117T184050Z/cog/tpi_flood_d1.tif",
+        "now/history/20261117T184050Z/cog/tpi_flood_d2.tif",
+        "now/history/20261117T184050Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-17T08:04:59Z",
+      "id": "20261117T080459Z",
+      "manifest": "now/history/20261117T080459Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261117T080459Z/cog/tpi_flood_d0.tif",
+        "now/history/20261117T080459Z/cog/tpi_flood_d1.tif",
+        "now/history/20261117T080459Z/cog/tpi_flood_d2.tif",
+        "now/history/20261117T080459Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-16T17:32:04Z",
+      "id": "20261116T173204Z",
+      "manifest": "now/history/20261116T173204Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261116T173204Z/cog/tpi_flood_d0.tif",
+        "now/history/20261116T173204Z/cog/tpi_flood_d1.tif",
+        "now/history/20261116T173204Z/cog/tpi_flood_d2.tif",
+        "now/history/20261116T173204Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-16T11:36:30Z",
+      "id": "20261116T113630Z",
+      "manifest": "now/history/20261116T113630Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261116T113630Z/cog/tpi_flood_d0.tif",
+        "now/history/20261116T113630Z/cog/tpi_flood_d1.tif",
+        "now/history/20261116T113630Z/cog/tpi_flood_d2.tif",
+        "now/history/20261116T113630Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-16T07:21:51Z",
+      "id": "20261116T072151Z",
+      "manifest": "now/history/20261116T072151Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261116T072151Z/cog/tpi_flood_d0.tif",
+        "now/history/20261116T072151Z/cog/tpi_flood_d1.tif",
+        "now/history/20261116T072151Z/cog/tpi_flood_d2.tif",
+        "now/history/20261116T072151Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-16T01:08:55Z",
+      "id": "20261116T010855Z",
+      "manifest": "now/history/20261116T010855Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261116T010855Z/cog/tpi_flood_d0.tif",
+        "now/history/20261116T010855Z/cog/tpi_flood_d1.tif",
+        "now/history/20261116T010855Z/cog/tpi_flood_d2.tif",
+        "now/history/20261116T010855Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-15T23:36:12Z",
+      "id": "20261115T233612Z",
+      "manifest": "now/history/20261115T233612Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261115T233612Z/cog/tpi_flood_d0.tif",
+        "now/history/20261115T233612Z/cog/tpi_flood_d1.tif",
+        "now/history/20261115T233612Z/cog/tpi_flood_d2.tif",
+        "now/history/20261115T233612Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-15T23:14:48Z",
+      "id": "20261115T231448Z",
+      "manifest": "now/history/20261115T231448Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261115T231448Z/cog/tpi_flood_d0.tif",
+        "now/history/20261115T231448Z/cog/tpi_flood_d1.tif",
+        "now/history/20261115T231448Z/cog/tpi_flood_d2.tif",
+        "now/history/20261115T231448Z/cog/tpi_flood_d3.tif"
+      ]
+    },
+    {
+      "run": "2026-11-15T23:02:52Z",
+      "id": "20261115T230252Z",
+      "manifest": "now/history/20261115T230252Z/manifest.json",
+      "flood_cogs": [
+        "now/history/20261115T230252Z/cog/tpi_flood_d0.tif",
+        "now/history/20261115T230252Z/cog/tpi_flood_d1.tif",
+        "now/history/20261115T230252Z/cog/tpi_flood_d2.tif",
+        "now/history/20261115T230252Z/cog/tpi_flood_d3.tif"
+      ]
+    }
+  ],
+  "archive_note": "runs 9..32 (~4 d): TPI_flood d0..d3 COGs only (uint8, TPI = value/250, 255 = no data) for NISAR agreement leads; not playable"
+}

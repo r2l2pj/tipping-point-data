@@ -1,0 +1,183 @@
+{
+  "generated_at": "2026-11-16T01:08:55.228837Z",
+  "critical_km2": {
+    "slide": 0.0,
+    "flood": 0.0,
+    "any": 0.0,
+    "any_today_or_d1": 0.0
+  },
+  "critical_km2_def": "today, class Crítico only (TPI > 0.6, A8); any = slide OR flood; any_today_or_d1 adds D+1; Brazilian land only",
+  "alert_km2": {
+    "slide": 0.0,
+    "flood": 0.0,
+    "any": 0.0,
+    "any_today_or_d1": 1.0942779799952669
+  },
+  "alert_km2_def": "today, class Alto or Crítico (TPI > 0.4) = 'High or above'; any = slide OR flood; any_today_or_d1 adds D+1; Brazilian land only",
+  "stats_domain": "Brazilian land in the bbox (IBGE outline, MCD12Q1 water excluded)",
+  "water_mask": "JRC GSW occurrence >= 50 % OR MCD12Q1 IGBP 17",
+  "water_masked_km2": 230375.42570306256,
+  "stats_domain_km2": 639237.8169529925,
+  "nodata_km2": {
+    "slide": 2463.036442201212,
+    "flood": 2463.036442201212
+  },
+  "filled_km2": 0.0,
+  "soil_fill_note": "L31: S at pixels whose nearest SMAP L4 cell is a gap is taken from the nearest valid SMAP cell within 9 km (one SMAP cell); farther stays nodata",
+  "people_exposed": 62394,
+  "people_alert": 61959,
+  "people_critical": 7179,
+  "_unpublished_people_estimates": {
+    "people_alert": null,
+    "people_critical": null,
+    "note": "0.01 deg GEE pop, ~30 % low; diagnostic only"
+  },
+  "forecast_source": "noaa-gfs",
+  "imerg_source": "gesdisc-early",
+  "classes_km2": {
+    "landslide": {
+      "Baixo": 636770.4038008198,
+      "Moderado": 4.376709971486493,
+      "Alto": 0.0,
+      "Crítico": 0.0
+    },
+    "flood": {
+      "Baixo": 636673.3534142666,
+      "Moderado": 101.42709652467153,
+      "Alto": 0.0,
+      "Crítico": 0.0
+    }
+  },
+  "data_dates": {
+    "imerg": "2026-11-15T00Z",
+    "smap": "2026-11-13T22:30:00Z",
+    "smap_granule": "SMAP_L4_SM_gph_20261113T223000_Vv8013_001.h5",
+    "smap_age_days": 2,
+    "smap_label": "SMAP de 13/11, 2 dias",
+    "gfs_issued": "2026-11-15T18:00:00Z",
+    "clim_doy_used": {
+      "321": 321,
+      "322": 322,
+      "323": 323,
+      "324": 324
+    },
+    "clim_source": "imerg-final-0p1",
+    "opera-dswx-s1": "2026-11-15T08:57:48Z",
+    "tpi_critical": "2026-11-17",
+    "response": "2026-11-16T01:09:24Z"
+  },
+  "response": {
+    "schema": "tipping-point/response@1",
+    "generated_at": "2026-11-16T01:09:24Z",
+    "bbox": [
+      -58.0,
+      -34.0,
+      -48.0,
+      -22.5
+    ],
+    "people_flooded": 435,
+    "people_flooded_lower": 418,
+    "people_critical": 7179,
+    "people_alert": 61959,
+    "people_exposed": 62394,
+    "flooded_km2": 101.363,
+    "flooded_km2_lower": 182.08,
+    "critical_km2": 1237.622,
+    "alert_km2": 7392.894,
+    "critical_km2_def": "Crítico only (TPI > 0.6, A8); alert_km2 = Alto or Crítico (TPI > 0.4)",
+    "exposed_km2": 7494.257,
+    "overlap_km2": null,
+    "sources": {
+      "opera-dswx-s1": {
+        "geojson": "response/flood_dswx.geojson",
+        "meta": "response/dswx_meta.json",
+        "features": 355,
+        "features_lower": 225,
+        "flooded_km2": 101.363,
+        "flooded_km2_lower": 182.08,
+        "people_flooded": 435,
+        "people_flooded_lower": 418,
+        "meta_flooded_km2": 101.526,
+        "latest_acquired": "2026-11-15T08:57:48Z",
+        "latency_h": 16.09,
+        "n_granules": 7,
+        "new_km2": 0.0,
+        "receded_km2": 0.0,
+        "status": "ok"
+      },
+      "nisar-gcov": {
+        "geojson": null,
+        "meta": "response/nisar_meta.json",
+        "features": null,
+        "features_lower": null,
+        "flooded_km2": null,
+        "flooded_km2_lower": null,
+        "people_flooded": null,
+        "people_flooded_lower": null,
+        "meta_flooded_km2": null,
+        "latest_acquired": null,
+        "latency_h": null,
+        "n_granules": 105,
+        "new_km2": null,
+        "receded_km2": null,
+        "status": "missing"
+      },
+      "tpi-critical": {
+        "geojson": "geojson/critical_areas.geojson",
+        "features": 16,
+        "days": [
+          "2026-11-17"
+        ],
+        "classes": {
+          "Alto": 9,
+          "Crítico": 7
+        },
+        "critical_km2": 1237.622,
+        "alert_km2": 7392.894,
+        "people_critical": 7179,
+        "people_alert": 61959,
+        "status": "ok"
+      }
+    },
+    "nisar": null,
+    "priority_zones": {
+      "geojson": "geojson/priority_zones.geojson",
+      "municipalities": 39
+    },
+    "people_source": "GPW v4.11 2020 population count (unadjusted), 30 arc-sec (data/now/static/gpw/gpw_popcount_2020_30sec.tif)",
+    "people_method": "GPW v4.11 2020 population count (unadjusted) on its native 30 arc-sec grid, each cell weighted by the fraction of its area covered by the mapped polygons (exact polygon-cell intersection); unions deduplicate overlaps",
+    "method": {
+      "area": "geodesic polygon area (shapely union, pyproj.Geod WGS84)",
+      "people": "GPW v4.11 2020 population count (unadjusted) on its native 30 arc-sec grid, each cell weighted by the fraction of its area covered by the mapped polygons (exact polygon-cell intersection); unions deduplicate overlaps",
+      "confidence": "headline = standard confidence (absent = standard); *_lower = lower-confidence not covered by standard"
+    },
+    "res_deg": 0.0025,
+    "_null_reasons": {
+      "flood_nisar": "response/flood_nisar.geojson missing — nisar-gcov candidates absent",
+      "nisar-gcov.latest_acquired": "latest_acquired absent in nisar_meta.json",
+      "nisar-gcov.latency_h": "latency_h absent in nisar_meta.json"
+    }
+  },
+  "nisar_water": {
+    "pass_date": "2026-11-05",
+    "pass_track": "010D",
+    "age_days": 11,
+    "water_km2": 49.659,
+    "outside_floodplain_pct": 87.1,
+    "raised_km2": 6.4,
+    "rule": "risk raised to Critical only for NISAR water on the HAND ≤ 5 m floodplain",
+    "tpi_today": {
+      "high_plus": {
+        "hit_pct": 0.0,
+        "area_share_pct": 0.0,
+        "lift": null
+      },
+      "critical": {
+        "hit_pct": 0.0,
+        "area_share_pct": 0.0,
+        "lift": null
+      }
+    },
+    "definition": "NISAR water = HH < −18 dB on Brazilian land outside permanent water, latest pass ≤ 12 d before today; hit = share of that water the TPI flags (today's map)"
+  }
+}

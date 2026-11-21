@@ -1,0 +1,89 @@
+{
+  "source": "opera-dswx-s1",
+  "status": "candidate",
+  "generated_at": "2026-11-21T16:27:11Z",
+  "latest_acquired": "2026-11-20T09:05:59.000Z",
+  "latency_h": null,
+  "n_granules": 0,
+  "n_failed": 0,
+  "n_granules_total": 2455,
+  "flooded_km2": 42.963,
+  "new_km2": 0.0,
+  "receded_km2": 0.0,
+  "people_flooded": 282.0,
+  "lower_confidence_km2": 103.79,
+  "lower_confidence_new_km2": 0.0,
+  "lower_confidence_people": 422.5,
+  "sub_mmu_km2": 155.818,
+  "seasonal_downgraded_km2": 0.133,
+  "seasonal_downgraded_people": 0.2,
+  "norain_downgraded_km2": 0.0,
+  "norain_downgraded_people": 0.0,
+  "norain_flagged_pixel_km2": 0.329,
+  "all_candidates_km2": 146.753,
+  "all_candidates_people": 704.5,
+  "seasonal_flagged_pixel_km2": 13.006,
+  "seasonal_flagged_pixel_people": 255.4,
+  "excluded_water_wetland_km2": 43.761,
+  "outside_brazil_km2": 260.073,
+  "raw_candidate_km2": 606.404,
+  "unbaselined_water_km2": 0.068,
+  "observed_km2": 895058.021,
+  "coverage_pct": 71.58,
+  "features": 233,
+  "grid": {
+    "crs": "EPSG:4326",
+    "res_deg": 0.0025,
+    "shape": [
+      4600,
+      4000
+    ],
+    "bbox": [
+      -58.0,
+      -34.0,
+      -48.0,
+      -22.5
+    ]
+  },
+  "params": {
+    "window_h": 144,
+    "min_obs": 3,
+    "base_max": 0.2,
+    "min_area_km2": 0.25,
+    "simplify_m": 150.0,
+    "water_classes": [
+      1,
+      2,
+      3
+    ],
+    "bootstrap_days": 60,
+    "gsw_occurrence_min_pct": 25,
+    "gsw_seasonality_min_months": 3
+  },
+  "bootstrap": {
+    "ok": true,
+    "start": "2026-09-16T04:04:33Z",
+    "end": "2026-11-15T04:04:33Z",
+    "n_granules": 2295,
+    "n_failed": 0
+  },
+  "people_source": "GPW v4.11 Population Count 2020, 30 arc-sec (CIESIN/SEDAC, doi:10.7927/H4JW8BX5)",
+  "landcover_source": "MCD12Q1.061 2025 LC_Type1 (IGBP)",
+  "brazil_outline_source": "IBGE malhas v3 paises/BR",
+  "seasonal_water_source": "JRC Global Surface Water v1.4 (1984-2021), cell mean",
+  "rain_rule": {
+    "window": [
+      "2026-11-13",
+      "2026-11-20"
+    ],
+    "n_files": 8,
+    "threshold_mm": 10.0,
+    "radius_km": 50.0,
+    "upstream_proxy": "max over a 50 km radius, all directions (superset of upstream; no flow routing)",
+    "local_median_mm": 40.7
+  },
+  "rain_source": "IMERG Early daily (GES DISC), 0.1 deg",
+  "_null_reasons": {
+    "latency_h": "no granules ingested this run"
+  }
+}

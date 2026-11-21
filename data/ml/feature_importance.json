@@ -1,0 +1,75 @@
+{
+  "model": "xgb_terrain_landcover (3a T_ML, served)",
+  "group_labels": {
+    "rain": "Rain (IMERG)",
+    "soil": "Soil (SMAP L4)",
+    "terrain": "Terrain (NASADEM)",
+    "landcover": "Surface (MCD12Q1 + VIIRS NDVI)",
+    "climate": "Climate (IMERG/SMAP means)",
+    "soil_texture": "Soil texture (SMAP L4 constants)"
+  },
+  "rows": [
+    {
+      "feature": "relief",
+      "group": "terrain",
+      "gain_share": 0.49359378516508334,
+      "group_gain_share": 0.8459924055514315,
+      "group_permutation_pr_auc_drop": 0.4415992058272856
+    },
+    {
+      "feature": "slope",
+      "group": "terrain",
+      "gain_share": 0.25491190413829856,
+      "group_gain_share": 0.8459924055514315,
+      "group_permutation_pr_auc_drop": 0.4415992058272856
+    },
+    {
+      "feature": "ndvi",
+      "group": "landcover",
+      "gain_share": 0.12857340716600038,
+      "group_gain_share": 0.1540075944485685,
+      "group_permutation_pr_auc_drop": 0.23096021273008055
+    },
+    {
+      "feature": "elevation",
+      "group": "terrain",
+      "gain_share": 0.062064652497842925,
+      "group_gain_share": 0.8459924055514315,
+      "group_permutation_pr_auc_drop": 0.4415992058272856
+    },
+    {
+      "feature": "landcover",
+      "group": "landcover",
+      "gain_share": 0.025434187282568133,
+      "group_gain_share": 0.1540075944485685,
+      "group_permutation_pr_auc_drop": 0.23096021273008055
+    },
+    {
+      "feature": "curvature",
+      "group": "terrain",
+      "gain_share": 0.014584125413631792,
+      "group_gain_share": 0.8459924055514315,
+      "group_permutation_pr_auc_drop": 0.4415992058272856
+    },
+    {
+      "feature": "aspect_cos",
+      "group": "terrain",
+      "gain_share": 0.010957726394322348,
+      "group_gain_share": 0.8459924055514315,
+      "group_permutation_pr_auc_drop": 0.4415992058272856
+    },
+    {
+      "feature": "aspect_sin",
+      "group": "terrain",
+      "gain_share": 0.00988021194225255,
+      "group_gain_share": 0.8459924055514315,
+      "group_permutation_pr_auc_drop": 0.4415992058272856
+    }
+  ],
+  "rf_permutation": {
+    "terrain": 0.31800111917697527,
+    "landcover": -0.07583795993852605,
+    "climate": 0.04574394886297463,
+    "soil_texture": 0.30236359669164
+  }
+}

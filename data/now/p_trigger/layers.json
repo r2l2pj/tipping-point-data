@@ -1,0 +1,246 @@
+{
+ "generated_at": "2026-11-21T16:29:48.551742+00:00",
+ "layers": [
+  {
+   "id": "p_trigger_24h",
+   "date": "2026-11-21",
+   "horizon_days": 1,
+   "png": "png/p_trigger_24h.png",
+   "cog": "cog/p_trigger_24h.tif",
+   "legend": {
+    "type": "relative_index",
+    "stops": [
+     0,
+     0.1,
+     0.25,
+     0.5,
+     0.75,
+     1
+    ]
+   },
+   "title": "P(landslide trigger within 24h)",
+   "serve_note": null,
+   "bounds": [
+    -58.0,
+    -33.999842,
+    -48.001818,
+    -22.5
+   ],
+   "forecast": true,
+   "partly_forecast": true,
+   "basis": "observed+forecast",
+   "obs_days": [
+    "2026-11-14",
+    "2026-11-15",
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20"
+   ],
+   "forecast_days": [
+    "2026-11-21"
+   ],
+   "obs_through": "2026-11-20",
+   "gfs_issued": "2026-11-21T00:00:00Z",
+   "basis_label": "P(landslide trigger within 24h) \u2014 observed IMERG to Nov 20 + NOAA GFS forecast to Nov 21 (issued 2026-11-21 00:00 UTC)",
+   "low_skill": false,
+   "domain": "Brazilian land only \u2014 product scope: no landslide labels and no Brazilian civil-defence audience outside Brazil",
+   "model": {
+    "name": "xgb_rain_soil",
+    "combine": "P_live_H = p_trigger_H x t_ml (band 't_ml' of ml_static_now_v2.tif = data/cog/t_ml_v2.tif)",
+    "version": null,
+    "test_metrics": "data/ml/ml_card_v2.json"
+   },
+   "stats": {
+    "p50": 0.0058,
+    "p99": 0.0529,
+    "max": 0.2089,
+    "n_cells": 580968
+   }
+  },
+  {
+   "id": "p_trigger_48h",
+   "date": "2026-11-21",
+   "horizon_days": 2,
+   "png": "png/p_trigger_48h.png",
+   "cog": "cog/p_trigger_48h.tif",
+   "legend": {
+    "type": "relative_index",
+    "stops": [
+     0,
+     0.1,
+     0.25,
+     0.5,
+     0.75,
+     1
+    ]
+   },
+   "title": "P(landslide trigger within 48h)",
+   "serve_note": null,
+   "bounds": [
+    -58.0,
+    -33.999842,
+    -48.001818,
+    -22.5
+   ],
+   "forecast": true,
+   "partly_forecast": true,
+   "basis": "observed+forecast",
+   "obs_days": [
+    "2026-11-14",
+    "2026-11-15",
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20"
+   ],
+   "forecast_days": [
+    "2026-11-21",
+    "2026-11-22"
+   ],
+   "obs_through": "2026-11-20",
+   "gfs_issued": "2026-11-21T00:00:00Z",
+   "basis_label": "P(landslide trigger within 48h) \u2014 observed IMERG to Nov 20 + NOAA GFS forecast to Nov 22 (issued 2026-11-21 00:00 UTC)",
+   "low_skill": false,
+   "domain": "Brazilian land only \u2014 product scope: no landslide labels and no Brazilian civil-defence audience outside Brazil",
+   "model": {
+    "name": "xgb_rain_soil",
+    "combine": "P_live_H = p_trigger_H x t_ml (band 't_ml' of ml_static_now_v2.tif = data/cog/t_ml_v2.tif)",
+    "version": null,
+    "test_metrics": "data/ml/ml_card_v2.json"
+   },
+   "stats": {
+    "p50": 0.0183,
+    "p99": 0.1093,
+    "max": 0.3656,
+    "n_cells": 580968
+   }
+  },
+  {
+   "id": "p_trigger_72h",
+   "date": "2026-11-21",
+   "horizon_days": 3,
+   "png": "png/p_trigger_72h.png",
+   "cog": "cog/p_trigger_72h.tif",
+   "legend": {
+    "type": "relative_index",
+    "stops": [
+     0,
+     0.1,
+     0.25,
+     0.5,
+     0.75,
+     1
+    ]
+   },
+   "title": "P(landslide trigger within 72h)",
+   "serve_note": null,
+   "bounds": [
+    -58.0,
+    -33.999842,
+    -48.001818,
+    -22.5
+   ],
+   "forecast": true,
+   "partly_forecast": true,
+   "basis": "observed+forecast",
+   "obs_days": [
+    "2026-11-14",
+    "2026-11-15",
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20"
+   ],
+   "forecast_days": [
+    "2026-11-21",
+    "2026-11-22",
+    "2026-11-23"
+   ],
+   "obs_through": "2026-11-20",
+   "gfs_issued": "2026-11-21T00:00:00Z",
+   "basis_label": "P(landslide trigger within 72h) \u2014 observed IMERG to Nov 20 + NOAA GFS forecast to Nov 23 (issued 2026-11-21 00:00 UTC)",
+   "low_skill": false,
+   "domain": "Brazilian land only \u2014 product scope: no landslide labels and no Brazilian civil-defence audience outside Brazil",
+   "model": {
+    "name": "xgb_rain_soil",
+    "combine": "P_live_H = p_trigger_H x t_ml (band 't_ml' of ml_static_now_v2.tif = data/cog/t_ml_v2.tif)",
+    "version": null,
+    "test_metrics": "data/ml/ml_card_v2.json"
+   },
+   "stats": {
+    "p50": 0.0258,
+    "p99": 0.1501,
+    "max": 0.4407,
+    "n_cells": 580968
+   }
+  },
+  {
+   "id": "p_trigger_7d",
+   "date": "2026-11-21",
+   "horizon_days": 7,
+   "png": "png/p_trigger_7d.png",
+   "cog": "cog/p_trigger_7d.tif",
+   "legend": {
+    "type": "relative_index",
+    "stops": [
+     0,
+     0.1,
+     0.25,
+     0.5,
+     0.75,
+     1
+    ]
+   },
+   "title": "P(landslide trigger within 7d)",
+   "serve_note": null,
+   "bounds": [
+    -58.0,
+    -33.999842,
+    -48.001818,
+    -22.5
+   ],
+   "forecast": true,
+   "partly_forecast": true,
+   "basis": "observed+forecast",
+   "obs_days": [
+    "2026-11-14",
+    "2026-11-15",
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20"
+   ],
+   "forecast_days": [
+    "2026-11-21",
+    "2026-11-22",
+    "2026-11-23",
+    "2026-11-24",
+    "2026-11-25",
+    "2026-11-26",
+    "2026-11-27"
+   ],
+   "obs_through": "2026-11-20",
+   "gfs_issued": "2026-11-21T00:00:00Z",
+   "basis_label": "P(landslide trigger within 7d) \u2014 observed IMERG to Nov 20 + NOAA GFS forecast to Nov 27 (issued 2026-11-21 00:00 UTC)",
+   "low_skill": true,
+   "domain": "Brazilian land only \u2014 product scope: no landslide labels and no Brazilian civil-defence audience outside Brazil",
+   "model": {
+    "name": "xgb_rain_soil",
+    "combine": "P_live_H = p_trigger_H x t_ml (band 't_ml' of ml_static_now_v2.tif = data/cog/t_ml_v2.tif)",
+    "version": null,
+    "test_metrics": "data/ml/ml_card_v2.json"
+   },
+   "stats": {
+    "p50": 0.0689,
+    "p99": 0.4174,
+    "max": 0.5292,
+    "n_cells": 580968
+   }
+  }
+ ]
+}

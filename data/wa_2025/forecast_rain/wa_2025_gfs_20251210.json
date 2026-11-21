@@ -1,0 +1,39 @@
+{
+  "case": "wa_2025",
+  "issue_date": "2025-12-10",
+  "creation_time": "2025-12-10T00:00:00Z",
+  "days": {
+    "d1": [
+      "2025-12-10",
+      "2025-12-11"
+    ],
+    "d2": [
+      "2025-12-11",
+      "2025-12-12"
+    ],
+    "d3": [
+      "2025-12-12",
+      "2025-12-13"
+    ],
+    "d4": [
+      "2025-12-13",
+      "2025-12-14"
+    ]
+  },
+  "bands": [
+    "d1",
+    "d2",
+    "d3",
+    "d4"
+  ],
+  "label": "forecast: NOAA GFS (issued 2025-12-10)",
+  "source": "NOAA GFS via AWS noaa-gfs-bdp-pds (GRIB2 APCP, GDAL)",
+  "collection": "noaa-gfs-bdp-pds gfs.tYYz.pgrb2.0p25.fFFF",
+  "band": "APCP surface (N-6..N hour acc fcst)",
+  "grid": "native NCEP GFS 0.25 deg cell centres (GDAL geotransform), no resampling",
+  "native_resolution": "~25 km (0.25 deg); day bucket = sum of trailing 1-6h accumulations valid in the day",
+  "cog": "data/wa_2025/forecast_rain/wa_2025_gfs_20251210.tif",
+  "alignment": "d<k> = forecast precip over calendar day D+k-1 (UTC)",
+  "verified_cells": 24,
+  "verified_mismatches": 0
+}

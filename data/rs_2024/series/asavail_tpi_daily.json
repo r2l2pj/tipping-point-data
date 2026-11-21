@@ -1,0 +1,102 @@
+{
+  "case": "rs_2024",
+  "basis": "as-available (IMERG Early ~4h + SMAP L4 shifted 3d); climatology = static GEE asset basis, T = static 90m",
+  "days": [
+    {
+      "date": "2024-04-22",
+      "tpi_slide_max": 0.0,
+      "tpi_flood_max": 0.0,
+      "first_critical_bool": false
+    },
+    {
+      "date": "2024-04-23",
+      "tpi_slide_max": 0.0,
+      "tpi_flood_max": 0.0,
+      "first_critical_bool": false
+    },
+    {
+      "date": "2024-04-24",
+      "tpi_slide_max": 0.0,
+      "tpi_flood_max": 0.0,
+      "first_critical_bool": false
+    },
+    {
+      "date": "2024-04-25",
+      "tpi_slide_max": 0.0,
+      "tpi_flood_max": 0.0,
+      "first_critical_bool": false
+    },
+    {
+      "date": "2024-04-26",
+      "tpi_slide_max": 0.2269597202539444,
+      "tpi_flood_max": 0.28017884492874146,
+      "first_critical_bool": false
+    },
+    {
+      "date": "2024-04-27",
+      "tpi_slide_max": 0.7655795216560364,
+      "tpi_flood_max": 0.7762011289596558,
+      "first_critical_bool": true
+    },
+    {
+      "date": "2024-04-28",
+      "tpi_slide_max": 0.7723188400268555,
+      "tpi_flood_max": 0.7832130193710327,
+      "first_critical_bool": true
+    },
+    {
+      "date": "2024-04-29",
+      "tpi_slide_max": 0.9464830160140991,
+      "tpi_flood_max": 0.9464830160140991,
+      "first_critical_bool": true
+    },
+    {
+      "date": "2024-04-30",
+      "tpi_slide_max": 0.9775964617729187,
+      "tpi_flood_max": 0.9805574417114258,
+      "first_critical_bool": true
+    },
+    {
+      "date": "2024-05-01",
+      "tpi_slide_max": 0.9801144599914551,
+      "tpi_flood_max": 0.9841490387916565,
+      "first_critical_bool": true
+    },
+    {
+      "date": "2024-05-02",
+      "tpi_slide_max": 0.9988803863525391,
+      "tpi_flood_max": 0.9966964721679688,
+      "first_critical_bool": true
+    },
+    {
+      "date": "2024-05-03",
+      "tpi_slide_max": 1.0,
+      "tpi_flood_max": 1.0,
+      "first_critical_bool": true
+    },
+    {
+      "date": "2024-05-04",
+      "tpi_slide_max": 1.0,
+      "tpi_flood_max": 1.0,
+      "first_critical_bool": true
+    },
+    {
+      "date": "2024-05-05",
+      "tpi_slide_max": 1.0,
+      "tpi_flood_max": 1.0,
+      "first_critical_bool": true
+    },
+    {
+      "date": "2024-05-06",
+      "tpi_slide_max": 1.0,
+      "tpi_flood_max": 1.0,
+      "first_critical_bool": true
+    },
+    {
+      "date": "2024-05-07",
+      "tpi_slide_max": 0.7155415415763855,
+      "tpi_flood_max": 0.8698113560676575,
+      "first_critical_bool": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "case": "wa_2025",
+  "event": "wa-2025-12",
+  "gpw_year": 2020,
+  "people_critical": 2847.6985656555325,
+  "people_flooded": 1150.8775801961883,
+  "flooded_km2": 28.291130745181892,
+  "flood_source": "nisar",
+  "ntl_mean_before": 0.7456146430292379,
+  "ntl_mean_after": 0.4181403456193361,
+  "night_light_drop_pct": 43.920046430346254,
+  "_null_reasons": {}
+}

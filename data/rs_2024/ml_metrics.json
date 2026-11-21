@@ -1,0 +1,10 @@
+{
+  "case": "rs_2024",
+  "rf_auc": null,
+  "rule_auc": null,
+  "reason": "No local labeled feature CSV/parquet table or trained ml/models/slide_xgb.json exists. Spatial block cross-validation and matched slope-rule baseline evaluation require labeled feature rows; synthetic test fixtures are not validation data.",
+  "evaluator": "ml/evaluate.py",
+  "model_family": "XGBoost (legacy rf_auc contract key)",
+  "rule_baseline": "slope_only",
+  "evaluation_run": false
+}

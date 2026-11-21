@@ -1,0 +1,17 @@
+{
+  "case": "rs_2024",
+  "event": "rs-2024-05",
+  "gpw_year": 2020,
+  "people_critical": 127971.02529246958,
+  "people_flooded": null,
+  "flooded_km2": null,
+  "flood_source": null,
+  "ntl_mean_before": 2.5860425450402267,
+  "ntl_mean_after": 1.730487455760022,
+  "night_light_drop_pct": 33.083565888004216,
+  "_null_reasons": {
+    "people_flooded": "no NISAR coverage \u2014 event predates launch (Jul 2025)",
+    "flooded_km2": "no NISAR coverage \u2014 event predates launch (Jul 2025)",
+    "flood_source": "no NISAR coverage \u2014 event predates launch (Jul 2025)"
+  }
+}

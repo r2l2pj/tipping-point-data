@@ -1,0 +1,2449 @@
+{
+  "activation": {
+    "id": "EMSR720",
+    "name": "Flood in Rio Grande Do Sul State, Brazil",
+    "category": "Flood",
+    "event_time_utc": "2024-05-02T00:00:00",
+    "activation_time_utc": "2024-05-03T09:04:00",
+    "activator": "EC Services|DG ECHO",
+    "gdacs_id": "FL1102592",
+    "glide": "FL-2024-000063-BRA",
+    "report_link": "https://storymaps.arcgis.com/stories/0bfb6520fbb9485e8b5acc5900b44787",
+    "closed": true
+  },
+  "licence": "Copernicus EMS — free use with attribution: © European Union, Copernicus Emergency Management Service",
+  "urls": {
+    "activation_page": "https://mapping.emergency.copernicus.eu/activations/EMSR720/",
+    "public_api": "https://mapping.emergency.copernicus.eu/backend/dashboard-api/public-activations/?code=EMSR720",
+    "products_zip": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/EMSR720_products.zip",
+    "viewer_bucket": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com"
+  },
+  "coverage_limit": "EMSR720 covers only five Taquari-valley AOIs (Guapore, Encantado, Roca Sales, Das Antas Dam, Santa Tereza); Porto Alegre/Guaiba metro flood not mapped by EMS — scores are Taquari-valley-only",
+  "simplify_tolerance_m": 20.0,
+  "aois": [
+    {
+      "aoi": "AOI01",
+      "name": "Guapore",
+      "extent_wkt": "POLYGON ((-51.818361 -29.186047, -51.827484 -29.18352, -51.835546 -29.176019, -51.838142 -29.171193, -51.847678 -29.171485, -51.876956 -29.174542, -51.875888 -29.184591, -51.871114 -29.189451, -51.870412 -29.190172, -51.870183 -29.192036, -51.869646 -29.196147, -51.869511 -29.199467, -51.876337 -29.198945, -51.876589 -29.196555, -51.878088 -29.193632, -51.880954 -29.191417, -51.890917 -29.187603, -51.896888 -29.183351, -51.898039 -29.178214, -51.903972 -29.157053, -51.918324 -29.119481, -51.917755 -29.105736, -51.903073 -29.105505, -51.902941 -29.110024, -51.903301996081176 -29.128863795483262, -51.891299 -29.145379, -51.834955 -29.128613, -51.823569 -29.135114, -51.82266 -29.147551, -51.833564 -29.157985, -51.82339 -29.171653, -51.818651 -29.176303, -51.818361 -29.186047))",
+      "extent_geojson": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.818361,
+              -29.186047
+            ],
+            [
+              -51.827484,
+              -29.18352
+            ],
+            [
+              -51.835546,
+              -29.176019
+            ],
+            [
+              -51.838142,
+              -29.171193
+            ],
+            [
+              -51.847678,
+              -29.171485
+            ],
+            [
+              -51.876956,
+              -29.174542
+            ],
+            [
+              -51.875888,
+              -29.184591
+            ],
+            [
+              -51.871114,
+              -29.189451
+            ],
+            [
+              -51.870412,
+              -29.190172
+            ],
+            [
+              -51.870183,
+              -29.192036
+            ],
+            [
+              -51.869646,
+              -29.196147
+            ],
+            [
+              -51.869511,
+              -29.199467
+            ],
+            [
+              -51.876337,
+              -29.198945
+            ],
+            [
+              -51.876589,
+              -29.196555
+            ],
+            [
+              -51.878088,
+              -29.193632
+            ],
+            [
+              -51.880954,
+              -29.191417
+            ],
+            [
+              -51.890917,
+              -29.187603
+            ],
+            [
+              -51.896888,
+              -29.183351
+            ],
+            [
+              -51.898039,
+              -29.178214
+            ],
+            [
+              -51.903972,
+              -29.157053
+            ],
+            [
+              -51.918324,
+              -29.119481
+            ],
+            [
+              -51.917755,
+              -29.105736
+            ],
+            [
+              -51.903073,
+              -29.105505
+            ],
+            [
+              -51.902941,
+              -29.110024
+            ],
+            [
+              -51.903301996081176,
+              -29.128863795483262
+            ],
+            [
+              -51.891299,
+              -29.145379
+            ],
+            [
+              -51.834955,
+              -29.128613
+            ],
+            [
+              -51.823569,
+              -29.135114
+            ],
+            [
+              -51.82266,
+              -29.147551
+            ],
+            [
+              -51.833564,
+              -29.157985
+            ],
+            [
+              -51.82339,
+              -29.171653
+            ],
+            [
+              -51.818651,
+              -29.176303
+            ],
+            [
+              -51.818361,
+              -29.186047
+            ]
+          ]
+        ]
+      },
+      "n_products": 4,
+      "blp_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI01/EMSR720_AOI01_BLP.zip"
+    },
+    {
+      "aoi": "AOI02",
+      "name": "Encantado",
+      "extent_wkt": "POLYGON ((-51.832782 -29.255828, -51.84014187219245 -29.25703597902289, -51.84093 -29.264428, -51.866432 -29.261655, -51.865741 -29.254909, -51.90409 -29.252322, -51.90272 -29.225154, -51.90146 -29.199488, -51.89643346451354 -29.199729376205575, -51.896422 -29.199667, -51.87713222966792 -29.200637331372178, -51.876744 -29.199118, -51.868429 -29.199782, -51.86869 -29.201062, -51.87076352672702 -29.20905866670476, -51.86922544397233 -29.211225380494728, -51.86789437832624 -29.21310046704774, -51.840451 -29.212311, -51.839889 -29.25034, -51.831035 -29.248036, -51.832782 -29.255828))",
+      "extent_geojson": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.832782,
+              -29.255828
+            ],
+            [
+              -51.84014187219245,
+              -29.25703597902289
+            ],
+            [
+              -51.84093,
+              -29.264428
+            ],
+            [
+              -51.866432,
+              -29.261655
+            ],
+            [
+              -51.865741,
+              -29.254909
+            ],
+            [
+              -51.90409,
+              -29.252322
+            ],
+            [
+              -51.90272,
+              -29.225154
+            ],
+            [
+              -51.90146,
+              -29.199488
+            ],
+            [
+              -51.89643346451354,
+              -29.199729376205575
+            ],
+            [
+              -51.896422,
+              -29.199667
+            ],
+            [
+              -51.87713222966792,
+              -29.200637331372178
+            ],
+            [
+              -51.876744,
+              -29.199118
+            ],
+            [
+              -51.868429,
+              -29.199782
+            ],
+            [
+              -51.86869,
+              -29.201062
+            ],
+            [
+              -51.87076352672702,
+              -29.20905866670476
+            ],
+            [
+              -51.86922544397233,
+              -29.211225380494728
+            ],
+            [
+              -51.86789437832624,
+              -29.21310046704774
+            ],
+            [
+              -51.840451,
+              -29.212311
+            ],
+            [
+              -51.839889,
+              -29.25034
+            ],
+            [
+              -51.831035,
+              -29.248036
+            ],
+            [
+              -51.832782,
+              -29.255828
+            ]
+          ]
+        ]
+      },
+      "n_products": 3,
+      "blp_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI02/EMSR720_AOI02_BLP.zip"
+    },
+    {
+      "aoi": "AOI03",
+      "name": "Roca Sales",
+      "extent_wkt": "POLYGON ((-51.840901 -29.264806, -51.840534013821355 -29.269732814447334, -51.840505 -29.269734, -51.848302 -29.303159, -51.885844 -29.30058, -51.888873 -29.304394, -51.892061 -29.315591, -51.898184 -29.325371, -51.921512 -29.324916, -51.923292 -29.324099, -51.922145 -29.320043, -51.913936 -29.314935, -51.907102 -29.306854, -51.902358 -29.305616, -51.900791 -29.29955, -51.901995 -29.299467, -51.90173440497397 -29.29810190529589, -51.911689 -29.295774, -51.912085 -29.291453, -51.89879889224642 -29.28272458616836, -51.895887 -29.267471, -51.87848652380899 -29.268182012199276, -51.874859 -29.263805, -51.866894 -29.261773, -51.866374 -29.26207, -51.840901 -29.264806))",
+      "extent_geojson": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.840901,
+              -29.264806
+            ],
+            [
+              -51.840534013821355,
+              -29.269732814447334
+            ],
+            [
+              -51.840505,
+              -29.269734
+            ],
+            [
+              -51.848302,
+              -29.303159
+            ],
+            [
+              -51.885844,
+              -29.30058
+            ],
+            [
+              -51.888873,
+              -29.304394
+            ],
+            [
+              -51.892061,
+              -29.315591
+            ],
+            [
+              -51.898184,
+              -29.325371
+            ],
+            [
+              -51.921512,
+              -29.324916
+            ],
+            [
+              -51.923292,
+              -29.324099
+            ],
+            [
+              -51.922145,
+              -29.320043
+            ],
+            [
+              -51.913936,
+              -29.314935
+            ],
+            [
+              -51.907102,
+              -29.306854
+            ],
+            [
+              -51.902358,
+              -29.305616
+            ],
+            [
+              -51.900791,
+              -29.29955
+            ],
+            [
+              -51.901995,
+              -29.299467
+            ],
+            [
+              -51.90173440497397,
+              -29.29810190529589
+            ],
+            [
+              -51.911689,
+              -29.295774
+            ],
+            [
+              -51.912085,
+              -29.291453
+            ],
+            [
+              -51.89879889224642,
+              -29.28272458616836
+            ],
+            [
+              -51.895887,
+              -29.267471
+            ],
+            [
+              -51.87848652380899,
+              -29.268182012199276
+            ],
+            [
+              -51.874859,
+              -29.263805
+            ],
+            [
+              -51.866894,
+              -29.261773
+            ],
+            [
+              -51.866374,
+              -29.26207
+            ],
+            [
+              -51.840901,
+              -29.264806
+            ]
+          ]
+        ]
+      },
+      "n_products": 2,
+      "blp_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI03/EMSR720_AOI03_BLP.zip"
+    },
+    {
+      "aoi": "AOI04",
+      "name": "Das Antas Dam",
+      "extent_wkt": "POLYGON ((-51.701944 -29.02904, -51.599077 -29.029066, -51.598062 -29.029943, -51.598021 -29.045059, -51.598018 -29.106135, -51.598007 -29.119879, -51.599036 -29.120788, -51.60952 -29.120789, -51.612697 -29.120793, -51.627944 -29.120816, -51.652763 -29.120832, -51.668442 -29.120788, -51.6784 -29.120786, -51.690302 -29.120786, -51.701993 -29.12078, -51.703031 -29.11985, -51.703015 -29.096255, -51.702964 -29.091398, -51.702972 -29.029944, -51.701944 -29.02904))",
+      "extent_geojson": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.701944,
+              -29.02904
+            ],
+            [
+              -51.599077,
+              -29.029066
+            ],
+            [
+              -51.598062,
+              -29.029943
+            ],
+            [
+              -51.598021,
+              -29.045059
+            ],
+            [
+              -51.598018,
+              -29.106135
+            ],
+            [
+              -51.598007,
+              -29.119879
+            ],
+            [
+              -51.599036,
+              -29.120788
+            ],
+            [
+              -51.60952,
+              -29.120789
+            ],
+            [
+              -51.612697,
+              -29.120793
+            ],
+            [
+              -51.627944,
+              -29.120816
+            ],
+            [
+              -51.652763,
+              -29.120832
+            ],
+            [
+              -51.668442,
+              -29.120788
+            ],
+            [
+              -51.6784,
+              -29.120786
+            ],
+            [
+              -51.690302,
+              -29.120786
+            ],
+            [
+              -51.701993,
+              -29.12078
+            ],
+            [
+              -51.703031,
+              -29.11985
+            ],
+            [
+              -51.703015,
+              -29.096255
+            ],
+            [
+              -51.702964,
+              -29.091398
+            ],
+            [
+              -51.702972,
+              -29.029944
+            ],
+            [
+              -51.701944,
+              -29.02904
+            ]
+          ]
+        ]
+      },
+      "n_products": 3,
+      "blp_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI04/EMSR720_AOI04_BLP.zip"
+    },
+    {
+      "aoi": "AOI05",
+      "name": "Santa Tereza",
+      "extent_wkt": "POLYGON ((-51.751331 -29.166567, -51.755911 -29.157406, -51.759883 -29.14861, -51.759976 -29.148638, -51.763402 -29.148246, -51.76715 -29.138395, -51.767078 -29.132755, -51.761425 -29.132476, -51.761399 -29.132555, -51.752737 -29.132117, -51.746284 -29.131869, -51.734197 -29.131413, -51.729209 -29.131114, -51.715503 -29.130543, -51.707544 -29.130221, -51.7071 -29.143512, -51.706171 -29.163392, -51.705921 -29.170959, -51.705659 -29.179906, -51.705075 -29.199851, -51.705151 -29.200213, -51.705493 -29.200365, -51.70752 -29.200449, -51.714111 -29.200508, -51.724767 -29.200542, -51.729068 -29.200583, -51.733964 -29.200613, -51.742405 -29.200673, -51.742443 -29.200595, -51.776725 -29.200822, -51.796275 -29.200936, -51.79675 -29.200765, -51.798711 -29.186031, -51.798924 -29.183975, -51.799103 -29.183847, -51.799348 -29.181972, -51.800019 -29.176739, -51.800875 -29.170193, -51.797184 -29.168444, -51.796133 -29.17056, -51.790819 -29.177371, -51.786032 -29.181473, -51.782822 -29.181026, -51.761467 -29.177397, -51.747963 -29.180253, -51.741728 -29.175472, -51.74184445213673 -29.17535716163342, -51.742051 -29.175431, -51.751331 -29.166567))",
+      "extent_geojson": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.751331,
+              -29.166567
+            ],
+            [
+              -51.755911,
+              -29.157406
+            ],
+            [
+              -51.759883,
+              -29.14861
+            ],
+            [
+              -51.759976,
+              -29.148638
+            ],
+            [
+              -51.763402,
+              -29.148246
+            ],
+            [
+              -51.76715,
+              -29.138395
+            ],
+            [
+              -51.767078,
+              -29.132755
+            ],
+            [
+              -51.761425,
+              -29.132476
+            ],
+            [
+              -51.761399,
+              -29.132555
+            ],
+            [
+              -51.752737,
+              -29.132117
+            ],
+            [
+              -51.746284,
+              -29.131869
+            ],
+            [
+              -51.734197,
+              -29.131413
+            ],
+            [
+              -51.729209,
+              -29.131114
+            ],
+            [
+              -51.715503,
+              -29.130543
+            ],
+            [
+              -51.707544,
+              -29.130221
+            ],
+            [
+              -51.7071,
+              -29.143512
+            ],
+            [
+              -51.706171,
+              -29.163392
+            ],
+            [
+              -51.705921,
+              -29.170959
+            ],
+            [
+              -51.705659,
+              -29.179906
+            ],
+            [
+              -51.705075,
+              -29.199851
+            ],
+            [
+              -51.705151,
+              -29.200213
+            ],
+            [
+              -51.705493,
+              -29.200365
+            ],
+            [
+              -51.70752,
+              -29.200449
+            ],
+            [
+              -51.714111,
+              -29.200508
+            ],
+            [
+              -51.724767,
+              -29.200542
+            ],
+            [
+              -51.729068,
+              -29.200583
+            ],
+            [
+              -51.733964,
+              -29.200613
+            ],
+            [
+              -51.742405,
+              -29.200673
+            ],
+            [
+              -51.742443,
+              -29.200595
+            ],
+            [
+              -51.776725,
+              -29.200822
+            ],
+            [
+              -51.796275,
+              -29.200936
+            ],
+            [
+              -51.79675,
+              -29.200765
+            ],
+            [
+              -51.798711,
+              -29.186031
+            ],
+            [
+              -51.798924,
+              -29.183975
+            ],
+            [
+              -51.799103,
+              -29.183847
+            ],
+            [
+              -51.799348,
+              -29.181972
+            ],
+            [
+              -51.800019,
+              -29.176739
+            ],
+            [
+              -51.800875,
+              -29.170193
+            ],
+            [
+              -51.797184,
+              -29.168444
+            ],
+            [
+              -51.796133,
+              -29.17056
+            ],
+            [
+              -51.790819,
+              -29.177371
+            ],
+            [
+              -51.786032,
+              -29.181473
+            ],
+            [
+              -51.782822,
+              -29.181026
+            ],
+            [
+              -51.761467,
+              -29.177397
+            ],
+            [
+              -51.747963,
+              -29.180253
+            ],
+            [
+              -51.741728,
+              -29.175472
+            ],
+            [
+              -51.74184445213673,
+              -29.17535716163342
+            ],
+            [
+              -51.742051,
+              -29.175431
+            ],
+            [
+              -51.751331,
+              -29.166567
+            ]
+          ]
+        ]
+      },
+      "n_products": 4,
+      "blp_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI05/EMSR720_AOI05_BLP.zip"
+    }
+  ],
+  "products": [
+    {
+      "aoi": "AOI01",
+      "product": "EMSR720_AOI01_BLP",
+      "type": null,
+      "monitoring_number": null,
+      "version": null,
+      "delivery_time_utc": null,
+      "status_code": null,
+      "version_reason": null,
+      "download_url": null,
+      "image_acquisition_utc": [],
+      "sensors": [],
+      "sensor_types": [],
+      "expected_delivery": null,
+      "stats": null
+    },
+    {
+      "aoi": "AOI01",
+      "product": "DEL_MONIT01",
+      "type": "DEL",
+      "monitoring_number": 1,
+      "version": 1,
+      "delivery_time_utc": "2024-05-05T19:11:58.292326",
+      "status_code": "F",
+      "version_reason": null,
+      "download_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI01/DEL_MONIT01/EMSR720_AOI01_DEL_MONIT01_v1.zip",
+      "image_acquisition_utc": [
+        "2024-05-04T22:10:00"
+      ],
+      "sensors": [
+        "RADARSAT-2"
+      ],
+      "sensor_types": [
+        "sar"
+      ],
+      "expected_delivery": "2024-05-05T08:41:00",
+      "stats": {
+        "Built-up": {
+          "Residential Buildings": {
+            "unit": "",
+            "total": 2389,
+            "affected": 11
+          },
+          "Other non-residential buildings": {
+            "unit": "",
+            "total": 24,
+            "affected": 3
+          }
+        },
+        "Land use": {
+          "Other": {
+            "unit": "ha",
+            "total": 365.7,
+            "affected": 8.5
+          },
+          "Forests ": {
+            "unit": "ha",
+            "total": 2230.8,
+            "affected": 73.8
+          },
+          "Inland wetlands ": {
+            "unit": "ha",
+            "total": 172.8,
+            "affected": 44.4
+          },
+          "Heterogeneous agricultural areas ": {
+            "unit": "ha",
+            "total": 167.1,
+            "affected": 55.4
+          },
+          "Shrub and/or herbaceous vegetation association": {
+            "unit": "ha",
+            "total": 105.4,
+            "affected": 25.6
+          }
+        },
+        "Facilities": {
+          "Sport and recreation constructions": {
+            "unit": "ha",
+            "total": 2.7,
+            "affected": 0.4
+          }
+        },
+        "Flooded area*": {
+          "None": {
+            "unit": "ha",
+            "total": 207.8
+          }
+        },
+        "Transportation": {
+          "Cart Track": {
+            "unit": "km",
+            "total": 38.0,
+            "affected": 1.3
+          },
+          "Local Road": {
+            "unit": "km",
+            "total": 27.2,
+            "affected": 0.9
+          },
+          "Primary Road": {
+            "unit": "km",
+            "total": 19.6,
+            "affected": 0.4
+          }
+        },
+        "Estimated population": {
+          "None": {
+            "unit": "",
+            "total": 4800,
+            "affected": 100
+          }
+        },
+        "Maximum flood extent**": {
+          "None": {
+            "unit": "ha",
+            "total": 208.9
+          }
+        }
+      }
+    },
+    {
+      "aoi": "AOI01",
+      "product": "DEL_PRODUCT",
+      "type": "DEL",
+      "monitoring_number": 0,
+      "version": 1,
+      "delivery_time_utc": "2024-05-04T19:29:00.337898",
+      "status_code": "F",
+      "version_reason": null,
+      "download_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI01/DEL_PRODUCT/EMSR720_AOI01_DEL_PRODUCT_v1.zip",
+      "image_acquisition_utc": [
+        "2024-05-04T09:48:00"
+      ],
+      "sensors": [
+        "COSMO-SkyMed Second Generation"
+      ],
+      "sensor_types": [
+        "sar"
+      ],
+      "expected_delivery": "2024-05-04T18:45:00",
+      "stats": {
+        "Land use": {
+          "Other": {
+            "unit": "ha",
+            "total": 185.6,
+            "affected": 58.5
+          },
+          "Forests ": {
+            "unit": "ha",
+            "total": 1284.2,
+            "affected": 25.6
+          },
+          "Inland wetlands ": {
+            "unit": "ha",
+            "total": 147.7,
+            "affected": 60.5
+          },
+          "Heterogeneous agricultural areas ": {
+            "unit": "ha",
+            "total": 116.3,
+            "affected": 14.7
+          },
+          "Shrub and/or herbaceous vegetation association": {
+            "unit": "ha",
+            "total": 90.7,
+            "affected": 18.7
+          }
+        },
+        "Flooded area": {
+          "None": {
+            "unit": "ha",
+            "total": 34.3
+          }
+        },
+        "Transportation": {
+          "Cart Track": {
+            "unit": "km",
+            "total": 23.2,
+            "affected": 0.2
+          },
+          "Primary Road": {
+            "unit": "km",
+            "total": 17.4,
+            "affected": 0.2
+          },
+          "Long-distance railways": {
+            "unit": "km",
+            "total": 4.8,
+            "affected": 0.1
+          }
+        },
+        "Water Extent**": {
+          "None": {
+            "unit": "ha",
+            "total": 178.0
+          }
+        },
+        "Permanent Water": {
+          "None": {
+            "unit": "ha",
+            "total": 143.7
+          }
+        },
+        "Estimated population": {
+          "None": {
+            "unit": "",
+            "total": 4600,
+            "affected": 40
+          }
+        }
+      }
+    },
+    {
+      "aoi": "AOI01",
+      "product": "GRA_MONIT01",
+      "type": "GRA",
+      "monitoring_number": 1,
+      "version": 1,
+      "delivery_time_utc": "2024-05-08T17:17:43.425352",
+      "status_code": "F",
+      "version_reason": null,
+      "download_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI01/GRA_MONIT01/EMSR720_AOI01_GRA_MONIT01_v1.zip",
+      "image_acquisition_utc": [
+        "2024-05-07T13:29:00"
+      ],
+      "sensors": [
+        "GeoEye-1"
+      ],
+      "sensor_types": [
+        "optical"
+      ],
+      "expected_delivery": "2024-05-08T20:30:00",
+      "stats": {
+        "Built-up": {
+          "Cemetery": {
+            "unit": "",
+            "total": 2,
+            "affected": 1
+          },
+          "Industrial buildings": {
+            "unit": "",
+            "total": 21,
+            "affected": 1
+          },
+          "Residential Buildings": {
+            "unit": "",
+            "total": 2570,
+            "affected": 250
+          },
+          "Other non-residential buildings": {
+            "unit": "",
+            "total": 26,
+            "affected": 10
+          }
+        },
+        "Land use": {
+          "Other": {
+            "unit": "ha",
+            "total": 461.6,
+            "affected": 70.0
+          },
+          "Forests ": {
+            "unit": "ha",
+            "total": 3046.8,
+            "affected": 433.5
+          },
+          "Inland wetlands ": {
+            "unit": "ha",
+            "total": 174.1,
+            "affected": 120.7
+          },
+          "Heterogeneous agricultural areas ": {
+            "unit": "ha",
+            "total": 365.2,
+            "affected": 257.8
+          },
+          "Shrub and/or herbaceous vegetation association": {
+            "unit": "ha",
+            "total": 112.7,
+            "affected": 72.9
+          }
+        },
+        "Landslide": {
+          "None": {
+            "unit": "ha",
+            "total": 57.3
+          }
+        },
+        "Facilities": {
+          "Sport and recreation constructions": {
+            "unit": "ha",
+            "total": 2.7,
+            "affected": 0.7
+          }
+        },
+        "Flood trace": {
+          "None": {
+            "unit": "ha",
+            "total": 779.9
+          }
+        },
+        "Flooded area": {
+          "None": {
+            "unit": "ha",
+            "total": 117.7
+          }
+        },
+        "Transportation": {
+          "Cart Track": {
+            "unit": "km",
+            "total": 51.7,
+            "affected": 17.6
+          },
+          "Local Road": {
+            "unit": "km",
+            "total": 29.8,
+            "affected": 14.8
+          },
+          "No Driveway": {
+            "unit": "km",
+            "total": 1.3,
+            "affected": 1.3
+          },
+          "Primary Road": {
+            "unit": "km",
+            "total": 21.6,
+            "affected": 4.8
+          }
+        },
+        "Estimated population": {
+          "None": {
+            "unit": "",
+            "total": 5100,
+            "affected": 2200
+          }
+        }
+      }
+    },
+    {
+      "aoi": "AOI01",
+      "product": "GRA_PRODUCT",
+      "type": "GRA",
+      "monitoring_number": 0,
+      "version": 1,
+      "delivery_time_utc": "2024-05-07T22:16:21.688987",
+      "status_code": "F",
+      "version_reason": null,
+      "download_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI01/GRA_PRODUCT/EMSR720_AOI01_GRA_PRODUCT_v1.zip",
+      "image_acquisition_utc": [
+        "2024-05-06T13:34:00"
+      ],
+      "sensors": [
+        "Pleiades Neo"
+      ],
+      "sensor_types": [
+        "optical"
+      ],
+      "expected_delivery": "2024-05-07T22:35:00",
+      "stats": {
+        "Built-up": {
+          "Cemetery": {
+            "unit": "",
+            "total": 2,
+            "affected": 1
+          },
+          "Industrial buildings": {
+            "unit": "",
+            "total": 21,
+            "affected": 1
+          },
+          "Residential Buildings": {
+            "unit": "",
+            "total": 2570,
+            "affected": 244
+          },
+          "Other non-residential buildings": {
+            "unit": "",
+            "total": 26,
+            "affected": 10
+          }
+        },
+        "Land use": {
+          "Other": {
+            "unit": "ha",
+            "total": 461.6,
+            "affected": 69.7
+          },
+          "Forests ": {
+            "unit": "ha",
+            "total": 3046.8,
+            "affected": 425.3
+          },
+          "Inland wetlands ": {
+            "unit": "ha",
+            "total": 174.1,
+            "affected": 120.7
+          },
+          "Heterogeneous agricultural areas ": {
+            "unit": "ha",
+            "total": 365.2,
+            "affected": 259.6
+          },
+          "Shrub and/or herbaceous vegetation association": {
+            "unit": "ha",
+            "total": 112.7,
+            "affected": 72.9
+          }
+        },
+        "Landslide": {
+          "None": {
+            "unit": "ha",
+            "total": 47.2
+          }
+        },
+        "Facilities": {
+          "Sport and recreation constructions": {
+            "unit": "ha",
+            "total": 2.7,
+            "affected": 0.7
+          }
+        },
+        "Flood trace": {
+          "None": {
+            "unit": "ha",
+            "total": 767.8
+          }
+        },
+        "Flooded area": {
+          "None": {
+            "unit": "ha",
+            "total": 133.2
+          }
+        },
+        "Transportation": {
+          "Cart Track": {
+            "unit": "km",
+            "total": 51.7,
+            "affected": 16.9
+          },
+          "Local Road": {
+            "unit": "km",
+            "total": 29.8,
+            "affected": 14.9
+          },
+          "No Driveway": {
+            "unit": "km",
+            "total": 1.3,
+            "affected": 1.3
+          },
+          "Primary Road": {
+            "unit": "km",
+            "total": 21.6,
+            "affected": 4.7
+          }
+        },
+        "Estimated population": {
+          "None": {
+            "unit": "",
+            "total": 5100,
+            "affected": 2200
+          }
+        }
+      }
+    },
+    {
+      "aoi": "AOI02",
+      "product": "EMSR720_AOI02_BLP",
+      "type": null,
+      "monitoring_number": null,
+      "version": null,
+      "delivery_time_utc": null,
+      "status_code": null,
+      "version_reason": null,
+      "download_url": null,
+      "image_acquisition_utc": [],
+      "sensors": [],
+      "sensor_types": [],
+      "expected_delivery": null,
+      "stats": null
+    },
+    {
+      "aoi": "AOI02",
+      "product": "DEL_MONIT01",
+      "type": "DEL",
+      "monitoring_number": 1,
+      "version": 1,
+      "delivery_time_utc": "2024-05-05T19:35:20.457050",
+      "status_code": "F",
+      "version_reason": null,
+      "download_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI02/DEL_MONIT01/EMSR720_AOI02_DEL_MONIT01_v1.zip",
+      "image_acquisition_utc": [
+        "2024-05-05T09:05:00"
+      ],
+      "sensors": [
+        "PAZ"
+      ],
+      "sensor_types": [
+        "sar"
+      ],
+      "expected_delivery": "2024-05-05T19:05:00",
+      "stats": {
+        "Built-up": {
+          "Unclassified": {
+            "unit": "",
+            "total": 6675,
+            "affected": 1
+          }
+        },
+        "Land use": {
+          "Other": {
+            "unit": "ha",
+            "total": 583.3,
+            "affected": 1.6
+          },
+          "Forests ": {
+            "unit": "ha",
+            "total": 1724.4,
+            "affected": 61.9
+          },
+          "Inland wetlands ": {
+            "unit": "ha",
+            "total": 133.5,
+            "affected": 0.6
+          },
+          "Heterogeneous agricultural areas ": {
+            "unit": "ha",
+            "total": 340.1,
+            "affected": 58.5
+          },
+          "Shrub and/or herbaceous vegetation association": {
+            "unit": "ha",
+            "total": 314.0,
+            "affected": 26.9
+          }
+        },
+        "Facilities": {
+          "Sport and recreation constructions": {
+            "unit": "ha",
+            "total": 16.0,
+            "affected": 4.8
+          }
+        },
+        "Flooded area*": {
+          "None": {
+            "unit": "ha",
+            "total": 149.5
+          }
+        },
+        "Transportation": {
+          "Cart Track": {
+            "unit": "km",
+            "total": 33.0,
+            "affected": 2.0
+          },
+          "Local Road": {
+            "unit": "km",
+            "total": 120.4,
+            "affected": 0.7
+          }
+        },
+        "Estimated population": {
+          "None": {
+            "unit": "",
+            "total": 18000,
+            "affected": 50
+          }
+        },
+        "Maximum flood extent**": {
+          "None": {
+            "unit": "ha",
+            "total": 233.9
+          }
+        }
+      }
+    },
+    {
+      "aoi": "AOI02",
+      "product": "DEL_PRODUCT",
+      "type": "DEL",
+      "monitoring_number": 0,
+      "version": 1,
+      "delivery_time_utc": "2024-05-05T09:28:48.089459",
+      "status_code": "F",
+      "version_reason": null,
+      "download_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI02/DEL_PRODUCT/EMSR720_AOI02_DEL_PRODUCT_v1.zip",
+      "image_acquisition_utc": [
+        "2024-05-04T22:10:00"
+      ],
+      "sensors": [
+        "RADARSAT-2"
+      ],
+      "sensor_types": [
+        "sar"
+      ],
+      "expected_delivery": "2024-05-05T08:20:00",
+      "stats": {
+        "Built-up": {
+          "Unclassified": {
+            "unit": "",
+            "total": 6675,
+            "affected": 4
+          }
+        },
+        "Land use": {
+          "Other": {
+            "unit": "ha",
+            "total": 583.3,
+            "affected": 8.9
+          },
+          "Forests ": {
+            "unit": "ha",
+            "total": 1724.4,
+            "affected": 40.1
+          },
+          "Inland wetlands ": {
+            "unit": "ha",
+            "total": 133.5,
+            "affected": 20.8
+          },
+          "Heterogeneous agricultural areas ": {
+            "unit": "ha",
+            "total": 340.1,
+            "affected": 66.5
+          },
+          "Shrub and/or herbaceous vegetation association": {
+            "unit": "ha",
+            "total": 314.0,
+            "affected": 27.2
+          }
+        },
+        "Facilities": {
+          "Sport and recreation constructions": {
+            "unit": "ha",
+            "total": 16.0,
+            "affected": 0.4
+          }
+        },
+        "Flooded area": {
+          "None": {
+            "unit": "ha",
+            "total": 163.5
+          }
+        },
+        "Transportation": {
+          "Cart Track": {
+            "unit": "km",
+            "total": 33.0,
+            "affected": 1.0
+          },
+          "Local Road": {
+            "unit": "km",
+            "total": 120.4,
+            "affected": 1.5
+          }
+        },
+        "Estimated population": {
+          "None": {
+            "unit": "",
+            "total": 18000,
+            "affected": 30
+          }
+        }
+      }
+    },
+    {
+      "aoi": "AOI02",
+      "product": "GRA_PRODUCT",
+      "type": "GRA",
+      "monitoring_number": 0,
+      "version": 1,
+      "delivery_time_utc": "2024-05-08T10:13:57.655901",
+      "status_code": "F",
+      "version_reason": null,
+      "download_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI02/GRA_PRODUCT/EMSR720_AOI02_GRA_PRODUCT_v1.zip",
+      "image_acquisition_utc": [
+        "2024-05-06T13:35:00"
+      ],
+      "sensors": [
+        "Pleiades Neo"
+      ],
+      "sensor_types": [
+        "optical"
+      ],
+      "expected_delivery": "2024-05-07T22:35:00",
+      "stats": {
+        "Built-up": {
+          "Unclassified": {
+            "unit": "",
+            "total": 6936,
+            "affected": 309
+          },
+          "Building point": {
+            "unit": "",
+            "total": 21,
+            "affected": 15
+          }
+        },
+        "Land use": {
+          "Other": {
+            "unit": "ha",
+            "total": 594.5,
+            "affected": 24.4
+          },
+          "Forests ": {
+            "unit": "ha",
+            "total": 2073.1,
+            "affected": 256.8
+          },
+          "Inland wetlands ": {
+            "unit": "ha",
+            "total": 135.6,
+            "affected": 47.2
+          },
+          "Heterogeneous agricultural areas ": {
+            "unit": "ha",
+            "total": 380.4,
+            "affected": 291.2
+          },
+          "Shrub and/or herbaceous vegetation association": {
+            "unit": "ha",
+            "total": 358.0,
+            "affected": 161.0
+          }
+        },
+        "Landslide": {
+          "None": {
+            "unit": "ha",
+            "total": 2.7
+          }
+        },
+        "Facilities": {
+          "Sport and recreation constructions": {
+            "unit": "ha",
+            "total": 16.2,
+            "affected": 10.8
+          }
+        },
+        "Dike breach": {
+          "None": {
+            "unit": "",
+            "total": 1
+          }
+        },
+        "Flood trace": {
+          "None": {
+            "unit": "ha",
+            "total": 689.6
+          }
+        },
+        "Flooded area": {
+          "None": {
+            "unit": "ha",
+            "total": 88.3
+          }
+        },
+        "Transportation": {
+          "Cart Track": {
+            "unit": "km",
+            "total": 38.7,
+            "affected": 7.5
+          },
+          "Local Road": {
+            "unit": "km",
+            "total": 125.9,
+            "affected": 9.6
+          },
+          "No Driveway": {
+            "unit": "km",
+            "total": 1.0,
+            "affected": 1.0
+          }
+        },
+        "Estimated population": {
+          "None": {
+            "unit": "",
+            "total": 18000,
+            "affected": 750
+          }
+        }
+      }
+    },
+    {
+      "aoi": "AOI03",
+      "product": "EMSR720_AOI03_BLP",
+      "type": null,
+      "monitoring_number": null,
+      "version": null,
+      "delivery_time_utc": null,
+      "status_code": null,
+      "version_reason": null,
+      "download_url": null,
+      "image_acquisition_utc": [],
+      "sensors": [],
+      "sensor_types": [],
+      "expected_delivery": null,
+      "stats": null
+    },
+    {
+      "aoi": "AOI03",
+      "product": "DEL_PRODUCT",
+      "type": "DEL",
+      "monitoring_number": 0,
+      "version": 1,
+      "delivery_time_utc": "2024-05-06T19:18:31.866281",
+      "status_code": "F",
+      "version_reason": null,
+      "download_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI03/DEL_PRODUCT/EMSR720_AOI03_DEL_PRODUCT_v1.zip",
+      "image_acquisition_utc": [
+        "2024-05-05T22:15:00"
+      ],
+      "sensors": [
+        "PAZ"
+      ],
+      "sensor_types": [
+        "sar"
+      ],
+      "expected_delivery": "2024-05-06T15:31:00",
+      "stats": {
+        "Built-up": {
+          "Unclassified": {
+            "unit": "",
+            "total": 3600,
+            "affected": 7
+          }
+        },
+        "Land use": {
+          "Other": {
+            "unit": "ha",
+            "total": 221.1,
+            "affected": 8.5
+          },
+          "Forests ": {
+            "unit": "ha",
+            "total": 1103.5,
+            "affected": 50.3
+          },
+          "Inland wetlands ": {
+            "unit": "ha",
+            "total": 110.4,
+            "affected": 44.6
+          },
+          "Heterogeneous agricultural areas ": {
+            "unit": "ha",
+            "total": 340.6,
+            "affected": 74.4
+          },
+          "Shrub and/or herbaceous vegetation association": {
+            "unit": "ha",
+            "total": 166.8,
+            "affected": 21.3
+          }
+        },
+        "Facilities": {
+          "Sport and recreation constructions": {
+            "unit": "ha",
+            "total": 2.2,
+            "affected": 0.2
+          },
+          "Long-distance pipelines, communication and electricity lines": {
+            "unit": "km",
+            "total": 4.4,
+            "affected": 0.4
+          }
+        },
+        "Flooded area": {
+          "None": {
+            "unit": "ha",
+            "total": 199.1
+          }
+        },
+        "Transportation": {
+          "Cart Track": {
+            "unit": "km",
+            "total": 20.5,
+            "affected": 1.2
+          },
+          "Local Road": {
+            "unit": "km",
+            "total": 49.0,
+            "affected": 1.3
+          },
+          "Secondary Road": {
+            "unit": "km",
+            "total": 3.4,
+            "affected": 0.1
+          }
+        },
+        "Estimated population": {
+          "None": {
+            "unit": "",
+            "total": 7300,
+            "affected": 150
+          }
+        }
+      }
+    },
+    {
+      "aoi": "AOI03",
+      "product": "GRA_PRODUCT",
+      "type": "GRA",
+      "monitoring_number": 0,
+      "version": 1,
+      "delivery_time_utc": "2024-05-08T08:23:48.035791",
+      "status_code": "F",
+      "version_reason": null,
+      "download_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI03/GRA_PRODUCT/EMSR720_AOI03_GRA_PRODUCT_v1.zip",
+      "image_acquisition_utc": [
+        "2024-05-06T13:05:00"
+      ],
+      "sensors": [
+        "Pleiades Neo"
+      ],
+      "sensor_types": [
+        "optical"
+      ],
+      "expected_delivery": "2024-05-07T22:35:00",
+      "stats": {
+        "Built-up": {
+          "Unclassified": {
+            "unit": "",
+            "total": 3977,
+            "affected": 1473
+          },
+          "Institutional": {
+            "unit": "",
+            "total": 1,
+            "affected": 1
+          },
+          "Building point": {
+            "unit": "",
+            "total": 25,
+            "affected": 8
+          },
+          "Industrial buildings": {
+            "unit": "",
+            "total": 20,
+            "affected": 11
+          },
+          "Residential Buildings": {
+            "unit": "",
+            "total": 162,
+            "affected": 24
+          },
+          "Non-residential farm buildings": {
+            "unit": "",
+            "total": 5,
+            "affected": 3
+          },
+          "Wholesale and retail trade buildings": {
+            "unit": "",
+            "total": 2,
+            "affected": 1
+          },
+          "School, university and research buildings": {
+            "unit": "",
+            "total": 4,
+            "affected": 4
+          },
+          "Buildings used as places of worship and for religious activities": {
+            "unit": "",
+            "total": 5,
+            "affected": 1
+          },
+          "Communication buildings, stations, terminals and associated buildings": {
+            "unit": "",
+            "total": 3,
+            "affected": 1
+          }
+        },
+        "Land use": {
+          "Other": {
+            "unit": "ha",
+            "total": 283.9,
+            "affected": 74.0
+          },
+          "Forests ": {
+            "unit": "ha",
+            "total": 1469.3,
+            "affected": 355.0
+          },
+          "Inland wetlands ": {
+            "unit": "ha",
+            "total": 166.6,
+            "affected": 70.4
+          },
+          "Heterogeneous agricultural areas ": {
+            "unit": "ha",
+            "total": 585.2,
+            "affected": 492.3
+          },
+          "Shrub and/or herbaceous vegetation association": {
+            "unit": "ha",
+            "total": 333.1,
+            "affected": 199.8
+          }
+        },
+        "Landslide": {
+          "None": {
+            "unit": "ha",
+            "total": 0.2
+          }
+        },
+        "Facilities": {
+          "Power plant constructions": {
+            "unit": "ha",
+            "total": 0.2,
+            "affected": 0.2
+          },
+          "Sport and recreation constructions": {
+            "unit": "ha",
+            "total": 4.1,
+            "affected": 3.6
+          }
+        },
+        "Flood trace": {
+          "None": {
+            "unit": "ha",
+            "total": 1091.2
+          }
+        },
+        "Flooded area": {
+          "None": {
+            "unit": "ha",
+            "total": 99.9
+          }
+        },
+        "Transportation": {
+          "Cart Track": {
+            "unit": "km",
+            "total": 24.4,
+            "affected": 10.9
+          },
+          "Local Road": {
+            "unit": "km",
+            "total": 65.9,
+            "affected": 28.8
+          },
+          "No Driveway": {
+            "unit": "km",
+            "total": 0.1,
+            "affected": 0.1
+          },
+          "Primary Road": {
+            "unit": "km",
+            "total": 13.1,
+            "affected": 5.2
+          },
+          "Secondary Road": {
+            "unit": "km",
+            "total": 4.0,
+            "affected": 3.4
+          },
+          "Long-distance railways": {
+            "unit": "km",
+            "total": 9.8,
+            "affected": 3.0
+          },
+          "Bridges and elevated highways": {
+            "unit": "",
+            "total": 1,
+            "affected": 1
+          }
+        },
+        "Estimated population": {
+          "None": {
+            "unit": "",
+            "total": 8400,
+            "affected": 2700
+          }
+        }
+      }
+    },
+    {
+      "aoi": "AOI04",
+      "product": "EMSR720_AOI04_BLP",
+      "type": null,
+      "monitoring_number": null,
+      "version": null,
+      "delivery_time_utc": null,
+      "status_code": null,
+      "version_reason": null,
+      "download_url": null,
+      "image_acquisition_utc": [],
+      "sensors": [],
+      "sensor_types": [],
+      "expected_delivery": null,
+      "stats": null
+    },
+    {
+      "aoi": "AOI04",
+      "product": "GRA_MONIT01",
+      "type": "GRA",
+      "monitoring_number": 1,
+      "version": 1,
+      "delivery_time_utc": "2024-05-08T23:05:23.975141",
+      "status_code": "F",
+      "version_reason": null,
+      "download_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI04/GRA_MONIT01/EMSR720_AOI04_GRA_MONIT01_v1.zip",
+      "image_acquisition_utc": [
+        "2024-05-08T13:23:00"
+      ],
+      "sensors": [
+        "Pleiades Neo"
+      ],
+      "sensor_types": [
+        "optical"
+      ],
+      "expected_delivery": "2024-05-09T03:38:00",
+      "stats": {
+        "Built-up": {
+          "Residential Buildings": {
+            "unit": "",
+            "total": 509,
+            "affected": 294
+          }
+        },
+        "Land use": {
+          "Other": {
+            "unit": "ha",
+            "total": 280.5,
+            "affected": 8.0
+          },
+          "Forests ": {
+            "unit": "ha",
+            "total": 9142.5,
+            "affected": 392.4
+          },
+          "Inland wetlands ": {
+            "unit": "ha",
+            "total": 466.5,
+            "affected": 78.5
+          },
+          "Heterogeneous agricultural areas ": {
+            "unit": "ha",
+            "total": 199.8,
+            "affected": 3.5
+          },
+          "Shrub and/or herbaceous vegetation association": {
+            "unit": "ha",
+            "total": 294.2,
+            "affected": 15.0
+          }
+        },
+        "Landslide": {
+          "None": {
+            "unit": "ha",
+            "total": 318.7
+          }
+        },
+        "Facilities": {
+          "Dams": {
+            "unit": "ha",
+            "total": 1.2,
+            "affected": 1.2
+          }
+        },
+        "Flood trace": {
+          "None": {
+            "unit": "ha",
+            "total": 107.5
+          }
+        },
+        "Flooded area": {
+          "None": {
+            "unit": "ha",
+            "total": 71.2
+          }
+        },
+        "Transportation": {
+          "Cart Track": {
+            "unit": "km",
+            "total": 225.5,
+            "affected": 13.7
+          },
+          "Local Road": {
+            "unit": "km",
+            "total": 34.9,
+            "affected": 2.5
+          },
+          "No Driveway": {
+            "unit": "km",
+            "total": 0.3,
+            "affected": 0.3
+          },
+          "Primary Road": {
+            "unit": "km",
+            "total": 15.6,
+            "affected": 5.6
+          },
+          "Long-distance railways": {
+            "unit": "km",
+            "total": 22.8,
+            "affected": 3.1
+          }
+        },
+        "Estimated population": {
+          "None": {
+            "unit": "",
+            "total": 2100,
+            "affected": 150
+          }
+        }
+      }
+    },
+    {
+      "aoi": "AOI04",
+      "product": "GRA_PRODUCT",
+      "type": "GRA",
+      "monitoring_number": 0,
+      "version": 1,
+      "delivery_time_utc": "2024-05-08T04:55:36.051638",
+      "status_code": "F",
+      "version_reason": null,
+      "download_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI04/GRA_PRODUCT/EMSR720_AOI04_GRA_PRODUCT_v1.zip",
+      "image_acquisition_utc": [
+        "2024-05-06T13:34:00"
+      ],
+      "sensors": [
+        "Pleiades Neo"
+      ],
+      "sensor_types": [
+        "optical"
+      ],
+      "expected_delivery": "2024-05-07T22:35:00",
+      "stats": {
+        "Built-up": {
+          "Residential Buildings": {
+            "unit": "",
+            "total": 448,
+            "affected": 233
+          }
+        },
+        "Land use": {
+          "Other": {
+            "unit": "ha",
+            "total": 112.1,
+            "affected": 7.2
+          },
+          "Forests ": {
+            "unit": "ha",
+            "total": 3403.5,
+            "affected": 209.5
+          },
+          "Inland wetlands ": {
+            "unit": "ha",
+            "total": 291.7,
+            "affected": 68.5
+          },
+          "Heterogeneous agricultural areas ": {
+            "unit": "ha",
+            "total": 99.8,
+            "affected": 2.6
+          },
+          "Shrub and/or herbaceous vegetation association": {
+            "unit": "ha",
+            "total": 91.4,
+            "affected": 7.4
+          }
+        },
+        "Landslide": {
+          "None": {
+            "unit": "ha",
+            "total": 151.5
+          }
+        },
+        "Facilities": {
+          "Dams": {
+            "unit": "ha",
+            "total": 1.2,
+            "affected": 1.2
+          }
+        },
+        "Flood trace": {
+          "None": {
+            "unit": "ha",
+            "total": 77.0
+          }
+        },
+        "Flooded area": {
+          "None": {
+            "unit": "ha",
+            "total": 66.8
+          }
+        },
+        "Transportation": {
+          "Cart Track": {
+            "unit": "km",
+            "total": 90.5,
+            "affected": 9.2
+          },
+          "Local Road": {
+            "unit": "km",
+            "total": 18.7,
+            "affected": 2.1
+          },
+          "No Driveway": {
+            "unit": "km",
+            "total": 0.3,
+            "affected": 0.3
+          },
+          "Primary Road": {
+            "unit": "km",
+            "total": 11.2,
+            "affected": 5.3
+          },
+          "Long-distance railways": {
+            "unit": "km",
+            "total": 13.8,
+            "affected": 2.8
+          }
+        },
+        "Estimated population": {
+          "None": {
+            "unit": "",
+            "total": 900,
+            "affected": 100
+          }
+        }
+      }
+    },
+    {
+      "aoi": "AOI05",
+      "product": "EMSR720_AOI05_BLP",
+      "type": null,
+      "monitoring_number": null,
+      "version": null,
+      "delivery_time_utc": null,
+      "status_code": null,
+      "version_reason": null,
+      "download_url": null,
+      "image_acquisition_utc": [],
+      "sensors": [],
+      "sensor_types": [],
+      "expected_delivery": null,
+      "stats": null
+    },
+    {
+      "aoi": "AOI05",
+      "product": "DEL_MONIT01",
+      "type": "DEL",
+      "monitoring_number": 1,
+      "version": 1,
+      "delivery_time_utc": "2024-05-06T15:57:21.101919",
+      "status_code": "F",
+      "version_reason": null,
+      "download_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI05/DEL_MONIT01/EMSR720_AOI05_DEL_MONIT01_v1.zip",
+      "image_acquisition_utc": [
+        "2024-05-05T22:15:00"
+      ],
+      "sensors": [
+        "PAZ"
+      ],
+      "sensor_types": [
+        "sar"
+      ],
+      "expected_delivery": "2024-05-06T13:30:00",
+      "stats": {
+        "Land use": {
+          "Other": {
+            "unit": "ha",
+            "total": 85.7,
+            "affected": 3.4
+          },
+          "Forests ": {
+            "unit": "ha",
+            "total": 773.9,
+            "affected": 12.3
+          },
+          "Inland wetlands ": {
+            "unit": "ha",
+            "total": 137.5,
+            "affected": 16.8
+          },
+          "Heterogeneous agricultural areas ": {
+            "unit": "ha",
+            "total": 88.8,
+            "affected": 21.7
+          },
+          "Shrub and/or herbaceous vegetation association": {
+            "unit": "ha",
+            "total": 60.2,
+            "affected": 3.0
+          }
+        },
+        "Facilities": {
+          "Long-distance pipelines, communication and electricity lines": {
+            "unit": "km",
+            "total": 1.4,
+            "affected": 0.1
+          }
+        },
+        "Flooded area*": {
+          "None": {
+            "unit": "ha",
+            "total": 57.2
+          }
+        },
+        "Transportation": {
+          "Cart Track": {
+            "unit": "km",
+            "total": 20.3,
+            "affected": 0.1
+          },
+          "Local Road": {
+            "unit": "km",
+            "total": 13.9,
+            "affected": 0.1
+          }
+        },
+        "Estimated population": {
+          "None": {
+            "unit": "",
+            "total": 900
+          }
+        },
+        "Maximum flood extent**": {
+          "None": {
+            "unit": "ha",
+            "total": 60.1
+          }
+        }
+      }
+    },
+    {
+      "aoi": "AOI05",
+      "product": "DEL_PRODUCT",
+      "type": "DEL",
+      "monitoring_number": 0,
+      "version": 1,
+      "delivery_time_utc": "2024-05-05T04:01:23.490753",
+      "status_code": "F",
+      "version_reason": null,
+      "download_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI05/DEL_PRODUCT/EMSR720_AOI05_DEL_PRODUCT_v1.zip",
+      "image_acquisition_utc": [
+        "2024-05-04T20:36:00"
+      ],
+      "sensors": [
+        "COSMO-SkyMed Second Generation"
+      ],
+      "sensor_types": [
+        "sar"
+      ],
+      "expected_delivery": "2024-05-05T07:15:00",
+      "stats": {
+        "Land use": {
+          "Other": {
+            "unit": "ha",
+            "total": 85.7,
+            "affected": 3.2
+          },
+          "Forests ": {
+            "unit": "ha",
+            "total": 773.9,
+            "affected": 9.2
+          },
+          "Inland wetlands ": {
+            "unit": "ha",
+            "total": 137.5,
+            "affected": 16.5
+          },
+          "Heterogeneous agricultural areas ": {
+            "unit": "ha",
+            "total": 88.8,
+            "affected": 19.4
+          },
+          "Shrub and/or herbaceous vegetation association": {
+            "unit": "ha",
+            "total": 60.2,
+            "affected": 2.6
+          }
+        },
+        "Facilities": {
+          "Long-distance pipelines, communication and electricity lines": {
+            "unit": "km",
+            "total": 1.4,
+            "affected": 0.1
+          }
+        },
+        "Flooded area": {
+          "None": {
+            "unit": "ha",
+            "total": 50.9
+          }
+        },
+        "Transportation": {
+          "Cart Track": {
+            "unit": "km",
+            "total": 20.3,
+            "affected": 0.1
+          },
+          "Local Road": {
+            "unit": "km",
+            "total": 13.9,
+            "affected": 0.1
+          }
+        },
+        "Estimated population": {
+          "None": {
+            "unit": "",
+            "total": 900
+          }
+        }
+      }
+    },
+    {
+      "aoi": "AOI05",
+      "product": "GRA_MONIT01",
+      "type": "GRA",
+      "monitoring_number": 1,
+      "version": 3,
+      "delivery_time_utc": "2024-06-05T17:05:51.526296",
+      "status_code": "F",
+      "version_reason": "Correction of the place names (in the map)",
+      "download_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI05/GRA_MONIT01/EMSR720_AOI05_GRA_MONIT01_v3.zip",
+      "image_acquisition_utc": [
+        "2024-05-15T13:31:00"
+      ],
+      "sensors": [
+        "WorldView-3"
+      ],
+      "sensor_types": [
+        "optical"
+      ],
+      "expected_delivery": "2024-05-16T00:30:00",
+      "stats": {
+        "Built-up": {
+          "Residential Buildings": {
+            "unit": "",
+            "total": 909,
+            "affected": 423
+          }
+        },
+        "Land use": {
+          "Other": {
+            "unit": "ha",
+            "total": 159.2,
+            "affected": 24.8
+          },
+          "Forests ": {
+            "unit": "ha",
+            "total": 4159.0,
+            "affected": 273.1
+          },
+          "Inland wetlands ": {
+            "unit": "ha",
+            "total": 260.2,
+            "affected": 115.5
+          },
+          "Heterogeneous agricultural areas ": {
+            "unit": "ha",
+            "total": 134.2,
+            "affected": 102.8
+          },
+          "Shrub and/or herbaceous vegetation association": {
+            "unit": "ha",
+            "total": 89.4,
+            "affected": 56.0
+          }
+        },
+        "Landslide": {
+          "None": {
+            "unit": "ha",
+            "total": 41.9
+          }
+        },
+        "Facilities": {
+          "Sport and recreation constructions": {
+            "unit": "ha",
+            "total": 1.9,
+            "affected": 1.3
+          }
+        },
+        "Flood trace": {
+          "None": {
+            "unit": "ha",
+            "total": 489.2
+          }
+        },
+        "Flooded area": {
+          "None": {
+            "unit": "ha",
+            "total": 41.1
+          }
+        },
+        "Transportation": {
+          "Cart Track": {
+            "unit": "km",
+            "total": 59.5,
+            "affected": 19.2
+          },
+          "Local Road": {
+            "unit": "km",
+            "total": 22.5,
+            "affected": 9.1
+          },
+          "Primary Road": {
+            "unit": "km",
+            "total": 6.1,
+            "affected": 2.9
+          },
+          "Secondary Road": {
+            "unit": "km",
+            "total": 4.7,
+            "affected": 0.3
+          },
+          "Long-distance railways": {
+            "unit": "km",
+            "total": 13.7,
+            "affected": 0.9
+          },
+          "Bridges and elevated highways": {
+            "unit": "km",
+            "total": 0.2,
+            "affected": 0.1
+          }
+        },
+        "Estimated population": {
+          "None": {
+            "unit": "",
+            "total": 1200,
+            "affected": 350
+          }
+        }
+      }
+    },
+    {
+      "aoi": "AOI05",
+      "product": "GRA_PRODUCT",
+      "type": "GRA",
+      "monitoring_number": 0,
+      "version": 2,
+      "delivery_time_utc": "2024-05-08T11:30:44.510894",
+      "status_code": "F",
+      "version_reason": "file absent or incorrect and presence of extra files",
+      "download_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR720/AOI05/GRA_PRODUCT/EMSR720_AOI05_GRA_PRODUCT_v2.zip",
+      "image_acquisition_utc": [
+        "2024-05-06T13:34:00"
+      ],
+      "sensors": [
+        "Pleiades Neo"
+      ],
+      "sensor_types": [
+        "optical"
+      ],
+      "expected_delivery": "2024-05-07T22:35:00",
+      "stats": {
+        "Built-up": {
+          "Residential Buildings": {
+            "unit": "",
+            "total": 703,
+            "affected": 42
+          }
+        },
+        "Land use": {
+          "Other": {
+            "unit": "ha",
+            "total": 120.9,
+            "affected": 8.0
+          },
+          "Forests ": {
+            "unit": "ha",
+            "total": 1731.0,
+            "affected": 96.9
+          },
+          "Inland wetlands ": {
+            "unit": "ha",
+            "total": 190.2,
+            "affected": 42.1
+          },
+          "Heterogeneous agricultural areas ": {
+            "unit": "ha",
+            "total": 89.6,
+            "affected": 42.2
+          },
+          "Shrub and/or herbaceous vegetation association": {
+            "unit": "ha",
+            "total": 66.1,
+            "affected": 15.3
+          }
+        },
+        "Landslide": {
+          "None": {
+            "unit": "ha",
+            "total": 14.9
+          }
+        },
+        "Facilities": {
+          "Sport and recreation constructions": {
+            "unit": "ha",
+            "total": 1.9,
+            "affected": 1.3
+          }
+        },
+        "Flood trace": {
+          "None": {
+            "unit": "ha",
+            "total": 154.9
+          }
+        },
+        "Flooded area": {
+          "None": {
+            "unit": "ha",
+            "total": 34.8
+          }
+        },
+        "Transportation": {
+          "Cart Track": {
+            "unit": "km",
+            "total": 30.6,
+            "affected": 1.2
+          },
+          "Local Road": {
+            "unit": "km",
+            "total": 16.1,
+            "affected": 1.9
+          },
+          "Primary Road": {
+            "unit": "km",
+            "total": 5.6,
+            "affected": 1.0
+          },
+          "Long-distance railways": {
+            "unit": "km",
+            "total": 10.3,
+            "affected": 0.1
+          },
+          "Bridges and elevated highways": {
+            "unit": "km",
+            "total": 0.2,
+            "affected": 0.1
+          }
+        },
+        "Estimated population": {
+          "None": {
+            "unit": "",
+            "total": 1000,
+            "affected": 100
+          }
+        }
+      }
+    }
+  ],
+  "image_dates": [
+    "2024-05-04",
+    "2024-05-05",
+    "2024-05-06",
+    "2024-05-07",
+    "2024-05-08",
+    "2024-05-15"
+  ],
+  "layers_used": {
+    "flood": "observedEventA + maximumFloodExtentA, event_type '5-Flood', notations Flooded area / Flood trace / Maximum flood extent",
+    "permanent_water_excluded": "BLP hydrographyA (reference lakes/rivers) subtracted from flood polygons",
+    "landslide": "observedEventA event_type '6-Mass Movement' (-> landslide_ems.geojson, not scored)"
+  },
+  "retrieved_utc": "2026-11-15T14:04:58+00:00"
+}

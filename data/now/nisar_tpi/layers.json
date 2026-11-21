@@ -1,0 +1,318 @@
+{
+  "layers": [
+    {
+      "id": "nisar_water",
+      "date": "2026-11-21",
+      "kind": "nisar_extra",
+      "png": "png/nisar_water.png",
+      "cog": null,
+      "bounds": [
+        -58.0,
+        -33.999842,
+        -48.001818,
+        -22.5
+      ],
+      "legend": [
+        {
+          "label": "NISAR-observed water (candidate)",
+          "color": "#08519c"
+        }
+      ],
+      "label": "NISAR-observed water (candidate)",
+      "sensor": "NISAR",
+      "pass_date": "2026-11-18",
+      "pass_track": "024D",
+      "age_days": 3,
+      "note": "HH < −18 dB on the latest NISAR pass ≤ 12 d old, outside permanent water; candidate (also lights flooded rice / irrigation)."
+    },
+    {
+      "id": "tpi_flood_nisar_d0",
+      "date": "2026-11-21",
+      "png": "png/tpi_flood_nisar_d0.png",
+      "cog": "cog/tpi_flood_nisar_today.tif",
+      "bounds": [
+        -58.0,
+        -33.999842,
+        -48.001818,
+        -22.5
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "forecast": false,
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "nisar_passes": [
+        {
+          "date": "2026-11-09",
+          "track": "060A",
+          "id": "nisar_hh_20261109_060A"
+        },
+        {
+          "date": "2026-11-10",
+          "track": "074A",
+          "id": "nisar_hh_20261110_074A"
+        },
+        {
+          "date": "2026-11-10",
+          "track": "082D",
+          "id": "nisar_hh_20261110_082D"
+        },
+        {
+          "date": "2026-11-12",
+          "track": "103A",
+          "id": "nisar_hh_20261112_103A"
+        },
+        {
+          "date": "2026-11-12",
+          "track": "111D",
+          "id": "nisar_hh_20261112_111D"
+        },
+        {
+          "date": "2026-11-13",
+          "track": "125D",
+          "id": "nisar_hh_20261113_125D"
+        },
+        {
+          "date": "2026-11-14",
+          "track": "132A",
+          "id": "nisar_hh_20261114_132A"
+        },
+        {
+          "date": "2026-11-16",
+          "track": "161A",
+          "id": "nisar_hh_20261116_161A"
+        },
+        {
+          "date": "2026-11-17",
+          "track": "002A",
+          "id": "nisar_hh_20261117_002A"
+        },
+        {
+          "date": "2026-11-17",
+          "track": "010D",
+          "id": "nisar_hh_20261117_010D"
+        },
+        {
+          "date": "2026-11-18",
+          "track": "024D",
+          "id": "nisar_hh_20261118_024D"
+        }
+      ],
+      "nisar_water_km2": 2862.879,
+      "nisar_outside_floodplain_pct": 78.2,
+      "nisar_raised_km2": 624.921
+    },
+    {
+      "id": "tpi_flood_nisar_d1",
+      "date": "2026-11-22",
+      "png": "png/tpi_flood_nisar_d1.png",
+      "cog": null,
+      "bounds": [
+        -58.0,
+        -33.999842,
+        -48.001818,
+        -22.5
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "forecast": true,
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "nisar_passes": [
+        {
+          "date": "2026-11-10",
+          "track": "074A",
+          "id": "nisar_hh_20261110_074A"
+        },
+        {
+          "date": "2026-11-10",
+          "track": "082D",
+          "id": "nisar_hh_20261110_082D"
+        },
+        {
+          "date": "2026-11-12",
+          "track": "103A",
+          "id": "nisar_hh_20261112_103A"
+        },
+        {
+          "date": "2026-11-12",
+          "track": "111D",
+          "id": "nisar_hh_20261112_111D"
+        },
+        {
+          "date": "2026-11-13",
+          "track": "125D",
+          "id": "nisar_hh_20261113_125D"
+        },
+        {
+          "date": "2026-11-14",
+          "track": "132A",
+          "id": "nisar_hh_20261114_132A"
+        },
+        {
+          "date": "2026-11-16",
+          "track": "161A",
+          "id": "nisar_hh_20261116_161A"
+        },
+        {
+          "date": "2026-11-17",
+          "track": "002A",
+          "id": "nisar_hh_20261117_002A"
+        },
+        {
+          "date": "2026-11-17",
+          "track": "010D",
+          "id": "nisar_hh_20261117_010D"
+        },
+        {
+          "date": "2026-11-18",
+          "track": "024D",
+          "id": "nisar_hh_20261118_024D"
+        }
+      ],
+      "nisar_water_km2": 2862.879,
+      "nisar_outside_floodplain_pct": 78.2,
+      "nisar_raised_km2": 624.921
+    },
+    {
+      "id": "tpi_flood_nisar_d2",
+      "date": "2026-11-23",
+      "png": "png/tpi_flood_nisar_d2.png",
+      "cog": null,
+      "bounds": [
+        -58.0,
+        -33.999842,
+        -48.001818,
+        -22.5
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "forecast": true,
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "nisar_passes": [
+        {
+          "date": "2026-11-12",
+          "track": "103A",
+          "id": "nisar_hh_20261112_103A"
+        },
+        {
+          "date": "2026-11-12",
+          "track": "111D",
+          "id": "nisar_hh_20261112_111D"
+        },
+        {
+          "date": "2026-11-13",
+          "track": "125D",
+          "id": "nisar_hh_20261113_125D"
+        },
+        {
+          "date": "2026-11-14",
+          "track": "132A",
+          "id": "nisar_hh_20261114_132A"
+        },
+        {
+          "date": "2026-11-16",
+          "track": "161A",
+          "id": "nisar_hh_20261116_161A"
+        },
+        {
+          "date": "2026-11-17",
+          "track": "002A",
+          "id": "nisar_hh_20261117_002A"
+        },
+        {
+          "date": "2026-11-17",
+          "track": "010D",
+          "id": "nisar_hh_20261117_010D"
+        },
+        {
+          "date": "2026-11-18",
+          "track": "024D",
+          "id": "nisar_hh_20261118_024D"
+        }
+      ],
+      "nisar_water_km2": 2604.0,
+      "nisar_outside_floodplain_pct": 76.3,
+      "nisar_raised_km2": 617.311
+    },
+    {
+      "id": "tpi_flood_nisar_d3",
+      "date": "2026-11-24",
+      "png": "png/tpi_flood_nisar_d3.png",
+      "cog": null,
+      "bounds": [
+        -58.0,
+        -33.999842,
+        -48.001818,
+        -22.5
+      ],
+      "legend": [
+        "Baixo",
+        "Moderado",
+        "Alto",
+        "Crítico"
+      ],
+      "forecast": true,
+      "label": "Flood risk with NISAR-observed water (candidate)",
+      "note": "Flood index (TPI) raised to Critical only where the latest NISAR radar pass up to 12 days before the map day saw open water (HH < −18 dB, outside permanent water) ON THE RIVER FLOODPLAIN (HAND ≤ 5 m): max(TPI, 0.8 × water on floodplain). NISAR water off the floodplain (mostly flooded rice paddies / reservoirs) is shown in the NISAR-water overlay but does not raise risk. Candidate water — never confirmed; no pass ≠ no risk.",
+      "nisar_passes": [
+        {
+          "date": "2026-11-12",
+          "track": "103A",
+          "id": "nisar_hh_20261112_103A"
+        },
+        {
+          "date": "2026-11-12",
+          "track": "111D",
+          "id": "nisar_hh_20261112_111D"
+        },
+        {
+          "date": "2026-11-13",
+          "track": "125D",
+          "id": "nisar_hh_20261113_125D"
+        },
+        {
+          "date": "2026-11-14",
+          "track": "132A",
+          "id": "nisar_hh_20261114_132A"
+        },
+        {
+          "date": "2026-11-16",
+          "track": "161A",
+          "id": "nisar_hh_20261116_161A"
+        },
+        {
+          "date": "2026-11-17",
+          "track": "002A",
+          "id": "nisar_hh_20261117_002A"
+        },
+        {
+          "date": "2026-11-17",
+          "track": "010D",
+          "id": "nisar_hh_20261117_010D"
+        },
+        {
+          "date": "2026-11-18",
+          "track": "024D",
+          "id": "nisar_hh_20261118_024D"
+        }
+      ],
+      "nisar_water_km2": 2604.0,
+      "nisar_outside_floodplain_pct": 76.3,
+      "nisar_raised_km2": 617.311
+    }
+  ]
+}

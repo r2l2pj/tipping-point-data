@@ -1,0 +1,1257 @@
+{
+ "source": "GES DISC OPeNDAP IMERG Final daily subset at station cells + INMET historical archive hourly gauges (validation-only, L19)",
+ "gauge_source": "/tmp/inmet2024.zip",
+ "imerg_product": "GPM_3IMERGDF V07 daily Final (3B-DAY.MS.MRG.3IMERG.*.V07B)",
+ "window": {
+  "start": "2024-04-20",
+  "end": "2024-05-15"
+ },
+ "event_total_window": {
+  "start": "2024-04-27",
+  "end": "2024-05-06"
+ },
+ "max_missing_hours": 2,
+ "caveat": "point gauge vs 0.1 deg cell",
+ "generated_utc": "2026-11-15T11:11:53Z",
+ "stations": [
+  {
+   "id": "A801",
+   "name": "PORTO ALEGRE - JARDIM BOTANICO",
+   "lat": -30.05361111,
+   "lon": -51.17472221,
+   "imerg_cell": {
+    "i": 1288,
+    "j": 599,
+    "lon": -51.15,
+    "lat": -30.05
+   },
+   "n_days": 26,
+   "r": 0.9769,
+   "bias_pct": 5.5,
+   "event_total_gauge_mm": 382.6,
+   "event_total_imerg_mm": 425.3,
+   "event_total_ratio": 1.112,
+   "skipped": [],
+   "days": [
+    {
+     "date": "2024-04-20",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-21",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-22",
+     "gauge_mm": 0.0,
+     "gauge_hours": 23,
+     "imerg_mm": 2.63
+    },
+    {
+     "date": "2024-04-23",
+     "gauge_mm": 0.0,
+     "gauge_hours": 23,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-24",
+     "gauge_mm": 8.0,
+     "gauge_hours": 23,
+     "imerg_mm": 4.2
+    },
+    {
+     "date": "2024-04-25",
+     "gauge_mm": 0.2,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-26",
+     "gauge_mm": 2.2,
+     "gauge_hours": 24,
+     "imerg_mm": 11.99
+    },
+    {
+     "date": "2024-04-27",
+     "gauge_mm": 42.0,
+     "gauge_hours": 24,
+     "imerg_mm": 24.92
+    },
+    {
+     "date": "2024-04-28",
+     "gauge_mm": 5.8,
+     "gauge_hours": 24,
+     "imerg_mm": 1.95
+    },
+    {
+     "date": "2024-04-29",
+     "gauge_mm": 39.8,
+     "gauge_hours": 24,
+     "imerg_mm": 53.46
+    },
+    {
+     "date": "2024-04-30",
+     "gauge_mm": 109.0,
+     "gauge_hours": 24,
+     "imerg_mm": 136.55
+    },
+    {
+     "date": "2024-05-01",
+     "gauge_mm": 55.4,
+     "gauge_hours": 24,
+     "imerg_mm": 65.18
+    },
+    {
+     "date": "2024-05-02",
+     "gauge_mm": 94.4,
+     "gauge_hours": 24,
+     "imerg_mm": 106.32
+    },
+    {
+     "date": "2024-05-03",
+     "gauge_mm": 3.4,
+     "gauge_hours": 24,
+     "imerg_mm": 3.99
+    },
+    {
+     "date": "2024-05-04",
+     "gauge_mm": 9.4,
+     "gauge_hours": 24,
+     "imerg_mm": 12.93
+    },
+    {
+     "date": "2024-05-05",
+     "gauge_mm": 23.4,
+     "gauge_hours": 24,
+     "imerg_mm": 19.98
+    },
+    {
+     "date": "2024-05-06",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.05
+    },
+    {
+     "date": "2024-05-07",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.19
+    },
+    {
+     "date": "2024-05-08",
+     "gauge_mm": 6.0,
+     "gauge_hours": 24,
+     "imerg_mm": 8.51
+    },
+    {
+     "date": "2024-05-09",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-10",
+     "gauge_mm": 37.2,
+     "gauge_hours": 24,
+     "imerg_mm": 34.63
+    },
+    {
+     "date": "2024-05-11",
+     "gauge_mm": 22.8,
+     "gauge_hours": 24,
+     "imerg_mm": 20.49
+    },
+    {
+     "date": "2024-05-12",
+     "gauge_mm": 67.6,
+     "gauge_hours": 24,
+     "imerg_mm": 60.75
+    },
+    {
+     "date": "2024-05-13",
+     "gauge_mm": 13.4,
+     "gauge_hours": 24,
+     "imerg_mm": 0.69
+    },
+    {
+     "date": "2024-05-14",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.01
+    },
+    {
+     "date": "2024-05-15",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.04
+    }
+   ]
+  },
+  {
+   "id": "A813",
+   "name": "RIO PARDO",
+   "lat": -29.87222221,
+   "lon": -52.38194443,
+   "imerg_cell": {
+    "i": 1276,
+    "j": 601,
+    "lon": -52.35,
+    "lat": -29.85
+   },
+   "n_days": 26,
+   "r": 0.8551,
+   "bias_pct": 4.0,
+   "event_total_gauge_mm": 385.0,
+   "event_total_imerg_mm": 488.2,
+   "event_total_ratio": 1.268,
+   "skipped": [],
+   "days": [
+    {
+     "date": "2024-04-20",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-21",
+     "gauge_mm": 0.2,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-22",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 2.03
+    },
+    {
+     "date": "2024-04-23",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-24",
+     "gauge_mm": 6.4,
+     "gauge_hours": 24,
+     "imerg_mm": 2.49
+    },
+    {
+     "date": "2024-04-25",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.04
+    },
+    {
+     "date": "2024-04-26",
+     "gauge_mm": 17.6,
+     "gauge_hours": 24,
+     "imerg_mm": 6.49
+    },
+    {
+     "date": "2024-04-27",
+     "gauge_mm": 33.4,
+     "gauge_hours": 24,
+     "imerg_mm": 20.52
+    },
+    {
+     "date": "2024-04-28",
+     "gauge_mm": 11.2,
+     "gauge_hours": 24,
+     "imerg_mm": 0.55
+    },
+    {
+     "date": "2024-04-29",
+     "gauge_mm": 82.4,
+     "gauge_hours": 24,
+     "imerg_mm": 59.99
+    },
+    {
+     "date": "2024-04-30",
+     "gauge_mm": 91.8,
+     "gauge_hours": 24,
+     "imerg_mm": 172.35
+    },
+    {
+     "date": "2024-05-01",
+     "gauge_mm": 53.4,
+     "gauge_hours": 24,
+     "imerg_mm": 94.88
+    },
+    {
+     "date": "2024-05-02",
+     "gauge_mm": 61.0,
+     "gauge_hours": 24,
+     "imerg_mm": 103.4
+    },
+    {
+     "date": "2024-05-03",
+     "gauge_mm": 8.8,
+     "gauge_hours": 24,
+     "imerg_mm": 2.12
+    },
+    {
+     "date": "2024-05-04",
+     "gauge_mm": 11.4,
+     "gauge_hours": 24,
+     "imerg_mm": 17.84
+    },
+    {
+     "date": "2024-05-05",
+     "gauge_mm": 31.6,
+     "gauge_hours": 24,
+     "imerg_mm": 16.57
+    },
+    {
+     "date": "2024-05-06",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-07",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 1.11
+    },
+    {
+     "date": "2024-05-08",
+     "gauge_mm": 9.0,
+     "gauge_hours": 24,
+     "imerg_mm": 7.2
+    },
+    {
+     "date": "2024-05-09",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-10",
+     "gauge_mm": 27.8,
+     "gauge_hours": 24,
+     "imerg_mm": 20.8
+    },
+    {
+     "date": "2024-05-11",
+     "gauge_mm": 57.0,
+     "gauge_hours": 24,
+     "imerg_mm": 32.47
+    },
+    {
+     "date": "2024-05-12",
+     "gauge_mm": 83.6,
+     "gauge_hours": 24,
+     "imerg_mm": 54.94
+    },
+    {
+     "date": "2024-05-13",
+     "gauge_mm": 7.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.11
+    },
+    {
+     "date": "2024-05-14",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.28
+    },
+    {
+     "date": "2024-05-15",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 1.04
+    }
+   ]
+  },
+  {
+   "id": "A840",
+   "name": "BENTO GONCALVES",
+   "lat": -29.164581,
+   "lon": -51.534202,
+   "imerg_cell": {
+    "i": 1284,
+    "j": 608,
+    "lon": -51.55,
+    "lat": -29.15
+   },
+   "n_days": 26,
+   "r": 0.9193,
+   "bias_pct": -16.7,
+   "event_total_gauge_mm": 647.2,
+   "event_total_imerg_mm": 571.2,
+   "event_total_ratio": 0.883,
+   "skipped": [],
+   "days": [
+    {
+     "date": "2024-04-20",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-21",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-22",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 4.3
+    },
+    {
+     "date": "2024-04-23",
+     "gauge_mm": 3.6,
+     "gauge_hours": 24,
+     "imerg_mm": 3.32
+    },
+    {
+     "date": "2024-04-24",
+     "gauge_mm": 17.8,
+     "gauge_hours": 24,
+     "imerg_mm": 0.1
+    },
+    {
+     "date": "2024-04-25",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-26",
+     "gauge_mm": 6.6,
+     "gauge_hours": 24,
+     "imerg_mm": 17.59
+    },
+    {
+     "date": "2024-04-27",
+     "gauge_mm": 28.2,
+     "gauge_hours": 24,
+     "imerg_mm": 11.2
+    },
+    {
+     "date": "2024-04-28",
+     "gauge_mm": 18.6,
+     "gauge_hours": 24,
+     "imerg_mm": 2.42
+    },
+    {
+     "date": "2024-04-29",
+     "gauge_mm": 77.0,
+     "gauge_hours": 24,
+     "imerg_mm": 52.49
+    },
+    {
+     "date": "2024-04-30",
+     "gauge_mm": 148.6,
+     "gauge_hours": 24,
+     "imerg_mm": 103.97
+    },
+    {
+     "date": "2024-05-01",
+     "gauge_mm": 159.6,
+     "gauge_hours": 24,
+     "imerg_mm": 142.41
+    },
+    {
+     "date": "2024-05-02",
+     "gauge_mm": 148.6,
+     "gauge_hours": 24,
+     "imerg_mm": 145.26
+    },
+    {
+     "date": "2024-05-03",
+     "gauge_mm": 0.4,
+     "gauge_hours": 24,
+     "imerg_mm": 2.08
+    },
+    {
+     "date": "2024-05-04",
+     "gauge_mm": 45.2,
+     "gauge_hours": 24,
+     "imerg_mm": 110.06
+    },
+    {
+     "date": "2024-05-05",
+     "gauge_mm": 21.0,
+     "gauge_hours": 24,
+     "imerg_mm": 1.35
+    },
+    {
+     "date": "2024-05-06",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-07",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-08",
+     "gauge_mm": 9.0,
+     "gauge_hours": 24,
+     "imerg_mm": 13.02
+    },
+    {
+     "date": "2024-05-09",
+     "gauge_mm": 0.2,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-10",
+     "gauge_mm": 21.0,
+     "gauge_hours": 24,
+     "imerg_mm": 12.16
+    },
+    {
+     "date": "2024-05-11",
+     "gauge_mm": 35.4,
+     "gauge_hours": 24,
+     "imerg_mm": 27.99
+    },
+    {
+     "date": "2024-05-12",
+     "gauge_mm": 107.6,
+     "gauge_hours": 24,
+     "imerg_mm": 61.38
+    },
+    {
+     "date": "2024-05-13",
+     "gauge_mm": 9.2,
+     "gauge_hours": 24,
+     "imerg_mm": 2.51
+    },
+    {
+     "date": "2024-05-14",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.52
+    },
+    {
+     "date": "2024-05-15",
+     "gauge_mm": 0.2,
+     "gauge_hours": 24,
+     "imerg_mm": 0.14
+    }
+   ]
+  },
+  {
+   "id": "A879",
+   "name": "CANELA",
+   "lat": -29.36888888,
+   "lon": -50.82722221,
+   "imerg_cell": {
+    "i": 1291,
+    "j": 606,
+    "lon": -50.85,
+    "lat": -29.35
+   },
+   "n_days": 26,
+   "r": 0.8874,
+   "bias_pct": -12.8,
+   "event_total_gauge_mm": 562.0,
+   "event_total_imerg_mm": 561.8,
+   "event_total_ratio": 1.0,
+   "skipped": [],
+   "days": [
+    {
+     "date": "2024-04-20",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-21",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-22",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 4.07
+    },
+    {
+     "date": "2024-04-23",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 1.76
+    },
+    {
+     "date": "2024-04-24",
+     "gauge_mm": 14.8,
+     "gauge_hours": 24,
+     "imerg_mm": 8.29
+    },
+    {
+     "date": "2024-04-25",
+     "gauge_mm": 0.4,
+     "gauge_hours": 24,
+     "imerg_mm": 0.01
+    },
+    {
+     "date": "2024-04-26",
+     "gauge_mm": 7.4,
+     "gauge_hours": 24,
+     "imerg_mm": 7.63
+    },
+    {
+     "date": "2024-04-27",
+     "gauge_mm": 15.6,
+     "gauge_hours": 24,
+     "imerg_mm": 26.73
+    },
+    {
+     "date": "2024-04-28",
+     "gauge_mm": 38.6,
+     "gauge_hours": 24,
+     "imerg_mm": 0.31
+    },
+    {
+     "date": "2024-04-29",
+     "gauge_mm": 88.4,
+     "gauge_hours": 24,
+     "imerg_mm": 57.63
+    },
+    {
+     "date": "2024-04-30",
+     "gauge_mm": 118.8,
+     "gauge_hours": 24,
+     "imerg_mm": 95.51
+    },
+    {
+     "date": "2024-05-01",
+     "gauge_mm": 100.0,
+     "gauge_hours": 24,
+     "imerg_mm": 129.07
+    },
+    {
+     "date": "2024-05-02",
+     "gauge_mm": 127.2,
+     "gauge_hours": 24,
+     "imerg_mm": 146.01
+    },
+    {
+     "date": "2024-05-03",
+     "gauge_mm": 7.4,
+     "gauge_hours": 24,
+     "imerg_mm": 5.9
+    },
+    {
+     "date": "2024-05-04",
+     "gauge_mm": 28.4,
+     "gauge_hours": 24,
+     "imerg_mm": 84.46
+    },
+    {
+     "date": "2024-05-05",
+     "gauge_mm": 37.6,
+     "gauge_hours": 24,
+     "imerg_mm": 16.16
+    },
+    {
+     "date": "2024-05-06",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-07",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-08",
+     "gauge_mm": 15.4,
+     "gauge_hours": 24,
+     "imerg_mm": 13.53
+    },
+    {
+     "date": "2024-05-09",
+     "gauge_mm": 3.6,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-10",
+     "gauge_mm": 36.0,
+     "gauge_hours": 24,
+     "imerg_mm": 14.5
+    },
+    {
+     "date": "2024-05-11",
+     "gauge_mm": 76.2,
+     "gauge_hours": 24,
+     "imerg_mm": 38.14
+    },
+    {
+     "date": "2024-05-12",
+     "gauge_mm": 101.8,
+     "gauge_hours": 24,
+     "imerg_mm": 81.24
+    },
+    {
+     "date": "2024-05-13",
+     "gauge_mm": 20.0,
+     "gauge_hours": 24,
+     "imerg_mm": 4.79
+    },
+    {
+     "date": "2024-05-14",
+     "gauge_mm": 7.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.06
+    },
+    {
+     "date": "2024-05-15",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.65
+    }
+   ]
+  },
+  {
+   "id": "A882",
+   "name": "TEUTONIA",
+   "lat": -29.44916666,
+   "lon": -51.82333332,
+   "imerg_cell": {
+    "i": 1281,
+    "j": 605,
+    "lon": -51.85,
+    "lat": -29.45
+   },
+   "n_days": 26,
+   "r": 0.6002,
+   "bias_pct": 19.0,
+   "event_total_gauge_mm": 280.0,
+   "event_total_imerg_mm": 514.1,
+   "event_total_ratio": 1.836,
+   "skipped": [],
+   "days": [
+    {
+     "date": "2024-04-20",
+     "gauge_mm": 0.2,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-21",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-22",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 4.47
+    },
+    {
+     "date": "2024-04-23",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 1.64
+    },
+    {
+     "date": "2024-04-24",
+     "gauge_mm": 8.6,
+     "gauge_hours": 24,
+     "imerg_mm": 0.81
+    },
+    {
+     "date": "2024-04-25",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.14
+    },
+    {
+     "date": "2024-04-26",
+     "gauge_mm": 15.2,
+     "gauge_hours": 24,
+     "imerg_mm": 6.39
+    },
+    {
+     "date": "2024-04-27",
+     "gauge_mm": 48.0,
+     "gauge_hours": 24,
+     "imerg_mm": 28.67
+    },
+    {
+     "date": "2024-04-28",
+     "gauge_mm": 11.8,
+     "gauge_hours": 24,
+     "imerg_mm": 0.05
+    },
+    {
+     "date": "2024-04-29",
+     "gauge_mm": 6.0,
+     "gauge_hours": 24,
+     "imerg_mm": 48.38
+    },
+    {
+     "date": "2024-04-30",
+     "gauge_mm": 47.4,
+     "gauge_hours": 24,
+     "imerg_mm": 146.1
+    },
+    {
+     "date": "2024-05-01",
+     "gauge_mm": 57.4,
+     "gauge_hours": 24,
+     "imerg_mm": 132.49
+    },
+    {
+     "date": "2024-05-02",
+     "gauge_mm": 38.4,
+     "gauge_hours": 24,
+     "imerg_mm": 107.54
+    },
+    {
+     "date": "2024-05-03",
+     "gauge_mm": 48.0,
+     "gauge_hours": 24,
+     "imerg_mm": 1.79
+    },
+    {
+     "date": "2024-05-04",
+     "gauge_mm": 11.6,
+     "gauge_hours": 24,
+     "imerg_mm": 38.69
+    },
+    {
+     "date": "2024-05-05",
+     "gauge_mm": 11.2,
+     "gauge_hours": 24,
+     "imerg_mm": 10.34
+    },
+    {
+     "date": "2024-05-06",
+     "gauge_mm": 0.2,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-07",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-08",
+     "gauge_mm": 11.2,
+     "gauge_hours": 24,
+     "imerg_mm": 9.22
+    },
+    {
+     "date": "2024-05-09",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-10",
+     "gauge_mm": 65.6,
+     "gauge_hours": 24,
+     "imerg_mm": 11.2
+    },
+    {
+     "date": "2024-05-11",
+     "gauge_mm": 55.6,
+     "gauge_hours": 24,
+     "imerg_mm": 44.9
+    },
+    {
+     "date": "2024-05-12",
+     "gauge_mm": 93.8,
+     "gauge_hours": 24,
+     "imerg_mm": 77.1
+    },
+    {
+     "date": "2024-05-13",
+     "gauge_mm": 35.6,
+     "gauge_hours": 24,
+     "imerg_mm": 3.4
+    },
+    {
+     "date": "2024-05-14",
+     "gauge_mm": 0.2,
+     "gauge_hours": 24,
+     "imerg_mm": 0.18
+    },
+    {
+     "date": "2024-05-15",
+     "gauge_mm": 0.4,
+     "gauge_hours": 22,
+     "imerg_mm": 0.65
+    }
+   ]
+  },
+  {
+   "id": "A884",
+   "name": "CAMPO BOM",
+   "lat": -29.674293,
+   "lon": -51.064042,
+   "imerg_cell": {
+    "i": 1289,
+    "j": 603,
+    "lon": -51.05,
+    "lat": -29.65
+   },
+   "n_days": 26,
+   "r": 0.8479,
+   "bias_pct": 6.0,
+   "event_total_gauge_mm": 390.6,
+   "event_total_imerg_mm": 498.4,
+   "event_total_ratio": 1.276,
+   "skipped": [],
+   "days": [
+    {
+     "date": "2024-04-20",
+     "gauge_mm": 0.0,
+     "gauge_hours": 23,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-21",
+     "gauge_mm": 0.2,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-22",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 2.95
+    },
+    {
+     "date": "2024-04-23",
+     "gauge_mm": 0.0,
+     "gauge_hours": 23,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-24",
+     "gauge_mm": 32.6,
+     "gauge_hours": 24,
+     "imerg_mm": 1.89
+    },
+    {
+     "date": "2024-04-25",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-26",
+     "gauge_mm": 2.2,
+     "gauge_hours": 23,
+     "imerg_mm": 6.16
+    },
+    {
+     "date": "2024-04-27",
+     "gauge_mm": 62.4,
+     "gauge_hours": 24,
+     "imerg_mm": 39.13
+    },
+    {
+     "date": "2024-04-28",
+     "gauge_mm": 13.8,
+     "gauge_hours": 23,
+     "imerg_mm": 0.9
+    },
+    {
+     "date": "2024-04-29",
+     "gauge_mm": 51.2,
+     "gauge_hours": 24,
+     "imerg_mm": 51.65
+    },
+    {
+     "date": "2024-04-30",
+     "gauge_mm": 105.2,
+     "gauge_hours": 24,
+     "imerg_mm": 124.5
+    },
+    {
+     "date": "2024-05-01",
+     "gauge_mm": 43.8,
+     "gauge_hours": 24,
+     "imerg_mm": 104.64
+    },
+    {
+     "date": "2024-05-02",
+     "gauge_mm": 73.4,
+     "gauge_hours": 24,
+     "imerg_mm": 125.79
+    },
+    {
+     "date": "2024-05-03",
+     "gauge_mm": 7.0,
+     "gauge_hours": 24,
+     "imerg_mm": 3.62
+    },
+    {
+     "date": "2024-05-04",
+     "gauge_mm": 9.4,
+     "gauge_hours": 24,
+     "imerg_mm": 44.91
+    },
+    {
+     "date": "2024-05-05",
+     "gauge_mm": 24.4,
+     "gauge_hours": 24,
+     "imerg_mm": 3.28
+    },
+    {
+     "date": "2024-05-06",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-07",
+     "gauge_mm": 0.0,
+     "gauge_hours": 23,
+     "imerg_mm": 0.01
+    },
+    {
+     "date": "2024-05-08",
+     "gauge_mm": 2.4,
+     "gauge_hours": 23,
+     "imerg_mm": 4.31
+    },
+    {
+     "date": "2024-05-09",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-10",
+     "gauge_mm": 16.4,
+     "gauge_hours": 24,
+     "imerg_mm": 12.89
+    },
+    {
+     "date": "2024-05-11",
+     "gauge_mm": 52.4,
+     "gauge_hours": 24,
+     "imerg_mm": 40.67
+    },
+    {
+     "date": "2024-05-12",
+     "gauge_mm": 71.6,
+     "gauge_hours": 24,
+     "imerg_mm": 70.31
+    },
+    {
+     "date": "2024-05-13",
+     "gauge_mm": 42.4,
+     "gauge_hours": 24,
+     "imerg_mm": 9.73
+    },
+    {
+     "date": "2024-05-14",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.01
+    },
+    {
+     "date": "2024-05-15",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    }
+   ]
+  },
+  {
+   "id": "B807",
+   "name": "PORTO ALEGRE- BELEM NOVO",
+   "lat": -30.1861111,
+   "lon": -51.17805554,
+   "imerg_cell": {
+    "i": 1288,
+    "j": 598,
+    "lon": -51.15,
+    "lat": -30.15
+   },
+   "n_days": 26,
+   "r": 0.9789,
+   "bias_pct": 7.6,
+   "event_total_gauge_mm": 370.2,
+   "event_total_imerg_mm": 413.8,
+   "event_total_ratio": 1.118,
+   "skipped": [],
+   "days": [
+    {
+     "date": "2024-04-20",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-21",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-04-22",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 3.19
+    },
+    {
+     "date": "2024-04-23",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.03
+    },
+    {
+     "date": "2024-04-24",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 3.92
+    },
+    {
+     "date": "2024-04-25",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.62
+    },
+    {
+     "date": "2024-04-26",
+     "gauge_mm": 1.8,
+     "gauge_hours": 24,
+     "imerg_mm": 13.31
+    },
+    {
+     "date": "2024-04-27",
+     "gauge_mm": 33.8,
+     "gauge_hours": 24,
+     "imerg_mm": 25.55
+    },
+    {
+     "date": "2024-04-28",
+     "gauge_mm": 5.8,
+     "gauge_hours": 24,
+     "imerg_mm": 1.87
+    },
+    {
+     "date": "2024-04-29",
+     "gauge_mm": 58.2,
+     "gauge_hours": 24,
+     "imerg_mm": 58.58
+    },
+    {
+     "date": "2024-04-30",
+     "gauge_mm": 108.0,
+     "gauge_hours": 24,
+     "imerg_mm": 133.7
+    },
+    {
+     "date": "2024-05-01",
+     "gauge_mm": 45.6,
+     "gauge_hours": 24,
+     "imerg_mm": 58.99
+    },
+    {
+     "date": "2024-05-02",
+     "gauge_mm": 85.4,
+     "gauge_hours": 24,
+     "imerg_mm": 90.53
+    },
+    {
+     "date": "2024-05-03",
+     "gauge_mm": 7.8,
+     "gauge_hours": 24,
+     "imerg_mm": 5.2
+    },
+    {
+     "date": "2024-05-04",
+     "gauge_mm": 6.0,
+     "gauge_hours": 24,
+     "imerg_mm": 10.47
+    },
+    {
+     "date": "2024-05-05",
+     "gauge_mm": 19.6,
+     "gauge_hours": 24,
+     "imerg_mm": 27.06
+    },
+    {
+     "date": "2024-05-06",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 1.89
+    },
+    {
+     "date": "2024-05-07",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-08",
+     "gauge_mm": 9.2,
+     "gauge_hours": 24,
+     "imerg_mm": 11.22
+    },
+    {
+     "date": "2024-05-09",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-10",
+     "gauge_mm": 36.4,
+     "gauge_hours": 24,
+     "imerg_mm": 27.47
+    },
+    {
+     "date": "2024-05-11",
+     "gauge_mm": 30.2,
+     "gauge_hours": 24,
+     "imerg_mm": 19.48
+    },
+    {
+     "date": "2024-05-12",
+     "gauge_mm": 52.8,
+     "gauge_hours": 24,
+     "imerg_mm": 54.65
+    },
+    {
+     "date": "2024-05-13",
+     "gauge_mm": 8.4,
+     "gauge_hours": 24,
+     "imerg_mm": 0.05
+    },
+    {
+     "date": "2024-05-14",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.0
+    },
+    {
+     "date": "2024-05-15",
+     "gauge_mm": 0.0,
+     "gauge_hours": 24,
+     "imerg_mm": 0.02
+    }
+   ]
+  }
+ ]
+}

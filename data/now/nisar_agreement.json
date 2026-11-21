@@ -1,0 +1,106 @@
+{
+ "map_day": "20261121",
+ "passes": [
+  "nisar_hh_20261109_060A",
+  "nisar_hh_20261110_074A",
+  "nisar_hh_20261110_082D",
+  "nisar_hh_20261112_103A",
+  "nisar_hh_20261112_111D",
+  "nisar_hh_20261113_125D",
+  "nisar_hh_20261114_132A",
+  "nisar_hh_20261116_161A",
+  "nisar_hh_20261117_002A",
+  "nisar_hh_20261117_010D",
+  "nisar_hh_20261118_024D"
+ ],
+ "pass_dates": [
+  "2026-11-09",
+  "2026-11-10",
+  "2026-11-10",
+  "2026-11-12",
+  "2026-11-12",
+  "2026-11-13",
+  "2026-11-14",
+  "2026-11-16",
+  "2026-11-17",
+  "2026-11-17",
+  "2026-11-18"
+ ],
+ "pass_tracks": [],
+ "water_cells": 2657,
+ "water_km2": 2862.88,
+ "observed_cells": 314224,
+ "outside_floodplain_pct": 78.2,
+ "observed": {
+  "n_ref": 2657,
+  "alto_plus": {
+   "hit_pct": 1.84,
+   "area_pct": 1.033,
+   "lift": 1.78
+  },
+  "critico": {
+   "hit_pct": 1.58,
+   "area_pct": 0.631,
+   "lift": 2.51
+  }
+ },
+ "forecast": {
+  "lead_1d": {
+   "n_ref": 2657,
+   "alto_plus": {
+    "hit_pct": 0.19,
+    "area_pct": 0.287,
+    "lift": 0.66
+   },
+   "critico": {
+    "hit_pct": 0.08,
+    "area_pct": 0.083,
+    "lift": 0.91
+   },
+   "frames": [
+    "history/20261117T184050Z/cog/tpi_flood_d1.tif -> 2026-11-18"
+   ]
+  },
+  "lead_2d": {
+   "n_ref": 2657,
+   "alto_plus": {
+    "hit_pct": 0.0,
+    "area_pct": 0.0,
+    "lift": null
+   },
+   "critico": {
+    "hit_pct": 0.0,
+    "area_pct": 0.0,
+    "lift": null
+   },
+   "frames": [
+    "history/20261116T173204Z/cog/tpi_flood_d2.tif -> 2026-11-18"
+   ]
+  },
+  "lead_3d": {
+   "n_ref": 2657,
+   "alto_plus": {
+    "hit_pct": 0.04,
+    "area_pct": 0.015,
+    "lift": 2.52
+   },
+   "critico": {
+    "hit_pct": 0.0,
+    "area_pct": 0.004,
+    "lift": 0.0
+   },
+   "frames": [
+    "history/20261115T233612Z/cog/tpi_flood_d3.tif -> 2026-11-18"
+   ]
+  }
+ },
+ "status": "scored",
+ "pass_age_days": 3,
+ "pass_track": "024D",
+ "limits": [
+  "today's TPI vs a NISAR pass up to 12 d old (pass_age_days)",
+  "forecast leads need archived runs issued 1-3 d before the pass (history keeps a rolling window)",
+  "no M1 terrain ratio for Now (no T_flood grid in the Now outputs)"
+ ],
+ "reference": "NISAR water: HH < -18 dB, not permanent water, latest pass <= 12 d (candidates)"
+}

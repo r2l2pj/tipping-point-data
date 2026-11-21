@@ -1,0 +1,20 @@
+{
+  "case": "rs_2024",
+  "collections": {
+    "cloud_pct_source": "NASA/HLS/HLSL30/v002 + NASA/HLS/HLSS30/v002 Fmask bits1-4 @ 2024-05-01..2024-05-03"
+  },
+  "computed_at": "2026-11-15T12:22:04.973414+00:00",
+  "event_date": "2024-05-02",
+  "metrics": {
+    "cloud_free_pct": 0.0,
+    "cloud_pct": 100.0,
+    "cloud_pct_source": "HLS v2.0 Fmask (HLSL30 Landsat + HLSS30 Sentinel-2), cloud/adjacent/shadow/snow bits 1-4; 20 scenes on 2024-05-01, 2024-05-02, 2024-05-03 (2024-05-01..2024-05-03) over the AOI; a pixel counts clear if clear in ANY scene",
+    "hls_observed_px": 535466.6901960854,
+    "hls_scene_dates": [
+      "2024-05-01",
+      "2024-05-02",
+      "2024-05-03"
+    ],
+    "hls_scenes": 20
+  }
+}

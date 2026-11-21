@@ -1,0 +1,103 @@
+{
+  "case": "wa_2025",
+  "event_id": "wa-2025-12",
+  "generated_at": "2026-11-15T16:22:28.011357+00:00",
+  "layer": "nisar_coherence_loss",
+  "collection": "NISAR_L2_GUNW_BETA_V1",
+  "maturity": "Beta",
+  "attribution": "NISAR (NASA/ISRO), ASF DAAC — Beta product",
+  "pairs": {
+    "ref": "2025-11-22/2025-12-04",
+    "event": "2025-12-04/2025-12-16"
+  },
+  "granules": {
+    "ref": [
+      "NISAR_L2_PR_GUNW_005_172_D_064_006_4000_SH_20251122T031814_20251122T031849_20251204T031815_20251204T031850_X05010_N_F_J_001",
+      "NISAR_L2_PR_GUNW_005_172_D_065_006_4000_SH_20251122T031848_20251122T031923_20251204T031849_20251204T031924_X05010_N_F_J_001"
+    ],
+    "event": [
+      "NISAR_L2_PR_GUNW_006_172_D_064_007_4000_SH_20251204T031815_20251204T031850_20251216T031815_20251216T031850_X05010_N_F_J_001",
+      "NISAR_L2_PR_GUNW_006_172_D_065_007_4000_SH_20251204T031849_20251204T031924_20251216T031849_20251216T031924_X05010_N_F_J_001"
+    ]
+  },
+  "granules_used": {
+    "ref": {
+      "064": "NISAR_L2_PR_GUNW_005_172_D_064_006_4000_SH_20251122T031814_20251122T031849_20251204T031815_20251204T031850_X05010_N_F_J_001",
+      "065": "NISAR_L2_PR_GUNW_005_172_D_065_006_4000_SH_20251122T031848_20251122T031923_20251204T031849_20251204T031924_X05010_N_F_J_001",
+      "pair": "2025-11-22/2025-12-04"
+    },
+    "event": {
+      "064": "NISAR_L2_PR_GUNW_006_172_D_064_007_4000_SH_20251204T031815_20251204T031850_20251216T031815_20251216T031850_X05010_N_F_J_001",
+      "065": "NISAR_L2_PR_GUNW_006_172_D_065_007_4000_SH_20251204T031849_20251204T031924_20251216T031849_20251216T031924_X05010_N_F_J_001",
+      "pair": "2025-12-04/2025-12-16"
+    }
+  },
+  "access": "range reads only: dataset paths verified with one h5py visit (earthaccess fsspec fileobj); data streamed via GDAL NETCDF:/vsicurl/ windows; no whole-granule download",
+  "grid": {
+    "crs": "EPSG:32610",
+    "res_m": 60.0,
+    "matches": "cog/wa_2025_nisar_pre_20251204_60m.tif"
+  },
+  "thresholds": {
+    "coherence_ref_min": 0.4,
+    "coherence_drop": 0.3,
+    "max_elev_m": 600.0,
+    "mmu_ha": 3.0,
+    "mmu_px_60m": 9,
+    "hv_drop_db": 2.0
+  },
+  "coverage_px": {
+    "valid_both_pairs": 3943770,
+    "water_excluded": 495230,
+    "elev_excluded": 963674
+  },
+  "loss": {
+    "px": 521424,
+    "km2": 1877.126,
+    "steep_km2": 309.636,
+    "gentle_km2": 1567.49,
+    "high_conf_px": 4820,
+    "polygons_n": 4362
+  },
+  "flood_overlap": {
+    "km2": 0.0,
+    "pct_of_loss": 0.0,
+    "mask": "cog/wa_2025_flood_nisar_20251210.tif",
+    "measured": "pre-flood-exclusion loss mask; flood pixels are removed from candidates"
+  },
+  "opera_new_water_overlap": {
+    "km2": 7.963,
+    "pct_of_loss": 0.42,
+    "mask": "cog/wa_2025_opera_validation_20251216.tif classes 1 (TP) + 3 (FN) = OPERA DSWx-S1 new water"
+  },
+  "landslide_hits": {
+    "catalog": "geojson/landslide_catalog.geojson",
+    "points_total": 15,
+    "points_valid": 15,
+    "points_skipped": 0,
+    "hit_100m_n": 10,
+    "hit_100m_pct": 66.66666666666667,
+    "hit_500m_n": 15,
+    "hit_500m_pct": 100.0,
+    "baseline": {
+      "n_seeds": 200,
+      "draw_px": 521424,
+      "hit_100m_mean_pct": 60.93333333333334,
+      "hit_100m_p95_pct": 66.66666666666667,
+      "hit_500m_mean_pct": 100.0,
+      "hit_500m_p95_pct": 100.0
+    },
+    "baseline_basis": "same loss area as random cells on steep (>=15 deg), valid, non-water terrain; 200 seeds"
+  },
+  "caveats": [
+    "Beta product (pre-calibration); use relative change only.",
+    "12-day L-band decorrelation in December also comes from rain, snow (below the 600 m cap during warm storms), soil moisture and forest movement — candidates, never confirmed.",
+    "GUNW mask water flag covers the reference scene's water mask; union with the NISAR GCOV water layer used here."
+  ],
+  "bounds": [
+    -122.612106,
+    46.990354,
+    -121.455735,
+    48.509603
+  ]
+}

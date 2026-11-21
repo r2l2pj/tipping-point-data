@@ -1,0 +1,12 @@
+{
+  "case": "rs_2024",
+  "source": "rs_2024/series/rs_2024_swot_20240502.json",
+  "window": {"start": "2024-04-20", "end": "2024-05-31"},
+  "records_in_window": 62,
+  "pass_dates": ["2024-04-25", "2024-04-26", "2024-05-05", "2024-05-06", "2024-05-15", "2024-05-17", "2024-05-25", "2024-05-27"],
+  "time_field": "time_str",
+  "height_field": "river_m",
+  "height_units": "m",
+  "reason": null,
+  "note": "Existing local reach-level observations; pass_dates are UTC dates, not unique orbit/pass IDs. Heights are reach-specific water-surface elevations, not a basin-average stage."
+}

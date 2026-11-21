@@ -1,0 +1,358 @@
+{
+ "case": "wa_2025",
+ "source": "SWOT L2 HR RiverSP via PO.DAAC Hydrocron",
+ "window": [
+  "2025-11-01",
+  "2026-01-31"
+ ],
+ "event_dates": {
+  "start": "2025-12-08",
+  "peak": "2025-12-10"
+ },
+ "quality_legend": {
+  "0": "good",
+  "1": "suspect",
+  "2": "degraded",
+  "3": "bad"
+ },
+ "reaches": [
+  {
+   "reach_id": "78310800011",
+   "name": null,
+   "lon": null,
+   "lat": null,
+   "series": [],
+   "dropped_fill": 0,
+   "dropped_out_of_window": 0
+  },
+  {
+   "reach_id": "78310800021",
+   "name": "Skagit River",
+   "lon": -122.3623151,
+   "lat": 48.42266049,
+   "series": [
+    {
+     "time": "2025-11-10T13:52:56Z",
+     "wse_m": 3.326,
+     "wse_u_m": 0.09477,
+     "quality": 2
+    },
+    {
+     "time": "2025-11-14T03:14:42Z",
+     "wse_m": 3.8203,
+     "wse_u_m": 0.11156,
+     "quality": 2
+    },
+    {
+     "time": "2025-11-21T12:15:47Z",
+     "wse_m": 1.5048,
+     "wse_u_m": 0.68445,
+     "quality": 1
+    },
+    {
+     "time": "2025-12-01T10:37:59Z",
+     "wse_m": 3.137,
+     "wse_u_m": 0.10283,
+     "quality": 2
+    },
+    {
+     "time": "2025-12-04T23:59:46Z",
+     "wse_m": 5.0287,
+     "wse_u_m": 0.14039,
+     "quality": 2
+    },
+    {
+     "time": "2025-12-12T09:00:49Z",
+     "wse_m": 9.101,
+     "wse_u_m": 0.22829,
+     "quality": 1
+    },
+    {
+     "time": "2025-12-22T07:23:04Z",
+     "wse_m": 5.5102,
+     "wse_u_m": 0.09898,
+     "quality": 2
+    },
+    {
+     "time": "2025-12-25T20:44:52Z",
+     "wse_m": 6.8776,
+     "wse_u_m": 0.14664,
+     "quality": 2
+    },
+    {
+     "time": "2026-01-02T05:45:57Z",
+     "wse_m": 29.5136,
+     "wse_u_m": 0.82675,
+     "quality": 1
+    },
+    {
+     "time": "2026-01-12T04:08:09Z",
+     "wse_m": 3.6587,
+     "wse_u_m": 0.10016,
+     "quality": 2
+    },
+    {
+     "time": "2026-01-15T17:29:56Z",
+     "wse_m": 5.0869,
+     "wse_u_m": 0.139,
+     "quality": 2
+    },
+    {
+     "time": "2026-01-23T02:31:01Z",
+     "wse_m": 7.5772,
+     "wse_u_m": 0.77349,
+     "quality": 1
+    }
+   ],
+   "dropped_fill": 0,
+   "dropped_out_of_window": 0
+  },
+  {
+   "reach_id": "78310800031",
+   "name": "Skagit River",
+   "lon": -122.3003738,
+   "lat": 48.46804522,
+   "series": [
+    {
+     "time": "2025-11-10T13:52:55Z",
+     "wse_m": 5.7195,
+     "wse_u_m": 0.10003,
+     "quality": 2
+    },
+    {
+     "time": "2025-11-14T03:14:43Z",
+     "wse_m": 8.9412,
+     "wse_u_m": 0.25796,
+     "quality": 2
+    },
+    {
+     "time": "2025-12-01T10:37:59Z",
+     "wse_m": 5.4848,
+     "wse_u_m": 0.09484,
+     "quality": 2
+    },
+    {
+     "time": "2025-12-04T23:59:47Z",
+     "wse_m": 17.2989,
+     "wse_u_m": 0.66,
+     "quality": 2
+    },
+    {
+     "time": "2025-12-22T07:23:03Z",
+     "wse_m": 7.9524,
+     "wse_u_m": 0.09502,
+     "quality": 2
+    },
+    {
+     "time": "2025-12-25T20:44:52Z",
+     "wse_m": 8.7892,
+     "wse_u_m": 0.32216,
+     "quality": 2
+    },
+    {
+     "time": "2026-01-12T04:08:08Z",
+     "wse_m": 6.0671,
+     "wse_u_m": 0.11089,
+     "quality": 2
+    },
+    {
+     "time": "2026-01-15T17:29:56Z",
+     "wse_m": 13.4222,
+     "wse_u_m": 0.34684,
+     "quality": 2
+    }
+   ],
+   "dropped_fill": 4,
+   "dropped_out_of_window": 0
+  },
+  {
+   "reach_id": "78310800055",
+   "name": null,
+   "lon": null,
+   "lat": null,
+   "series": [],
+   "dropped_fill": 0,
+   "dropped_out_of_window": 0
+  },
+  {
+   "reach_id": "78310800071",
+   "name": "Skagit River",
+   "lon": -121.7884857,
+   "lat": 48.53280885,
+   "series": [
+    {
+     "time": "2025-11-03T04:51:56Z",
+     "wse_m": 44.0719,
+     "wse_u_m": 0.33843,
+     "quality": 1
+    },
+    {
+     "time": "2025-11-10T13:52:56Z",
+     "wse_m": 43.8198,
+     "wse_u_m": 0.10354,
+     "quality": 1
+    },
+    {
+     "time": "2025-11-14T03:14:46Z",
+     "wse_m": 44.338,
+     "wse_u_m": 0.09474,
+     "quality": 1
+    },
+    {
+     "time": "2025-11-24T01:36:59Z",
+     "wse_m": 43.8022,
+     "wse_u_m": 0.35629,
+     "quality": 1
+    },
+    {
+     "time": "2025-12-01T10:37:59Z",
+     "wse_m": 43.343,
+     "wse_u_m": 0.1,
+     "quality": 2
+    },
+    {
+     "time": "2025-12-04T23:59:50Z",
+     "wse_m": 43.2752,
+     "wse_u_m": 0.09609,
+     "quality": 1
+    },
+    {
+     "time": "2025-12-14T22:22:02Z",
+     "wse_m": 46.0451,
+     "wse_u_m": 0.39226,
+     "quality": 1
+    },
+    {
+     "time": "2025-12-22T07:23:04Z",
+     "wse_m": 44.8893,
+     "wse_u_m": 0.10635,
+     "quality": 2
+    },
+    {
+     "time": "2025-12-25T20:44:55Z",
+     "wse_m": 44.2416,
+     "wse_u_m": 0.09564,
+     "quality": 1
+    },
+    {
+     "time": "2026-01-04T19:07:09Z",
+     "wse_m": 43.9256,
+     "wse_u_m": 0.35456,
+     "quality": 1
+    },
+    {
+     "time": "2026-01-12T04:08:09Z",
+     "wse_m": 43.9625,
+     "wse_u_m": 0.09828,
+     "quality": 1
+    },
+    {
+     "time": "2026-01-15T17:29:59Z",
+     "wse_m": 44.4024,
+     "wse_u_m": 0.0942,
+     "quality": 1
+    },
+    {
+     "time": "2026-01-25T15:52:13Z",
+     "wse_m": 43.99,
+     "wse_u_m": 0.36935,
+     "quality": 1
+    }
+   ],
+   "dropped_fill": 4,
+   "dropped_out_of_window": 0
+  },
+  {
+   "reach_id": "78310800141",
+   "name": "Suiattle River",
+   "lon": -121.2318151,
+   "lat": 48.25156249,
+   "series": [
+    {
+     "time": "2025-11-03T04:51:53Z",
+     "wse_m": 428.5299,
+     "wse_u_m": 0.36716,
+     "quality": 1
+    },
+    {
+     "time": "2025-11-10T13:53:02Z",
+     "wse_m": 427.5946,
+     "wse_u_m": 0.11131,
+     "quality": 1
+    },
+    {
+     "time": "2025-11-20T12:15:14Z",
+     "wse_m": 427.3298,
+     "wse_u_m": 0.10183,
+     "quality": 1
+    },
+    {
+     "time": "2025-11-24T01:36:56Z",
+     "wse_m": 444.225,
+     "wse_u_m": 0.257,
+     "quality": 1
+    },
+    {
+     "time": "2025-12-01T10:38:06Z",
+     "wse_m": 426.7229,
+     "wse_u_m": 0.10696,
+     "quality": 1
+    },
+    {
+     "time": "2025-12-11T09:00:17Z",
+     "wse_m": 424.3532,
+     "wse_u_m": 0.26434,
+     "quality": 1
+    },
+    {
+     "time": "2025-12-14T22:21:59Z",
+     "wse_m": 438.6866,
+     "wse_u_m": 0.21455,
+     "quality": 1
+    },
+    {
+     "time": "2025-12-22T07:23:10Z",
+     "wse_m": 427.4004,
+     "wse_u_m": 0.10838,
+     "quality": 1
+    },
+    {
+     "time": "2026-01-01T05:45:24Z",
+     "wse_m": 428.8695,
+     "wse_u_m": 0.0975,
+     "quality": 1
+    },
+    {
+     "time": "2026-01-04T19:07:06Z",
+     "wse_m": 430.1369,
+     "wse_u_m": 0.3726,
+     "quality": 1
+    },
+    {
+     "time": "2026-01-12T04:08:15Z",
+     "wse_m": 428.7627,
+     "wse_u_m": 0.12487,
+     "quality": 1
+    },
+    {
+     "time": "2026-01-22T02:30:28Z",
+     "wse_m": 428.5223,
+     "wse_u_m": 0.09773,
+     "quality": 1
+    },
+    {
+     "time": "2026-01-25T15:52:10Z",
+     "wse_m": 438.6521,
+     "wse_u_m": 0.11871,
+     "quality": 1
+    }
+   ],
+   "dropped_fill": 0,
+   "dropped_out_of_window": 0
+  }
+ ],
+ "_null_reasons": {
+  "78310800011": "Hydrocron HTTP 400: 400: Results with the specified Feature ID 78310800011 were not found",
+  "78310800055": "Hydrocron HTTP 400: 400: Results with the specified Feature ID 78310800055 were not found"
+ }
+}

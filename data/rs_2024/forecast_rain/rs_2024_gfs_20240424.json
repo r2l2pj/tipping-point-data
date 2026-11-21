@@ -1,0 +1,39 @@
+{
+  "case": "rs_2024",
+  "issue_date": "2024-04-24",
+  "creation_time": "2024-04-24T00:00:00Z",
+  "days": {
+    "d1": [
+      "2024-04-24",
+      "2024-04-25"
+    ],
+    "d2": [
+      "2024-04-25",
+      "2024-04-26"
+    ],
+    "d3": [
+      "2024-04-26",
+      "2024-04-27"
+    ],
+    "d4": [
+      "2024-04-27",
+      "2024-04-28"
+    ]
+  },
+  "bands": [
+    "d1",
+    "d2",
+    "d3",
+    "d4"
+  ],
+  "label": "forecast: NOAA GFS (issued 2024-04-24)",
+  "source": "NOAA GFS via AWS noaa-gfs-bdp-pds (GRIB2 APCP, GDAL)",
+  "collection": "noaa-gfs-bdp-pds gfs.tYYz.pgrb2.0p25.fFFF",
+  "band": "APCP surface (N-6..N hour acc fcst)",
+  "grid": "native NCEP GFS 0.25 deg cell centres (GDAL geotransform), no resampling",
+  "native_resolution": "~25 km (0.25 deg); day bucket = sum of trailing 1-6h accumulations valid in the day",
+  "cog": "data/rs_2024/forecast_rain/rs_2024_gfs_20240424.tif",
+  "verified_cells": 24,
+  "verified_mismatches": 0,
+  "alignment": "d<k> = forecast precip over calendar day D+k-1 (UTC)"
+}

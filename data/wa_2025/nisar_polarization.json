@@ -1,0 +1,132 @@
+{
+  "case": "wa_2025",
+  "generated_at": "2026-11-15T14:46:26.234154Z",
+  "pair": {
+    "pre": "2025-12-04",
+    "post": "2025-12-16",
+    "track": "172D",
+    "frame": 64,
+    "collection": "NISAR_L2_GCOV_BETA_V1",
+    "granules": {
+      "pre": "NISAR_L2_PR_GCOV_006_172_D_064_4005_DHDH_A_20251204T031815_20251204T031850_X05009_N_F_J_001",
+      "post": "NISAR_L2_PR_GCOV_007_172_D_064_4005_DHDH_A_20251216T031815_20251216T031850_X05009_N_F_J_001"
+    }
+  },
+  "grid": {
+    "crs": "EPSG:32610",
+    "res_m": 60.0,
+    "px_area_km2": 0.0036,
+    "note": "stored dB COGs; change = post_db - pre_db"
+  },
+  "candidates_status": "candidate",
+  "regions": {
+    "flood_candidates_km2": 27.929,
+    "outside_not_water_km2": 10085.072
+  },
+  "polarization": {
+    "HH": {
+      "inside_flood_candidates": {
+        "px": 7758,
+        "mean_pre_db": -9.952650388051136,
+        "median_pre_db": -9.96860647201538,
+        "mean_post_db": -16.37586967242566,
+        "median_post_db": -16.62425422668457,
+        "mean_change_db": -6.423219284374525,
+        "median_change_db": -6.469441890716553
+      },
+      "outside_not_water": {
+        "px": 2801409,
+        "mean_pre_db": -7.212514712245147,
+        "median_pre_db": -5.614109516143799,
+        "mean_post_db": -6.803962676866573,
+        "median_post_db": -5.214955806732178,
+        "mean_change_db": 0.4085520353785733,
+        "median_change_db": 0.34106016159057617
+      }
+    },
+    "HV": {
+      "inside_flood_candidates": {
+        "px": 7758,
+        "mean_pre_db": -16.326609837206778,
+        "median_pre_db": -16.41995143890381,
+        "mean_post_db": -20.995139069519084,
+        "median_post_db": -21.270389556884766,
+        "mean_change_db": -4.668529232312306,
+        "median_change_db": -4.689633369445801
+      },
+      "outside_not_water": {
+        "px": 2801409,
+        "mean_pre_db": -12.548182753695768,
+        "median_pre_db": -10.971616744995117,
+        "mean_post_db": -12.21112683198726,
+        "median_post_db": -10.569719314575195,
+        "mean_change_db": 0.337055921708509,
+        "median_change_db": 0.2945880889892578
+      }
+    }
+  },
+  "hv_flood_rule": {
+    "rule": "post_db < -23 dB AND post_db - pre_db < -3.0 dB AND pre_db >= -23 dB AND not pre-event water",
+    "threshold_db": -23.0,
+    "threshold_method": "histogram-p05",
+    "threshold_source": "5th percentile of the post-scene HV dB histogram (-22.65 dB -> -23 dB); HV lacks a bimodal water mode, so the water-dark tail is the scene's darkest ~5 %. For comparison the HH-mask adaptive_threshold (tiled Otsu, clamped <= -22.0 dB) gives -22.00 dB (adaptive) — the clamp is what makes that estimator usable on cross-pol.",
+    "drop_db": -3.0,
+    "candidate_px": 13,
+    "candidate_km2": 0.047,
+    "candidate_px_no_mmu": 602,
+    "candidate_km2_no_mmu": 2.167,
+    "mmu_ha": 3.0,
+    "sensitivity": {
+      "note": "candidate_km2 (post-MMU) if threshold were N dB looser",
+      "threshold_-21db_km2": 0.083,
+      "threshold_-20db_km2": 0.18,
+      "threshold_-19db_km2": 0.63
+    }
+  },
+  "agreement": {
+    "iou": 0.0,
+    "iou_no_mmu": 0.0,
+    "intersection_km2": 0.0,
+    "intersection_km2_no_mmu": 0.0,
+    "hh_candidate_km2": 27.929,
+    "hv_candidate_km2": 0.047,
+    "note": "HH candidates = cog/wa_2025_flood_nisar_20251210.tif reprojected nearest onto the 60 m grid"
+  },
+  "double_bounce": {
+    "rule": "HH post_db - pre_db >= +3.0 dB",
+    "km2": 108.616,
+    "px": 30171,
+    "landcover_source": "MCD12Q1.061 LC_Type1 2024 (IGBP) via GEE — 061/2025 product is empty over the AOI in Earth Engine, nearest year used",
+    "landcover": {
+      "forest": {
+        "km2": 24.034,
+        "share": 0.2213
+      },
+      "cropland": {
+        "km2": 0.77,
+        "share": 0.0071
+      },
+      "urban": {
+        "km2": 1.368,
+        "share": 0.0126
+      },
+      "other": {
+        "km2": 82.444,
+        "share": 0.759
+      }
+    },
+    "landcover_labels": {
+      "forest": "IGBP 1-5 (forest)",
+      "cropland": "IGBP 12/14 (cropland)",
+      "urban": "IGBP 13 (urban/built-up)",
+      "other": "all other IGBP classes"
+    },
+    "within_500m_of_flood_candidate": {
+      "km2": 1.948,
+      "share": 0.0179,
+      "distance_m": 500.0
+    },
+    "change_mean_db": 3.6461894064683382
+  },
+  "interpretation": "HH pixels brightening >= +3 dB (Dec 4 -> Dec 16) cover ~109 km2, but only ~2 % sit within 500 m of the darkening flood candidates and their land cover is dominated by 'other' classes (~76 % — shrub/grass/snow/barren) with forest ~22 %, cropland <1 % and urban ~1 % — so the bulk of the brightening is probably NOT flood-adjacent double-bounce; widespread wetting (soil/canopy moisture rise, freeze-thaw or snow-state change) or BETA calibration drift between passes are at least as likely. The small flood-adjacent bright fraction remains consistent with inundated-vegetation/urban double bounce. In HV, inside the HH candidates the post median is about -21.3 dB (vs -16.6 dB in HH) with a -4.7 dB median drop, but a strict HV < -23 dB + drop >= 3 dB rule maps only ~0.05 km2 with zero overlap (IoU 0.0): cross-pol water darkening does not reach that tail inside the mapped candidates, so at 60 m and BETA calibration both masks stay candidates, not confirmed inundation."
+}

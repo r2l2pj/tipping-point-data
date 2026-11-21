@@ -1,0 +1,10 @@
+{
+  "case": "wa_2025",
+  "rf_auc": null,
+  "rule_auc": null,
+  "reason": "No local labeled WA feature CSV/parquet table or trained model exists. The ml pipeline is configured for RS-2024; no WA validation labels/features are available to compute case-specific AUC. Synthetic test fixtures are not validation data.",
+  "evaluator": "ml/evaluate.py",
+  "model_family": "XGBoost (legacy rf_auc contract key)",
+  "rule_baseline": "slope_only",
+  "evaluation_run": false
+}

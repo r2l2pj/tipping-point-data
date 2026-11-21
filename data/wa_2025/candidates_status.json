@@ -1,0 +1,12 @@
+{
+  "case": "wa_2025",
+  "landslide_candidates": "data/wa_2025/geojson/landslide_candidates.geojson",
+  "source": "opera-dist-alert-hls",
+  "window": ["2025-12-05", "2026-02-28"],
+  "n_candidates": 176,
+  "candidates_km2": 1.246,
+  "reason": "No local HLS pre/post reflectance composites, hls_scar raster, or landslide_candidates raster exists, so the HLS-optical producer was not run; candidates were produced from OPERA DIST-ALERT-HLS vegetation-loss detections instead (4 MGRS tiles T10TET/T10TFT/T10UEU/T10UFU; window = the storm plus the first cloud-free looks, ~12 weeks). 0 of the 15 WGS inventory points fall within 500 m of a candidate.",
+  "producers": ["pipeline/tp/response_dist.py", "pipeline/scripts/16_response_dist.py"],
+  "scope": "local availability only; remote GEE HLS computation/export not attempted",
+  "classification": "candidates, never confirmed"
+}

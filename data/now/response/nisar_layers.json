@@ -1,0 +1,64 @@
+{
+  "layers": [
+    {
+      "id": "nisar_pre",
+      "date": "2026-10-25",
+      "polarization": "HH",
+      "png": "response/png/nisar_hh_20261025.png",
+      "cog": null,
+      "asset": null,
+      "bounds": [
+        -48.215463,
+        -24.308256,
+        -47.787484,
+        -23.692064
+      ],
+      "kind": "observed"
+    },
+    {
+      "id": "nisar_post",
+      "date": "2026-11-06",
+      "polarization": "HH",
+      "png": "response/png/nisar_hh_20261106.png",
+      "cog": null,
+      "asset": null,
+      "bounds": [
+        -48.215463,
+        -24.308256,
+        -47.787484,
+        -23.692064
+      ],
+      "kind": "observed"
+    },
+    {
+      "id": "nisar_hv_pre",
+      "date": "2026-10-25",
+      "polarization": "HV",
+      "png": "response/png/nisar_hv_20261025.png",
+      "cog": null,
+      "asset": null,
+      "bounds": [
+        -48.215463,
+        -24.308256,
+        -47.787484,
+        -23.692064
+      ],
+      "kind": "observed"
+    },
+    {
+      "id": "nisar_hv_post",
+      "date": "2026-11-06",
+      "polarization": "HV",
+      "png": "response/png/nisar_hv_20261106.png",
+      "cog": null,
+      "asset": null,
+      "bounds": [
+        -48.215463,
+        -24.308256,
+        -47.787484,
+        -23.692064
+      ],
+      "kind": "observed"
+    }
+  ]
+}

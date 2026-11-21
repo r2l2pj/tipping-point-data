@@ -1,0 +1,21 @@
+{
+  "schema": "tipping-point/gee-assets@1",
+  "assets": [
+    {
+      "asset_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/now/imerg_early/20261114_3day",
+      "collection": "projects/jovial-idiom-514715-j8/assets/tipping-point/now/imerg_early",
+      "kind": "image",
+      "input": "imerg_early",
+      "tag": "20261114_3day",
+      "date": "2026-11-14",
+      "product": "3day",
+      "cog": "/home/lucascoelho/code/r2l2pj/tipping-point-data/data/now/cog/imerg_early/imerg_early_20261114_3day.tif",
+      "source": {
+        "hh_steps": 30
+      },
+      "status": "local-only",
+      "ingested_at": "2026-11-14T20:28:12.163283Z"
+    }
+  ],
+  "updated_at": "2026-11-14T20:28:12.163304Z"
+}

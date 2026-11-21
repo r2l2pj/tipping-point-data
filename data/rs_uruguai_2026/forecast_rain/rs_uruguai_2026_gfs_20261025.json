@@ -1,0 +1,38 @@
+{
+  "case": "rs_uruguai_2026",
+  "issue_date": "2026-10-25",
+  "creation_time": "2026-10-25T00:00:00Z",
+  "label": "forecast: NOAA GFS (issued 2026-10-25)",
+  "source": "NOAA GFS via AWS noaa-gfs-bdp-pds (GRIB2 APCP, GDAL)",
+  "collection": "noaa-gfs-bdp-pds gfs.tYYz.pgrb2.0p25.fFFF",
+  "band": "APCP surface (N-6..N hour acc fcst)",
+  "grid": "native NCEP GFS 0.25 deg cell centres (GDAL geotransform), no resampling",
+  "cog": "data/rs_uruguai_2026/forecast_rain/rs_uruguai_2026_gfs_20261025.tif",
+  "bands": [
+    "d1",
+    "d2",
+    "d3",
+    "d4"
+  ],
+  "days": {
+    "d1": [
+      "2026-10-25",
+      "2026-10-26"
+    ],
+    "d2": [
+      "2026-10-26",
+      "2026-10-27"
+    ],
+    "d3": [
+      "2026-10-27",
+      "2026-10-28"
+    ],
+    "d4": [
+      "2026-10-28",
+      "2026-10-29"
+    ]
+  },
+  "alignment": "d<k> = forecast precip over calendar day D+k-1 (UTC)",
+  "verified_cells": 16,
+  "verified_mismatches": 0
+}

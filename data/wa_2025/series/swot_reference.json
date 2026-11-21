@@ -1,0 +1,12 @@
+{
+  "case": "wa_2025",
+  "source": "wa_2025/series/wa_2025_swot_20251210.json",
+  "window": {"start": "2025-11-01", "end": "2026-01-31"},
+  "records_in_window": 46,
+  "pass_dates": ["2025-11-03", "2025-11-10", "2025-11-14", "2025-11-20", "2025-11-21", "2025-11-24", "2025-12-01", "2025-12-04", "2025-12-11", "2025-12-12", "2025-12-14", "2025-12-22", "2025-12-25", "2026-01-01", "2026-01-02", "2026-01-04", "2026-01-12", "2026-01-15", "2026-01-22", "2026-01-23", "2026-01-25"],
+  "time_field": "time_str",
+  "height_field": "river_m",
+  "height_units": "m",
+  "reason": null,
+  "note": "Existing local reach-level observations; pass_dates are UTC dates, not unique orbit/pass IDs. Heights are reach-specific water-surface elevations, not a basin-average stage."
+}

@@ -1,0 +1,80 @@
+{
+  "case": "wa_2025",
+  "collections": {
+    "HAND_proxy": "NASA/NASADEM_HGT/001 elev - focalMin(radius) < 5m",
+    "nisar_flood": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/flood_nisar_polygons",
+    "opera_dswx_hls": "catalog:OPERA/DSWX/L3_V1/HLS @ 2025-12-15,2025-12-17 (no 2025-12-16 granule exists)",
+    "opera_dswx_s1": "catalog:OPERA/DSWX/L3_V1/S1 @ 2025-12-15,2025-12-17 (no 2025-12-16 granule exists)"
+  },
+  "computed_at": "2026-11-14T22:13:22.091620+00:00",
+  "event_date": "2025-12-10",
+  "metrics": {
+    "cloud_pct": 92.89292282546754,
+    "cloud_pct_source": "OPERA DSWx-HLS cloud class (WTR 253) 2025-12-15/17 over the AOI",
+    "confusion": {
+      "fn": 60704,
+      "fp": 38086,
+      "tp": 8777
+    },
+    "confusion_raw": {
+      "fn": 1186683.7058823535,
+      "fp": 37576,
+      "observed_px": 16253323.654901965,
+      "tp": 9287
+    },
+    "f1": 0.1508801485250636,
+    "f1_raw": 0.014944879521764607,
+    "hand_best_radius_m": 1000,
+    "hand_validation": 0.9751807438686789,
+    "hand_validation_radii": {
+      "1000": 0.00975180743868679,
+      "1500": 0.00938195579408305,
+      "3000": 0.0075653966720609705
+    },
+    "hls_confusion": {
+      "fn": 603407.9843137254,
+      "fp": 34,
+      "observed_px": 1523069.0509803928,
+      "tp": 8137
+    },
+    "hls_f1": 0.02626041672625543,
+    "hls_iou": 0.013304904531882858,
+    "hls_method": "all water, OPERA DSWx-HLS (optical) 2025-12-15/17, cloud-free pixels only; 92.9% cloud -> reference mostly unobserved; not comparable to iou/f1",
+    "hls_opera_dates": [
+      "2025-12-15",
+      "2025-12-17"
+    ],
+    "hls_opera_scenes": 6,
+    "iou": 0.08159565666049996,
+    "iou_raw": 0.007528697499424659,
+    "opera_dates": [
+      "2025-12-15",
+      "2025-12-17"
+    ],
+    "opera_scenes": 5,
+    "precision": 0.18729061306361094,
+    "precision_raw": 0.1981733990568252,
+    "recall": 0.1263223039392064,
+    "recall_raw": 0.007765240364435442,
+    "validation_method": "like-for-like: NISAR new-flood mask vs OPERA DSWx-S1 new flood (water on 2025-12-15/17 AND NOT water 2025-12-01..07), cloud-free on both dates; NISAR swath ~ AOI",
+    "validation_method_raw": "all water: NISAR flood mask vs every OPERA DSWx-S1 water pixel 2025-12-15/17 over the AOI (includes permanent/pre-existing water, so FN is inflated)",
+    "confusion_km2": {
+      "fn": 36.4764,
+      "fp": 22.8855,
+      "tp": 5.274
+    },
+    "confusion_raw_km2": {
+      "fn": 713.0665,
+      "fp": 22.579,
+      "observed_px": 9766.461,
+      "tp": 5.5805
+    },
+    "hls_confusion_km2": {
+      "fn": 362.5819,
+      "fp": 0.0204,
+      "observed_px": 915.1971,
+      "tp": 4.8894
+    },
+    "validation_area_note": "confusion/confusion_raw/hls_confusion are OPERA DSWx pixel counts on the 0.0002694933 deg/px EE reduceRegion lattice (30 m nominal); in EPSG:4326 at the wa_2025 AOI-mean latitude 47.75 N one lattice pixel is ~600 m2 geodesic (0.000600 km2), NOT 900 m2 — *_km2 companions = px x geodesic pixel area at the AOI-mean latitude. data/wa_2025/opera_validation.json legend km2 is already per-row geodesic (~598 m2 effective). IoU/F1/precision/recall are ratios of counts and are unchanged."
+  }
+}

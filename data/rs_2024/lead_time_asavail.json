@@ -1,0 +1,78 @@
+{
+  "case": "rs_2024",
+  "basis": "as-available",
+  "metrics": {
+    "lead_time_median_h": 3.0,
+    "lead_time_iqr_h": [
+      3.0,
+      3.0
+    ],
+    "lead_time_n": 5612,
+    "warned_before_pct": 76.60370634354953,
+    "warned_24h_pct": 4.597291518175338,
+    "lead_time_hist": [
+      9,
+      0,
+      0,
+      0,
+      256,
+      0,
+      0,
+      0,
+      266,
+      0,
+      0,
+      0,
+      399,
+      0,
+      0,
+      0,
+      383,
+      0,
+      0,
+      0,
+      4041,
+      0,
+      0,
+      0,
+      97,
+      0,
+      0,
+      0,
+      161
+    ],
+    "lead_time_hist_bin_h": 6,
+    "lead_time_hist_from_h": -120.0,
+    "never_critical_pct": null,
+    "mode": "cluster_lead_vs_damage_anchor",
+    "n_clusters": 5612,
+    "threshold_tpi": 0.6,
+    "first_critical_time": "2024-04-27 00:00:00+00:00",
+    "event_lead_h": 51.0,
+    "official_warning_delta_h": -7.166666666666667,
+    "damage_anchor": {
+      "at": "2024-04-29T03:00:00+00:00",
+      "source": "L37 onset: first deaths of the event (2 flood deaths, Paverama) on 2024-04-29 00:00 BRT = 03:00Z. Sources: MetSul laudo https://metsul.com/wp-content/uploads/2024/06/metsul-laudo_V4_assinado.pdf ; Jornal do Comercio 2024-04-29 ; SGB https://rigeo.sgb.gov.br/bitstream/doc/25165/1/guimaraes_et_al_evento_catastrofico_serra_rs.pdf",
+      "basis": "onset"
+    },
+    "n_landslide_points": 0,
+    "lead_time_mean_h": -8.24,
+    "anchor_utc": "2024-04-29T03:00:00+00:00",
+    "anchor_basis": "onset",
+    "anchor_source": "L37 onset: first deaths of the event (2 flood deaths, Paverama) on 2024-04-29 00:00 BRT = 03:00Z. Sources: MetSul laudo https://metsul.com/wp-content/uploads/2024/06/metsul-laudo_V4_assinado.pdf ; Jornal do Comercio 2024-04-29 ; SGB https://rigeo.sgb.gov.br/bitstream/doc/25165/1/guimaraes_et_al_evento_catastrofico_serra_rs.pdf",
+    "official_warning_delta_warning_utc": "2024-04-26T16:50:00Z",
+    "official_warning_delta_reference_utc": "2024-04-27T00:00:00+00:00",
+    "official_warning_delta_basis": "official_warning_at - first_critical_time: how long before the first observed TPI_slide >= 0.6 pixel anywhere in the AOI the published official warning was issued. Warning instant = official_warning_at (INMET 2024-04-26T16:50Z for RS; the earlier Canoas municipal notice 2024-04-25T20:40Z in events/rs-2024-05.json is not used here). NWS 2025-12-06 00:10Z for WA."
+  },
+  "_null_reasons": {
+    "never_critical_pct": "Cluster mode has no never-crossing denominator: clusters are defined by ever crossing Critical; the landslide catalog has 16,027 points but none are dated",
+    "point_lead_times": "data/rs_2024/geojson/landslide_catalog.geojson has 16,027 points but none are dated: point-level lead times are undefined; fell back to cluster-lead vs damage_anchor"
+  },
+  "withdrawn": {
+    "damage_anchor": {
+      "at": "2024-04-27",
+      "source": "MetSul meteorological report commissioned by Canoas city government",
+      "note": "pre-L37 date-only anchor (noon-local convention = 2024-04-27T15:00Z); superseded by the L37 onset"
+    }
+  }
+}

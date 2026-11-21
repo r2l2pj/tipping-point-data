@@ -1,0 +1,950 @@
+{
+  "dates": [
+    "2026-09-18",
+    "2026-09-30",
+    "2026-10-12",
+    "2026-10-24",
+    "2026-10-28",
+    "2026-10-29",
+    "2026-11-02",
+    "2026-11-05"
+  ],
+  "roles": {
+    "2026-09-18": "pre pair geometry, track 010D frame 103 (first pass of the stack)",
+    "2026-09-30": "baseline (pair geometry; teammate zip pre date)",
+    "2026-10-12": "mid-Oct crest pass (pair geometry; teammate zip post date; crest ~Oct 14 at 9.93 m)",
+    "2026-10-24": "between crests (pair geometry; after the Oct-14 crest, rising toward Oct-29 flood stage)",
+    "2026-10-28": "context pass — track 060A frame 163 (ascending, other geometry)",
+    "2026-10-29": "context pass — track 082D frame 103 (descending; Uruguaiana passed flood stage this day)",
+    "2026-11-02": "context pass — track 132A frame 163 (ascending, other geometry)",
+    "2026-11-05": "post-flood-rise (pair geometry; between Oct 29 flood stage and Nov 12-13 red alert)"
+  },
+  "units": "dB (10·log10 of the linear-power mean)",
+  "areas": {
+    "corridor_darkening": {
+      "label": ">3 dB darkening Oct 24 -> Nov 5 inside the river corridor (UNGATED — no per-scene Otsu; not a flood product)",
+      "hh_db": [
+        -5.705,
+        -2.862,
+        -3.739,
+        -0.992,
+        -4.208,
+        -4.185,
+        null,
+        -5.37
+      ],
+      "hv_db": [
+        -13.151,
+        -12.184,
+        -12.132,
+        -11.7,
+        -12.524,
+        -12.508,
+        null,
+        -12.637
+      ],
+      "hh_median_db": [
+        -5.734,
+        -3.171,
+        -4.178,
+        -1.198,
+        -4.748,
+        -4.346,
+        null,
+        -5.229
+      ],
+      "hh_p10_db": [
+        -13.109,
+        -9.575,
+        -11.263,
+        -9.266,
+        -9.436,
+        -11.063,
+        null,
+        -12.964
+      ],
+      "hh_p90_db": [
+        -3.158,
+        -0.281,
+        -1.039,
+        2.062,
+        -1.649,
+        -1.615,
+        null,
+        -2.848
+      ],
+      "n_px": 489,
+      "km2": 1.76,
+      "hv_median_db": [
+        -13.31,
+        -12.648,
+        -12.413,
+        -12.081,
+        -12.728,
+        -12.613,
+        null,
+        -12.681
+      ],
+      "hv_p10_db": [
+        -21.289,
+        -18.426,
+        -18.989,
+        -17.547,
+        -19.644,
+        -20.08,
+        null,
+        -20.715
+      ],
+      "hv_p90_db": [
+        -10.086,
+        -9.401,
+        -9.653,
+        -9.348,
+        -9.885,
+        -9.802,
+        null,
+        -9.645
+      ]
+    },
+    "field_darkening": {
+      "label": ">3 dB darkening >3 km from the channel — consistent with rice-paddy irrigation, not river flood",
+      "hh_db": [
+        -6.015,
+        -3.741,
+        -4.672,
+        -2.662,
+        -4.861,
+        -4.809,
+        -6.661,
+        -7.031
+      ],
+      "hv_db": [
+        -14.08,
+        -13.158,
+        -12.933,
+        -12.786,
+        -13.517,
+        -13.408,
+        -16.347,
+        -14.115
+      ],
+      "hh_median_db": [
+        -6.5,
+        -4.448,
+        -6.311,
+        -5.383,
+        -5.183,
+        -5.062,
+        -7.348,
+        -9.43
+      ],
+      "hh_p10_db": [
+        -14.886,
+        -12.19,
+        -11.956,
+        -11.028,
+        -12.021,
+        -13.14,
+        -11.119,
+        -14.966
+      ],
+      "hh_p90_db": [
+        -2.904,
+        -0.762,
+        -1.292,
+        1.187,
+        -2.084,
+        -1.947,
+        -3.805,
+        -3.245
+      ],
+      "n_px": 4370,
+      "km2": 15.732,
+      "hv_median_db": [
+        -16.062,
+        -14.552,
+        -14.567,
+        -14.561,
+        -15.228,
+        -14.629,
+        -18.613,
+        -18.209
+      ],
+      "hv_p10_db": [
+        -21.847,
+        -19.857,
+        -19.095,
+        -18.337,
+        -20.783,
+        -21.533,
+        -22.687,
+        -21.373
+      ],
+      "hv_p90_db": [
+        -10.374,
+        -9.905,
+        -9.85,
+        -9.547,
+        -10.317,
+        -10.11,
+        -13.638,
+        -10.016
+      ]
+    },
+    "permanent_water": {
+      "label": "permanent water (JRC GSW occurrence >= 50 %)",
+      "hh_db": [
+        -15.278,
+        -14.648,
+        -14.667,
+        -14.582,
+        -15.041,
+        -15.261,
+        -18.139,
+        -15.282
+      ],
+      "hv_db": [
+        -20.737,
+        -20.309,
+        -20.348,
+        -19.996,
+        -21.346,
+        -21.471,
+        -23.931,
+        -20.526
+      ],
+      "hh_median_db": [
+        -19.01,
+        -17.596,
+        -17.777,
+        -17.582,
+        -19.568,
+        -19.98,
+        -18.127,
+        -19.192
+      ],
+      "hh_p10_db": [
+        -21.018,
+        -19.478,
+        -19.644,
+        -19.571,
+        -21.281,
+        -21.552,
+        -18.85,
+        -21.289
+      ],
+      "hh_p90_db": [
+        -16.084,
+        -15.189,
+        -15.564,
+        -15.268,
+        -15.657,
+        -15.613,
+        -17.603,
+        -15.765
+      ],
+      "n_px": 17460,
+      "km2": 62.856,
+      "hv_median_db": [
+        -23.507,
+        -22.911,
+        -22.722,
+        -22.579,
+        -25.123,
+        -25.39,
+        -23.96,
+        -23.464
+      ],
+      "hv_p10_db": [
+        -24.888,
+        -24.248,
+        -24.062,
+        -23.918,
+        -26.169,
+        -26.529,
+        -24.542,
+        -24.842
+      ],
+      "hv_p90_db": [
+        -21.834,
+        -21.278,
+        -21.298,
+        -20.94,
+        -23.033,
+        -23.153,
+        -23.367,
+        -21.552
+      ]
+    },
+    "zip_teammate": {
+      "label": "teammate zip change polygons (cross-check only)",
+      "hh_db": [
+        -8.765,
+        -5.842,
+        -15.282,
+        -7.265,
+        -8.203,
+        -11.461,
+        null,
+        -6.508
+      ],
+      "hv_db": [
+        -18.366,
+        -15.098,
+        -21.131,
+        -15.017,
+        -17.492,
+        -19.967,
+        null,
+        -15.455
+      ],
+      "hh_median_db": [
+        -9.439,
+        -6.692,
+        -17.122,
+        -7.935,
+        -10.246,
+        -15.79,
+        null,
+        -7.714
+      ],
+      "hh_p10_db": [
+        -12.832,
+        -9.28,
+        -18.236,
+        -17.449,
+        -19.891,
+        -20.411,
+        null,
+        -11.53
+      ],
+      "hh_p90_db": [
+        -6.305,
+        -3.565,
+        -13.668,
+        -4.394,
+        -4.709,
+        -6.476,
+        null,
+        -3.77
+      ],
+      "n_px": 786,
+      "km2": 2.83,
+      "hv_median_db": [
+        -19.206,
+        -15.272,
+        -22.442,
+        -14.95,
+        -18.628,
+        -23.74,
+        null,
+        -15.621
+      ],
+      "hv_p10_db": [
+        -21.235,
+        -17.336,
+        -23.344,
+        -22.749,
+        -25.635,
+        -25.623,
+        null,
+        -19.633
+      ],
+      "hv_p90_db": [
+        -16.175,
+        -13.678,
+        -20.2,
+        -12.335,
+        -14.201,
+        -15.508,
+        null,
+        -13.375
+      ]
+    },
+    "control_urban": {
+      "label": "built-up control (Uruguaiana)",
+      "hh_db": [
+        -2.856,
+        -2.205,
+        -2.238,
+        -2.446,
+        -0.221,
+        -3.696,
+        null,
+        -3.045
+      ],
+      "hv_db": [
+        -11.726,
+        -11.117,
+        -10.843,
+        -10.869,
+        -11.452,
+        -12.199,
+        null,
+        -11.438
+      ],
+      "hh_median_db": [
+        -5.455,
+        -4.927,
+        -5.229,
+        -5.045,
+        -5.131,
+        -6.184,
+        null,
+        -5.58
+      ],
+      "hh_p10_db": [
+        -16.477,
+        -14.695,
+        -17.278,
+        -17.171,
+        -18.04,
+        -18.778,
+        null,
+        -16.858
+      ],
+      "hh_p90_db": [
+        0.394,
+        1.02,
+        1.241,
+        0.915,
+        2.816,
+        -0.633,
+        null,
+        0.204
+      ],
+      "n_px": 5840,
+      "km2": 21.024,
+      "hv_median_db": [
+        -13.136,
+        -12.414,
+        -12.558,
+        -12.16,
+        -13.248,
+        -13.372,
+        null,
+        -12.67
+      ],
+      "hv_p10_db": [
+        -22.689,
+        -21.61,
+        -22.819,
+        -22.482,
+        -24.63,
+        -24.971,
+        null,
+        -22.392
+      ],
+      "hv_p90_db": [
+        -9.324,
+        -8.836,
+        -8.216,
+        -8.529,
+        -9.081,
+        -9.626,
+        null,
+        -9.174
+      ],
+      "bbox": [
+        -57.095,
+        -29.775,
+        -57.045,
+        -29.735
+      ]
+    },
+    "control_farmland": {
+      "label": "farmland control west of Uruguaiana",
+      "hh_db": [
+        -4.996,
+        -4.255,
+        -5.073,
+        -6.104,
+        -3.657,
+        -3.24,
+        null,
+        -4.411
+      ],
+      "hv_db": [
+        -15.038,
+        -14.067,
+        -13.804,
+        -14.597,
+        -13.963,
+        -12.963,
+        null,
+        -14.047
+      ],
+      "hh_median_db": [
+        -5.05,
+        -4.638,
+        -5.397,
+        -6.832,
+        -4.033,
+        -3.364,
+        null,
+        -4.584
+      ],
+      "hh_p10_db": [
+        -9.534,
+        -8.806,
+        -9.354,
+        -10.16,
+        -8.291,
+        -7.783,
+        null,
+        -9.018
+      ],
+      "hh_p90_db": [
+        -2.989,
+        -1.905,
+        -2.858,
+        -3.686,
+        -1.369,
+        -1.065,
+        null,
+        -2.267
+      ],
+      "n_px": 29785,
+      "km2": 107.226,
+      "hv_median_db": [
+        -15.377,
+        -14.427,
+        -13.965,
+        -15.064,
+        -14.044,
+        -12.958,
+        null,
+        -14.183
+      ],
+      "hv_p10_db": [
+        -18.961,
+        -17.444,
+        -16.928,
+        -17.675,
+        -17.514,
+        -16.792,
+        null,
+        -17.535
+      ],
+      "hv_p90_db": [
+        -13.003,
+        -12.055,
+        -12.075,
+        -12.624,
+        -12.151,
+        -11.078,
+        null,
+        -12.334
+      ],
+      "bbox": [
+        -57.2,
+        -29.55,
+        -57.1,
+        -29.45
+      ]
+    },
+    "control_interior": {
+      "label": "interior control north of Uruguaiana",
+      "hh_db": [
+        -4.034,
+        -2.898,
+        -2.971,
+        -3.347,
+        -3.007,
+        -2.569,
+        null,
+        -3.286
+      ],
+      "hv_db": [
+        -11.133,
+        -10.942,
+        -10.374,
+        -10.776,
+        -10.77,
+        -10.663,
+        null,
+        -10.806
+      ],
+      "hh_median_db": [
+        -4.035,
+        -3.576,
+        -4.683,
+        -5.945,
+        -3.359,
+        -3.036,
+        null,
+        -3.707
+      ],
+      "hh_p10_db": [
+        -7.468,
+        -8.669,
+        -9.372,
+        -10.041,
+        -8.239,
+        -7.785,
+        null,
+        -8.292
+      ],
+      "hh_p90_db": [
+        -2.226,
+        -0.064,
+        0.358,
+        0.267,
+        -0.47,
+        -0.107,
+        null,
+        -0.843
+      ],
+      "n_px": 29970,
+      "km2": 107.892,
+      "hv_median_db": [
+        -13.084,
+        -13.956,
+        -13.279,
+        -14.196,
+        -13.705,
+        -12.705,
+        null,
+        -13.352
+      ],
+      "hv_p10_db": [
+        -16.044,
+        -16.622,
+        -16.401,
+        -17.169,
+        -16.623,
+        -15.83,
+        null,
+        -15.967
+      ],
+      "hv_p90_db": [
+        -8.237,
+        -7.733,
+        -7.161,
+        -7.439,
+        -7.514,
+        -7.664,
+        null,
+        -7.756
+      ],
+      "bbox": [
+        -57.16,
+        -29.22,
+        -57.06,
+        -29.12
+      ]
+    }
+  },
+  "frames": [
+    {
+      "date": "2026-09-18",
+      "layer_id": "nisar_hh_20260918",
+      "polarization": "HH",
+      "png": "rs_uruguai_2026/png/nisar_hh_20260918.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "layer_id": "nisar_hh_20260930",
+      "polarization": "HH",
+      "png": "rs_uruguai_2026/png/nisar_hh_20260930.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "layer_id": "nisar_hh_20261012",
+      "polarization": "HH",
+      "png": "rs_uruguai_2026/png/nisar_hh_20261012.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "layer_id": "nisar_hh_20261024",
+      "polarization": "HH",
+      "png": "rs_uruguai_2026/png/nisar_hh_20261024.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "layer_id": "nisar_hh_20261028",
+      "polarization": "HH",
+      "png": "rs_uruguai_2026/png/nisar_hh_20261028.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "layer_id": "nisar_hh_20261029",
+      "polarization": "HH",
+      "png": "rs_uruguai_2026/png/nisar_hh_20261029.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "layer_id": "nisar_hh_20261102",
+      "polarization": "HH",
+      "png": "rs_uruguai_2026/png/nisar_hh_20261102.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "layer_id": "nisar_hh_20261105",
+      "polarization": "HH",
+      "png": "rs_uruguai_2026/png/nisar_hh_20261105.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "layer_id": "nisar_hv_20260918",
+      "polarization": "HV",
+      "png": "rs_uruguai_2026/png/nisar_hv_20260918.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "layer_id": "nisar_hv_20260930",
+      "polarization": "HV",
+      "png": "rs_uruguai_2026/png/nisar_hv_20260930.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "layer_id": "nisar_hv_20261012",
+      "polarization": "HV",
+      "png": "rs_uruguai_2026/png/nisar_hv_20261012.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "layer_id": "nisar_hv_20261024",
+      "polarization": "HV",
+      "png": "rs_uruguai_2026/png/nisar_hv_20261024.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "layer_id": "nisar_hv_20261028",
+      "polarization": "HV",
+      "png": "rs_uruguai_2026/png/nisar_hv_20261028.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "layer_id": "nisar_hv_20261029",
+      "polarization": "HV",
+      "png": "rs_uruguai_2026/png/nisar_hv_20261029.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "layer_id": "nisar_hv_20261102",
+      "polarization": "HV",
+      "png": "rs_uruguai_2026/png/nisar_hv_20261102.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "layer_id": "nisar_hv_20261105",
+      "polarization": "HV",
+      "png": "rs_uruguai_2026/png/nisar_hv_20261105.png",
+      "bounds": [
+        -57.252403,
+        -29.851198,
+        -56.445749,
+        -29.048826
+      ]
+    }
+  ],
+  "reading": {
+    "corridor_darkening": "corridor pixels run -0.9 dB HH / 0.1 dB HV Oct 12 vs Sep 30 — the expected sign for rise toward the mid-October crest (~9.9 m at Uruguaiana on Oct 14, first damage at the 8.50 m cota). HV corroboration is modest; the identical signature in out-of-corridor fields means it is consistent with — not uniquely diagnostic of — river flooding.",
+    "field_darkening": "out-of-corridor fields run -0.9 dB HH / 0.2 dB HV Oct 12 vs Sep 30 — the same signature as the corridor; consistent with paddy flooding/sowing in Brazil's top irrigated-rice municipality (Sep-Oct flooding), never 'flood'.",
+    "permanent_water": "the Uruguay channel stays water-dark on every pass (drift -0.0 dB HH / -0.0 dB HV Oct 12 vs Sep 30) — pair radiometry is consistent; deeper values on the Oct 28-29 passes are different-incidence context, not comparable.",
+    "zip_teammate": "the teammate zip's 7 change polygons read -9.4 dB HH / -6.0 dB HV Oct 12 vs Sep 30 on our data — the SAME pair the zip claims (now confirmed NISAR GCOV provisional); they sit in interior fields >3 km from the channel — see x_overlap on geojson/flood_nisar_20261012 for the gated-polygon reproduction.",
+    "control_urban": "control varies -3.7…-0.2 dB across the passes (post vs pre -0.0) — inter-date drift, not flood-scale darkening.",
+    "control_farmland": "control varies -6.1…-3.2 dB across the passes (post vs pre -0.8) — inter-date drift, not flood-scale darkening.",
+    "control_interior": "control varies -4.0…-2.6 dB across the passes (post vs pre -0.1) — inter-date drift, not flood-scale darkening.",
+    "hypothesis": "Timeline-anchored test: the Sep 30 baseline sat below flood stage (between passes the river climbed to the ~9.9 m Oct-14 crest, then receded, then re-crossed 8.50 m on Oct 29 and crested again ~Nov 13). Expectation under 'crest flooding': HH darkening in the corridor on Oct 12 vs Sep 30, stable permanent channel, dry controls. Observed deltas per pair are in 'pairs'; gated candidates (per-scene Otsu must fire) live in geojson/flood_nisar_*.geojson; when the threshold fell back the pair yields none and the ungated Oct 24 -> Nov 5 darkening map ('radar darkening (not a flood map)') is the only published change layer — corridor vs fields, 'possible irrigation (rice)' beyond 3 km."
+  },
+  "geometry_note": "pair dates share track 010 D / frame 103 and mode 2005_DHDH_A (same looks); context dates are other tracks/incidence — cross-track levels indicative only, never differenced",
+  "status": "candidates, never confirmed",
+  "generated_at": "2026-11-15T16:12:24.654608Z",
+  "grid": {
+    "epsg": 32721,
+    "left": 475620.0,
+    "top": 6786480.0,
+    "res": 60.0,
+    "width": 1299,
+    "height": 1480,
+    "crs": "EPSG:32721",
+    "note": "60 m, snapped — post granule extent ∩ case bbox"
+  },
+  "method": "HH/HV block-averaged linear power over the AOI chunks only (tp.response_nisar.block_average); stats on the pixel set finite on both pair dates per area (context swaths cover only part of it -> NaN where uncovered)",
+  "granules": {
+    "2026-09-18": "NISAR_L2_PR_GCOV_031_010_D_103_2005_DHDH_A_20260918T215847_20260918T215922_P05023_F_F_J_001",
+    "2026-09-30": "NISAR_L2_PR_GCOV_032_010_D_103_2005_DHDH_A_20260930T215847_20260930T215922_P05023_N_F_J_001",
+    "2026-10-12": "NISAR_L2_PR_GCOV_033_010_D_103_2005_DHDH_A_20261012T215847_20261012T215922_P05023_N_F_J_001",
+    "2026-10-24": "NISAR_L2_PR_GCOV_034_010_D_103_2005_DHDH_A_20261024T215847_20261024T215922_P05036_N_F_J_001",
+    "2026-10-28": "NISAR_L2_PR_GCOV_034_060_A_163_2005_DHDH_A_20261028T094723_20261028T094757_P05036_N_F_J_001",
+    "2026-10-29": "NISAR_L2_PR_GCOV_034_082_D_103_2005_DHDH_A_20261029T215028_20261029T215103_P05036_N_F_J_001",
+    "2026-11-02": "NISAR_L2_PR_GCOV_034_132_A_163_2005_DHDH_A_20261102T093903_20261102T093938_P05036_N_F_J_001",
+    "2026-11-05": "NISAR_L2_PR_GCOV_035_010_D_103_2005_DHDH_A_20261105T215848_20261105T215922_P05036_N_F_J_001"
+  },
+  "rejected_passes": true,
+  "masks": {
+    "darkening_gt3db": "rs_uruguai_2026/cog/rs_uruguai_2026_darkening_nisar_20261105.tif",
+    "permanent_water": "rs_uruguai_2026/cog/rs_uruguai_2026_water_nisar_20261105.tif"
+  },
+  "caveats": [
+    "Only ONE same-geometry pair exists in the archive: Oct 24 -> Nov 5 on track 010 D frame 103 (verified CMR 2026-11-15; no Sep 30 / Oct 12 pass was ever produced for this frame; the next pass is ~Nov 17, after today).",
+    "The 010D f103 swath covers the corridor west of ~-56.85 only: Uruguaiana yes, Itaqui no. Itaqui-side statements rely on the context frames (060A/082D/132A), which cannot be differenced.",
+    "PROVISIONAL pre-calibration products; calibration offsets of ~1-3 dB between passes are possible (controls drift) — read changes > ~3 dB only.",
+    "Candidates, never confirmed; darkening >3 km from the channel is flagged 'possible irrigation (rice)' (Uruguaiana is Brazil's top irrigated-rice municipality; Sep-Oct is paddy flooding)."
+  ],
+  "pairs": {
+    "2026-10-12": {
+      "pre": "2026-09-30",
+      "post": "2026-10-12",
+      "threshold_db": -15.0,
+      "threshold_method": "adaptive",
+      "rejected": "water threshold at the -15 dB clamp (threshold_method 'adaptive', -15.0 dB): per-scene calibration failed — no candidates per R2 rule",
+      "flood_geojson": "rs_uruguai_2026/geojson/flood_nisar_20261012.geojson",
+      "nisar_flooded_km2_geodesic": 0.0,
+      "nisar_people_flooded": 0,
+      "features": 0,
+      "darkening_gt3db_km2_grid": 19.908,
+      "field_darkening_km2_grid": 113.497,
+      "receded_km2": 2.812,
+      "valid_km2": 2809.04,
+      "edge_dropped_components": 97,
+      "pair_mismatch": null
+    },
+    "2026-10-24": {
+      "pre": "2026-09-30",
+      "post": "2026-10-24",
+      "threshold_db": -15.0,
+      "threshold_method": "fallback",
+      "rejected": "water threshold at the -15 dB clamp (threshold_method 'fallback', -15.0 dB): per-scene calibration failed — no candidates per R2 rule",
+      "flood_geojson": "rs_uruguai_2026/geojson/flood_nisar_20261024.geojson",
+      "nisar_flooded_km2_geodesic": 0.0,
+      "nisar_people_flooded": 0,
+      "features": 0,
+      "darkening_gt3db_km2_grid": 5.515,
+      "field_darkening_km2_grid": 172.786,
+      "receded_km2": 3.524,
+      "valid_km2": 2807.59,
+      "edge_dropped_components": 167,
+      "pair_mismatch": null
+    },
+    "2026-11-05": {
+      "pre": "2026-09-30",
+      "post": "2026-11-05",
+      "threshold_db": -15.0,
+      "threshold_method": "fallback",
+      "rejected": "water threshold at the -15 dB clamp (threshold_method 'fallback', -15.0 dB): per-scene calibration failed — no candidates per R2 rule",
+      "flood_geojson": "rs_uruguai_2026/geojson/flood_nisar_20261105.geojson",
+      "nisar_flooded_km2_geodesic": 0.0,
+      "nisar_people_flooded": 0,
+      "features": 0,
+      "darkening_gt3db_km2_grid": 1.998,
+      "field_darkening_km2_grid": 60.79,
+      "receded_km2": 12.514,
+      "valid_km2": 2808.979,
+      "edge_dropped_components": 93,
+      "pair_mismatch": null
+    }
+  },
+  "pair": {
+    "pre": "2026-09-30",
+    "post": "2026-10-12",
+    "threshold_db": -15.0,
+    "threshold_method": "adaptive",
+    "rejected": "water threshold at the -15 dB clamp (threshold_method 'adaptive', -15.0 dB): per-scene calibration failed — no candidates per R2 rule",
+    "flood_geojson": "rs_uruguai_2026/geojson/flood_nisar_20261012.geojson",
+    "nisar_flooded_km2_geodesic": 0.0,
+    "nisar_people_flooded": 0,
+    "features": 0,
+    "darkening_gt3db_km2_grid": 19.908,
+    "field_darkening_km2_grid": 113.497,
+    "receded_km2": 2.812,
+    "valid_km2": 2809.04,
+    "edge_dropped_components": 97,
+    "pair_mismatch": null,
+    "corridor_darkening_km2_geodesic": 1.762,
+    "field_darkening_km2": 15.732,
+    "ungated_note": "darkening layer is the Oct 24 -> Nov 5 pair; gated candidate geojsons live under geojson/flood_nisar_*"
+  }
+}

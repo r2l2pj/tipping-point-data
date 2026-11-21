@@ -1,0 +1,126 @@
+{
+  "schema": "tipping-point/gee-assets@1",
+  "assets": [
+    {
+      "name": "municipal_boundaries",
+      "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/municipal_boundaries",
+      "kind": "table",
+      "status": "ingesting",
+      "ingested_at": "2026-11-14T20:13:43.725745Z",
+      "features": 260,
+      "source": "/home/lucascoelho/code/r2l2pj/tipping-point-data/intermediate/wa_2025/municipal_boundaries.geojson",
+      "parts": [
+        {
+          "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/municipal_boundaries/part00",
+          "features": 50,
+          "status": "ingesting",
+          "operation": "YB2R6XYKVI6AA2WH3JGCUAOQ"
+        },
+        {
+          "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/municipal_boundaries/part01",
+          "features": 196,
+          "status": "ingesting",
+          "operation": "36GPIFBO45RANEX262K5DNVJ"
+        },
+        {
+          "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/municipal_boundaries/part02",
+          "features": 14,
+          "status": "ingesting",
+          "operation": "4TAW46EPS77G2BG64F5CPXUQ"
+        }
+      ]
+    },
+    {
+      "name": "landslide_catalog",
+      "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/landslide_catalog",
+      "kind": "table",
+      "status": "ingesting",
+      "ingested_at": "2026-11-14T20:13:51.394839Z",
+      "features": 15,
+      "source": "/home/lucascoelho/code/r2l2pj/tipping-point-data/intermediate/wa_2025/landslide_catalog.geojson",
+      "operation": "TUHJTPIZKHUFTUGKHWB65LUE"
+    },
+    {
+      "name": "flood_nisar_polygons",
+      "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/flood_nisar_polygons",
+      "kind": "table",
+      "features": 125,
+      "source": "intermediate/wa_2025/wa_2025_flood_nisar_20251210.geojson",
+      "status": "ingesting",
+      "ingested_at": "2026-11-14T20:15:36.710318Z",
+      "operation": "JODLVZLQBISIAGAAA5MHJPI2"
+    },
+    {
+      "name": "water_nisar_polygons",
+      "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/water_nisar_polygons",
+      "kind": "table",
+      "features": 30999,
+      "source": "intermediate/wa_2025/wa_2025_water_nisar_20251210.geojson",
+      "status": "ingesting",
+      "ingested_at": "2026-11-14T20:21:30.755791Z",
+      "parts": [
+        {
+          "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/water_nisar_polygons/part00",
+          "features": 2765,
+          "status": "ingesting",
+          "operation": "2Z2YPWRXCBO7AHGMKVVPO6XF"
+        },
+        {
+          "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/water_nisar_polygons/part01",
+          "features": 3531,
+          "status": "ingesting",
+          "operation": "DWTM7J5V7VAV2H7DMKAHDFO3"
+        },
+        {
+          "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/water_nisar_polygons/part02",
+          "features": 4015,
+          "status": "ingesting",
+          "operation": "Q2JSWH5XDNO5GWEJLFJS5V3M"
+        },
+        {
+          "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/water_nisar_polygons/part03",
+          "features": 4110,
+          "status": "ingesting",
+          "operation": "OXY6ZISVIRECZE5JEDSWQAAN"
+        },
+        {
+          "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/water_nisar_polygons/part04",
+          "features": 3446,
+          "status": "ingesting",
+          "operation": "GIVT5IJOZV6S5XHGX7Q4Y623"
+        },
+        {
+          "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/water_nisar_polygons/part05",
+          "features": 2589,
+          "status": "ingesting",
+          "operation": "Q7VXP4AACKHY3IRZBHSGPXV2"
+        },
+        {
+          "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/water_nisar_polygons/part06",
+          "features": 2065,
+          "status": "ingesting",
+          "operation": "LBE2ESGMOIWBJT7JJ4UCHCIC"
+        },
+        {
+          "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/water_nisar_polygons/part07",
+          "features": 2965,
+          "status": "ingesting",
+          "operation": "42MEJNGSBOOW3JEAEOC4G7P4"
+        },
+        {
+          "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/water_nisar_polygons/part08",
+          "features": 4176,
+          "status": "ingesting",
+          "operation": "NGWUV67TXCFOUOGC2QKA2QNA"
+        },
+        {
+          "gee_id": "projects/jovial-idiom-514715-j8/assets/tipping-point/wa_2025/water_nisar_polygons/part09",
+          "features": 1337,
+          "status": "ingesting",
+          "operation": "QGQBZ4CVX2UV4PG4F5F4BGDZ"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-11-14T20:21:30.831642Z"
+}
